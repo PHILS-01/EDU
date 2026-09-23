@@ -1,0 +1,26 @@
+[
+  {
+    "id": "art-01",
+    "subject": "FINE_ART",
+    "title": "Colors and Mixing",
+    "description": "Learn what happens when colors mix.",
+    "ageMin": 6,
+    "ageMax": 8,
+    "questions": [
+      { "id": "q1", "prompt": "Blue + Yellow = ?", "choices": ["Green", "Orange", "Purple", "Brown"], "correctIndex": 0 },
+      { "id": "q2", "prompt": "Red + Blue = ?", "choices": ["Purple", "Green", "Pink", "Black"], "correctIndex": 0 },
+      { "id": "q3", "prompt": "Which are primary colors?", "choices": ["Red, Green, Purple", "Red, Blue, Yellow", "Orange, Green, Pink", "Black, White, Grey"], "correctIndex": 1 }
+    ]
+  },
+  {
+    "id": "art-02",
+    "subject": "FINE_ART",
+    "title": "Shapes in Art",
+    "description": "Spotting shapes used in drawings.",
+    "ageMin": 6,
+    "ageMax": 8,
+    "questions": [
+      { "id": "q1", "prompt": "A sun is often drawn as a...", "choices": ["Circle", "Square", "Triangle", "Rectangle"], "correctIndex": 0 }
+    ]
+  }
+]
