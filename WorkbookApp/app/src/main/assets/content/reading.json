@@ -1,0 +1,27 @@
+[
+  {
+    "id": "read-01",
+    "subject": "READING",
+    "title": "Short Story: The Lost Kitten",
+    "description": "Read the short passage, then answer the questions.",
+    "ageMin": 6,
+    "ageMax": 8,
+    "questions": [
+      { "id": "q1", "prompt": "Tom saw a small kitten near the tree. What did Tom see?", "choices": ["A dog", "A kitten", "A bird", "A frog"], "correctIndex": 1 },
+      { "id": "q2", "prompt": "Where was the kitten?", "choices": ["Near the tree", "In the house", "On the roof", "In the car"], "correctIndex": 0 },
+      { "id": "q3", "prompt": "The kitten looked... ", "choices": ["Angry", "Lost", "Sleepy", "Tall"], "correctIndex": 1 }
+    ]
+  },
+  {
+    "id": "read-02",
+    "subject": "READING",
+    "title": "Reading for Meaning",
+    "description": "Pick the word that means the same thing.",
+    "ageMin": 6,
+    "ageMax": 8,
+    "questions": [
+      { "id": "q1", "prompt": "Which word means the same as 'happy'?", "choices": ["Sad", "Glad", "Tired", "Cold"], "correctIndex": 1 },
+      { "id": "q2", "prompt": "Which word means the same as 'big'?", "choices": ["Large", "Tiny", "Fast", "Quiet"], "correctIndex": 0 }
+    ]
+  }
+]
