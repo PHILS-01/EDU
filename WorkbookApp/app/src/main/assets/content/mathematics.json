@@ -1,0 +1,8290 @@
+[
+  {
+    "id": "math-01",
+    "subject": "MATHEMATICS",
+    "title": "Numbers to 10",
+    "description": "Counting and recognising numbers up to 10.",
+    "notes": "Counting means saying number names in order and matching each one to an object, one at a time. Numbers 1-10 tell us how many things are in a group.",
+    "examples": [
+      "●●● is 3 dots, so we count 3.",
+      "🍎🍎🍎🍎🍎 is 5 apples."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "6",
+          "1",
+          "2",
+          "3"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "1",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "1",
+          "4",
+          "3",
+          "2"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "2",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "2",
+          "4",
+          "3",
+          "5"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "3",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "3",
+          "5",
+          "6",
+          "4"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "4",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "7",
+          "6",
+          "5",
+          "4"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "5",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "6",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "9",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "7",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "10",
+          "7",
+          "9",
+          "8"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "8",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "8",
+          "10",
+          "9",
+          "13"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "9",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "How many dots are shown?",
+        "choices": [
+          "9",
+          "10",
+          "7",
+          "14"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "dots",
+          "params": {
+            "count": "10",
+            "color": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "Which number comes right after 1?",
+        "choices": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Which number comes right after 2?",
+        "choices": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Which number comes right after 3?",
+        "choices": [
+          "5",
+          "2",
+          "4",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Which number comes right after 4?",
+        "choices": [
+          "4",
+          "3",
+          "6",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which number comes right after 5?",
+        "choices": [
+          "7",
+          "5",
+          "6",
+          "4"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Which number comes right after 6?",
+        "choices": [
+          "7",
+          "6",
+          "5",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Which number comes right after 7?",
+        "choices": [
+          "9",
+          "7",
+          "8",
+          "6"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Which number comes right after 8?",
+        "choices": [
+          "9",
+          "8",
+          "7",
+          "10"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Which number comes right after 9?",
+        "choices": [
+          "10",
+          "11",
+          "9",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Which number comes right after 10?",
+        "choices": [
+          "12",
+          "9",
+          "11",
+          "10"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-02",
+    "subject": "MATHEMATICS",
+    "title": "Numbers to 20",
+    "description": "Counting, ordering and comparing numbers up to 20.",
+    "notes": "Numbers keep going past 10: after 10 comes 11, 12, 13, all the way to 20. Each number is one more than the number before it.",
+    "examples": [
+      "11 is one more than 10.",
+      "17 comes right after 16."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which number is one more than 10?",
+        "choices": [
+          "11",
+          "12",
+          "9",
+          "10"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Which number is one more than 11?",
+        "choices": [
+          "11",
+          "10",
+          "13",
+          "12"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Which number is one more than 12?",
+        "choices": [
+          "12",
+          "13",
+          "14",
+          "11"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Which number is one more than 13?",
+        "choices": [
+          "14",
+          "12",
+          "15",
+          "13"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which number is one more than 14?",
+        "choices": [
+          "13",
+          "14",
+          "15",
+          "16"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which number is one more than 15?",
+        "choices": [
+          "17",
+          "15",
+          "16",
+          "14"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which number is one more than 16?",
+        "choices": [
+          "16",
+          "17",
+          "15",
+          "18"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Which number is one more than 17?",
+        "choices": [
+          "19",
+          "18",
+          "16",
+          "17"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which number is one more than 18?",
+        "choices": [
+          "17",
+          "19",
+          "20",
+          "18"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Which number is one more than 19?",
+        "choices": [
+          "18",
+          "19",
+          "20",
+          "21"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Which number is bigger: 1 or 11?",
+        "choices": [
+          "1",
+          "11",
+          "Can't tell",
+          "They are equal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Which number is bigger: 3 or 13?",
+        "choices": [
+          "Can't tell",
+          "3",
+          "They are equal",
+          "13"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Which number is bigger: 5 or 15?",
+        "choices": [
+          "5",
+          "15",
+          "They are equal",
+          "Can't tell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Which number is bigger: 7 or 17?",
+        "choices": [
+          "7",
+          "They are equal",
+          "17",
+          "Can't tell"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Which number is bigger: 9 or 19?",
+        "choices": [
+          "19",
+          "Can't tell",
+          "9",
+          "They are equal"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which number is bigger: 11 or 1?",
+        "choices": [
+          "Can't tell",
+          "11",
+          "They are equal",
+          "1"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Which number is bigger: 13 or 3?",
+        "choices": [
+          "13",
+          "They are equal",
+          "Can't tell",
+          "3"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which number is bigger: 15 or 5?",
+        "choices": [
+          "They are equal",
+          "5",
+          "Can't tell",
+          "15"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Which number is bigger: 17 or 7?",
+        "choices": [
+          "7",
+          "Can't tell",
+          "17",
+          "They are equal"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Which number is bigger: 19 or 9?",
+        "choices": [
+          "19",
+          "9",
+          "Can't tell",
+          "They are equal"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "math-03",
+    "subject": "MATHEMATICS",
+    "title": "Addition within 10",
+    "description": "Adding two numbers with a total up to 10.",
+    "notes": "Addition means putting two groups together to find the total. We use the + sign, and the total is called the sum.",
+    "examples": [
+      "3 + 4 = 7 (put 3 and 4 together).",
+      "2 + 2 = 4"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "1 + 6 = ?",
+        "choices": [
+          "6",
+          "8",
+          "9",
+          "7"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "2 + 3 = ?",
+        "choices": [
+          "5",
+          "6",
+          "4",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "3 + 6 = ?",
+        "choices": [
+          "8",
+          "9",
+          "11",
+          "10"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "1 + 4 = ?",
+        "choices": [
+          "5",
+          "4",
+          "7",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "3 + 5 = ?",
+        "choices": [
+          "8",
+          "7",
+          "9",
+          "10"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "3 + 3 = ?",
+        "choices": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "3 + 1 = ?",
+        "choices": [
+          "6",
+          "3",
+          "5",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "2 + 4 = ?",
+        "choices": [
+          "5",
+          "7",
+          "8",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "1 + 3 = ?",
+        "choices": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "1 + 2 = ?",
+        "choices": [
+          "4",
+          "5",
+          "3",
+          "2"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "5 + 5 = ?",
+        "choices": [
+          "9",
+          "10",
+          "12",
+          "11"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "2 + 5 = ?",
+        "choices": [
+          "7",
+          "6",
+          "9",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "4 + 4 = ?",
+        "choices": [
+          "10",
+          "8",
+          "9",
+          "7"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "5 + 1 = ?",
+        "choices": [
+          "5",
+          "8",
+          "6",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "2 + 7 = ?",
+        "choices": [
+          "10",
+          "9",
+          "8",
+          "11"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "3 + 7 = ?",
+        "choices": [
+          "9",
+          "12",
+          "10",
+          "11"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "4 + 5 = ?",
+        "choices": [
+          "10",
+          "11",
+          "9",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "6 + 1 = ?",
+        "choices": [
+          "6",
+          "9",
+          "8",
+          "7"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "2 + 6 = ?",
+        "choices": [
+          "9",
+          "7",
+          "8",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "7 + 1 = ?",
+        "choices": [
+          "10",
+          "7",
+          "8",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q21",
+        "prompt": "4 + 1 = ?",
+        "choices": [
+          "5",
+          "4",
+          "6",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q22",
+        "prompt": "6 + 2 = ?",
+        "choices": [
+          "9",
+          "7",
+          "8",
+          "10"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-04",
+    "subject": "MATHEMATICS",
+    "title": "Addition within 20",
+    "description": "Adding two numbers with a total up to 20.",
+    "notes": "The same addition idea works with bigger numbers too - count on from the larger number to reach the total.",
+    "examples": [
+      "13 + 7 = 20",
+      "9 + 8 = 17"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "13 + 7 = ?",
+        "choices": [
+          "19",
+          "21",
+          "22",
+          "20"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "11 + 6 = ?",
+        "choices": [
+          "19",
+          "16",
+          "17",
+          "18"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "12 + 5 = ?",
+        "choices": [
+          "18",
+          "16",
+          "17",
+          "19"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "6 + 10 = ?",
+        "choices": [
+          "18",
+          "15",
+          "16",
+          "17"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "9 + 8 = ?",
+        "choices": [
+          "16",
+          "19",
+          "17",
+          "18"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "10 + 3 = ?",
+        "choices": [
+          "14",
+          "15",
+          "13",
+          "12"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "9 + 6 = ?",
+        "choices": [
+          "14",
+          "17",
+          "15",
+          "16"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "12 + 7 = ?",
+        "choices": [
+          "21",
+          "18",
+          "19",
+          "20"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "7 + 11 = ?",
+        "choices": [
+          "18",
+          "19",
+          "20",
+          "17"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "9 + 7 = ?",
+        "choices": [
+          "15",
+          "17",
+          "16",
+          "18"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "4 + 9 = ?",
+        "choices": [
+          "14",
+          "12",
+          "15",
+          "13"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "6 + 6 = ?",
+        "choices": [
+          "12",
+          "14",
+          "11",
+          "13"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "14 + 3 = ?",
+        "choices": [
+          "18",
+          "17",
+          "19",
+          "16"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "10 + 5 = ?",
+        "choices": [
+          "14",
+          "17",
+          "15",
+          "16"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "5 + 14 = ?",
+        "choices": [
+          "18",
+          "21",
+          "19",
+          "20"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "8 + 4 = ?",
+        "choices": [
+          "14",
+          "13",
+          "12",
+          "11"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "10 + 9 = ?",
+        "choices": [
+          "18",
+          "19",
+          "21",
+          "20"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "11 + 5 = ?",
+        "choices": [
+          "18",
+          "17",
+          "15",
+          "16"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "8 + 11 = ?",
+        "choices": [
+          "18",
+          "21",
+          "20",
+          "19"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "3 + 14 = ?",
+        "choices": [
+          "17",
+          "18",
+          "16",
+          "19"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q21",
+        "prompt": "3 + 12 = ?",
+        "choices": [
+          "17",
+          "14",
+          "16",
+          "15"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q22",
+        "prompt": "8 + 8 = ?",
+        "choices": [
+          "17",
+          "18",
+          "16",
+          "15"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-05",
+    "subject": "MATHEMATICS",
+    "title": "Subtraction within 10",
+    "description": "Taking away numbers with totals up to 10.",
+    "notes": "Subtraction means taking some away from a group to find what's left. We use the - sign.",
+    "examples": [
+      "5 - 3 = 2 (start with 5, take away 3).",
+      "8 - 1 = 7"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "5 - 3 = ?",
+        "choices": [
+          "2",
+          "1",
+          "4",
+          "3"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "6 - 5 = ?",
+        "choices": [
+          "3",
+          "2",
+          "0",
+          "1"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "5 - 1 = ?",
+        "choices": [
+          "6",
+          "3",
+          "5",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "10 - 10 = ?",
+        "choices": [
+          "1",
+          "5",
+          "0",
+          "2"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "10 - 6 = ?",
+        "choices": [
+          "6",
+          "5",
+          "4",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "8 - 1 = ?",
+        "choices": [
+          "7",
+          "9",
+          "6",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "10 - 2 = ?",
+        "choices": [
+          "10",
+          "9",
+          "7",
+          "8"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "9 - 3 = ?",
+        "choices": [
+          "5",
+          "6",
+          "8",
+          "7"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "10 - 9 = ?",
+        "choices": [
+          "3",
+          "0",
+          "2",
+          "1"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "9 - 6 = ?",
+        "choices": [
+          "4",
+          "5",
+          "3",
+          "2"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "10 - 7 = ?",
+        "choices": [
+          "3",
+          "4",
+          "2",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "7 - 6 = ?",
+        "choices": [
+          "1",
+          "3",
+          "2",
+          "0"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "9 - 8 = ?",
+        "choices": [
+          "2",
+          "0",
+          "3",
+          "1"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "8 - 6 = ?",
+        "choices": [
+          "1",
+          "2",
+          "4",
+          "3"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "8 - 2 = ?",
+        "choices": [
+          "5",
+          "8",
+          "6",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "8 - 5 = ?",
+        "choices": [
+          "2",
+          "5",
+          "4",
+          "3"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "6 - 4 = ?",
+        "choices": [
+          "1",
+          "3",
+          "4",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "7 - 2 = ?",
+        "choices": [
+          "5",
+          "6",
+          "7",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "6 - 1 = ?",
+        "choices": [
+          "4",
+          "6",
+          "7",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "7 - 1 = ?",
+        "choices": [
+          "7",
+          "6",
+          "5",
+          "8"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q21",
+        "prompt": "6 - 6 = ?",
+        "choices": [
+          "5",
+          "1",
+          "2",
+          "0"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q22",
+        "prompt": "3 - 3 = ?",
+        "choices": [
+          "2",
+          "1",
+          "0",
+          "5"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-06",
+    "subject": "MATHEMATICS",
+    "title": "Subtraction within 20",
+    "description": "Taking away numbers with totals up to 20.",
+    "notes": "Subtracting with bigger numbers works the same way - count back from the first number.",
+    "examples": [
+      "14 - 5 = 9",
+      "20 - 6 = 14"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "14 - 5 = ?",
+        "choices": [
+          "9",
+          "8",
+          "11",
+          "10"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "18 - 6 = ?",
+        "choices": [
+          "13",
+          "11",
+          "12",
+          "14"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "16 - 6 = ?",
+        "choices": [
+          "9",
+          "11",
+          "10",
+          "12"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "13 - 4 = ?",
+        "choices": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "13 - 11 = ?",
+        "choices": [
+          "1",
+          "4",
+          "2",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "12 - 4 = ?",
+        "choices": [
+          "7",
+          "10",
+          "8",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "18 - 11 = ?",
+        "choices": [
+          "9",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "20 - 11 = ?",
+        "choices": [
+          "11",
+          "10",
+          "9",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "17 - 11 = ?",
+        "choices": [
+          "8",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "17 - 7 = ?",
+        "choices": [
+          "9",
+          "11",
+          "12",
+          "10"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "19 - 2 = ?",
+        "choices": [
+          "19",
+          "18",
+          "16",
+          "17"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "13 - 3 = ?",
+        "choices": [
+          "10",
+          "9",
+          "11",
+          "12"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "12 - 9 = ?",
+        "choices": [
+          "5",
+          "2",
+          "4",
+          "3"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "14 - 8 = ?",
+        "choices": [
+          "8",
+          "7",
+          "5",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "20 - 5 = ?",
+        "choices": [
+          "14",
+          "17",
+          "16",
+          "15"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "14 - 9 = ?",
+        "choices": [
+          "6",
+          "5",
+          "7",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "20 - 10 = ?",
+        "choices": [
+          "11",
+          "9",
+          "10",
+          "12"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "13 - 10 = ?",
+        "choices": [
+          "4",
+          "2",
+          "5",
+          "3"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "16 - 7 = ?",
+        "choices": [
+          "9",
+          "10",
+          "11",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "15 - 7 = ?",
+        "choices": [
+          "10",
+          "7",
+          "8",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q21",
+        "prompt": "20 - 6 = ?",
+        "choices": [
+          "14",
+          "16",
+          "15",
+          "13"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q22",
+        "prompt": "13 - 6 = ?",
+        "choices": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "math-07",
+    "subject": "MATHEMATICS",
+    "title": "Addition & Subtraction Word Problems",
+    "description": "Solve everyday story problems.",
+    "notes": "Story problems hide an addition or subtraction inside. Words like 'more' or 'in total' mean add; words like 'left' or 'gave away' mean subtract.",
+    "examples": [
+      "Noah has 8 stickers and finds 1 more: 8 + 1 = 9.",
+      "Mia had 10 grapes and ate 3: 10 - 3 = 7."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Noah has 8 stickers and finds 1 more. How many stickers now?",
+        "choices": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Leo has 3 flowers and finds 6 more. How many flowers now?",
+        "choices": [
+          "9",
+          "8",
+          "10",
+          "11"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Ravi has 5 apples and finds 1 more. How many apples now?",
+        "choices": [
+          "5",
+          "7",
+          "8",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Leo has 8 cars and finds 2 more. How many cars now?",
+        "choices": [
+          "11",
+          "9",
+          "10",
+          "12"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Sam has 8 marbles and finds 1 more. How many marbles now?",
+        "choices": [
+          "8",
+          "11",
+          "9",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Ravi has 5 marbles and finds 1 more. How many marbles now?",
+        "choices": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Ravi has 8 coins and finds 1 more. How many coins now?",
+        "choices": [
+          "11",
+          "8",
+          "10",
+          "9"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Sam has 4 apples and finds 5 more. How many apples now?",
+        "choices": [
+          "11",
+          "10",
+          "8",
+          "9"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Zoe has 3 stickers and finds 5 more. How many stickers now?",
+        "choices": [
+          "10",
+          "8",
+          "7",
+          "9"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Mia has 3 stickers and finds 4 more. How many stickers now?",
+        "choices": [
+          "6",
+          "9",
+          "7",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Noah has 3 marbles and finds 1 more. How many marbles now?",
+        "choices": [
+          "6",
+          "5",
+          "3",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "Ravi has 9 balloons and finds 7 more. How many balloons now?",
+        "choices": [
+          "15",
+          "16",
+          "18",
+          "17"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Noah had 14 cookies and gave away 8. How many cookies are left?",
+        "choices": [
+          "8",
+          "5",
+          "7",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Noah had 8 pencils and gave away 7. How many pencils are left?",
+        "choices": [
+          "2",
+          "3",
+          "0",
+          "1"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Ana had 6 balloons and gave away 5. How many balloons are left?",
+        "choices": [
+          "1",
+          "3",
+          "0",
+          "2"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Priya had 12 flowers and gave away 6. How many flowers are left?",
+        "choices": [
+          "6",
+          "7",
+          "8",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Omar had 9 cookies and gave away 2. How many cookies are left?",
+        "choices": [
+          "8",
+          "7",
+          "9",
+          "6"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Leo had 11 flowers and gave away 3. How many flowers are left?",
+        "choices": [
+          "10",
+          "9",
+          "7",
+          "8"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Noah had 12 stickers and gave away 7. How many stickers are left?",
+        "choices": [
+          "7",
+          "6",
+          "4",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Maya had 13 marbles and gave away 10. How many marbles are left?",
+        "choices": [
+          "5",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q21",
+        "prompt": "Noah had 10 shells and gave away 8. How many shells are left?",
+        "choices": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q22",
+        "prompt": "Ravi had 6 cookies and gave away 1. How many cookies are left?",
+        "choices": [
+          "5",
+          "7",
+          "6",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q23",
+        "prompt": "Priya had 15 cookies and gave away 2. How many cookies are left?",
+        "choices": [
+          "14",
+          "15",
+          "12",
+          "13"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q24",
+        "prompt": "Maya had 15 pencils and gave away 10. How many pencils are left?",
+        "choices": [
+          "7",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-08",
+    "subject": "MATHEMATICS",
+    "title": "2D Shapes",
+    "description": "Naming and describing flat shapes.",
+    "notes": "Flat shapes are called 2D shapes. Count the sides and corners to tell them apart.",
+    "examples": [
+      "A triangle has 3 sides and 3 corners.",
+      "A circle has no straight sides at all."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Look at the shape below. What shape is it?",
+        "choices": [
+          "Star",
+          "Rectangle",
+          "Square",
+          "Triangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "Look at the shape below. What shape is it?",
+        "choices": [
+          "Rectangle",
+          "Star",
+          "Square",
+          "Triangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "Look at the shape below. What shape is it?",
+        "choices": [
+          "Star",
+          "Oval",
+          "Triangle",
+          "Rectangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "Look at the shape below. What shape is it?",
+        "choices": [
+          "Rectangle",
+          "Oval",
+          "Circle",
+          "Square"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "Look at the shape below. What shape is it?",
+        "choices": [
+          "Oval",
+          "Hexagon",
+          "Square",
+          "Circle"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "hexagon",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "Look at the shape below. What shape is it?",
+        "choices": [
+          "Oval",
+          "Circle",
+          "Rectangle",
+          "Star"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "oval",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "Look at the shape below. What shape is it?",
+        "choices": [
+          "Oval",
+          "Square",
+          "Star",
+          "Circle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "star",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "Which shape has 3 straight sides?",
+        "choices": [
+          "Triangle",
+          "Circle",
+          "Star",
+          "Oval"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which shape has 4 equal sides?",
+        "choices": [
+          "Square",
+          "Hexagon",
+          "Star",
+          "Circle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Which shape has 4 sides, opposite ones equal?",
+        "choices": [
+          "Triangle",
+          "Square",
+          "Rectangle",
+          "Star"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Which shape has no straight sides, perfectly round?",
+        "choices": [
+          "Square",
+          "Star",
+          "Triangle",
+          "Circle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "Which shape has 6 straight sides?",
+        "choices": [
+          "Star",
+          "Hexagon",
+          "Rectangle",
+          "Circle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Which shape has a stretched-out circle?",
+        "choices": [
+          "Circle",
+          "Triangle",
+          "Rectangle",
+          "Oval"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Which shape has 5 points?",
+        "choices": [
+          "Star",
+          "Hexagon",
+          "Square",
+          "Triangle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "How many straight sides does a triangle have?",
+        "choices": [
+          "4",
+          "2",
+          "5",
+          "3"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "How many straight sides does a square have?",
+        "choices": [
+          "5",
+          "3",
+          "6",
+          "4"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "How many straight sides does a rectangle have?",
+        "choices": [
+          "3",
+          "4",
+          "6",
+          "5"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "How many straight sides does a circle have?",
+        "choices": [
+          "1",
+          "2",
+          "0",
+          "3"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "How many straight sides does a hexagon have?",
+        "choices": [
+          "5",
+          "7",
+          "0",
+          "6"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "hexagon",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "How many straight sides does a oval have?",
+        "choices": [
+          "0",
+          "1",
+          "2",
+          "4"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "oval",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q21",
+        "prompt": "How many straight sides does a star have?",
+        "choices": [
+          "5",
+          "7",
+          "4",
+          "6"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "star",
+            "color": "#9B6BFF"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "math-09",
+    "subject": "MATHEMATICS",
+    "title": "3D Shapes",
+    "description": "Recognising solid shapes and their everyday examples.",
+    "notes": "Solid shapes we can hold are called 3D shapes.",
+    "examples": [
+      "A ball is a sphere.",
+      "A dice is a cube."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which 3D shape looks like a ball?",
+        "choices": [
+          "Sphere",
+          "Cone",
+          "Cube",
+          "Pyramid"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Which 3D shape looks like a dice?",
+        "choices": [
+          "Cube",
+          "Cone",
+          "Cuboid",
+          "Sphere"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Which 3D shape looks like a can of soup?",
+        "choices": [
+          "Sphere",
+          "Cylinder",
+          "Cuboid",
+          "Pyramid"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Which 3D shape looks like an ice-cream cone?",
+        "choices": [
+          "Cone",
+          "Pyramid",
+          "Cylinder",
+          "Sphere"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which 3D shape looks like a shoebox?",
+        "choices": [
+          "Cuboid",
+          "Cylinder",
+          "Cone",
+          "Pyramid"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Which 3D shape looks like the Egyptian pyramids?",
+        "choices": [
+          "Pyramid",
+          "Sphere",
+          "Cone",
+          "Cube"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "It is perfectly round like a ball. What shape is this?",
+        "choices": [
+          "Cube",
+          "Pyramid",
+          "Cone",
+          "Sphere"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "It has 6 flat square faces, like a dice. What shape is this?",
+        "choices": [
+          "Cuboid",
+          "Pyramid",
+          "Sphere",
+          "Cube"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "It has two flat circle ends and rolls on its side. What shape is this?",
+        "choices": [
+          "Cylinder",
+          "Cube",
+          "Sphere",
+          "Pyramid"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "It has a circle base and comes to a point. What shape is this?",
+        "choices": [
+          "Cube",
+          "Cone",
+          "Pyramid",
+          "Cuboid"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "It has 6 rectangular faces, like a box. What shape is this?",
+        "choices": [
+          "Cuboid",
+          "Cylinder",
+          "Pyramid",
+          "Cone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "It has a flat base and triangular sides meeting at a point. What shape is this?",
+        "choices": [
+          "Sphere",
+          "Pyramid",
+          "Cuboid",
+          "Cone"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "How many faces does a cube have?",
+        "choices": [
+          "8",
+          "5",
+          "6",
+          "4"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "How many faces does a cuboid have?",
+        "choices": [
+          "3",
+          "8",
+          "4",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which 3D shape can roll in every direction?",
+        "choices": [
+          "Pyramid",
+          "Cube",
+          "Cuboid",
+          "Sphere"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Which 3D shape has exactly one curved surface and two flat circle ends?",
+        "choices": [
+          "Cube",
+          "Cone",
+          "Sphere",
+          "Cylinder"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "A football is shaped like a...",
+        "choices": [
+          "Pyramid",
+          "Sphere",
+          "Cone",
+          "Cube"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "A party hat is shaped like a...",
+        "choices": [
+          "Cube",
+          "Cylinder",
+          "Sphere",
+          "Cone"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Which shape has flat square or rectangular faces and sharp corners?",
+        "choices": [
+          "Cone",
+          "Sphere",
+          "Cylinder",
+          "Cube"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "How many corners (vertices) does a cube have?",
+        "choices": [
+          "12",
+          "4",
+          "8",
+          "6"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-10",
+    "subject": "MATHEMATICS",
+    "title": "Patterns",
+    "description": "Spotting and continuing repeating and growing patterns.",
+    "notes": "A pattern repeats in the same order again and again. Find the part that repeats to work out what comes next.",
+    "examples": [
+      "🔴🔵🔴🔵🔴🔵 repeats red, blue - so next is 🔴.",
+      "1,2,1,2,1,2 - next is 1."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What comes next in the pattern? 🔴 🔵 🔴 🔵 🔴 🔵 🔴 🔵 , ___?",
+        "choices": [
+          "🟩",
+          "⭐",
+          "🟣",
+          "🔴"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "What comes next in the pattern? 🔴 🔵 🔵 🔴 🔵 🔵 🔴 🔵 🔵 , ___?",
+        "choices": [
+          "🔴",
+          "🔺",
+          "🟨",
+          "🟩"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "What comes next in the pattern? 🟩 🟨 🟥 🟩 🟨 🟥 🟩 🟨 🟥 , ___?",
+        "choices": [
+          "🍌",
+          "🟨",
+          "🟩",
+          "🍎"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "What comes next in the pattern? ⭐ ⭐ 🌙 ⭐ ⭐ 🌙 ⭐ ⭐ 🌙 , ___?",
+        "choices": [
+          "🍎",
+          "⭐",
+          "🔺",
+          "🟩"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "What comes next in the pattern? 🔺 🔺 🔵 🔺 🔺 🔵 🔺 🔺 🔵 , ___?",
+        "choices": [
+          "🍌",
+          "🔺",
+          "🟨",
+          "🟠"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "What comes next in the pattern? 🟠 🟣 🟠 🟣 🟠 🟣 🟠 🟣 , ___?",
+        "choices": [
+          "🍎",
+          "🟠",
+          "A",
+          "🔵"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What comes next in the pattern? 🍎 🍌 🍎 🍌 🍎 🍌 🍎 🍌 , ___?",
+        "choices": [
+          "🍎",
+          "🍌",
+          "⭐",
+          "🟣"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "What comes next in the pattern? A B A B A B A B , ___?",
+        "choices": [
+          "A",
+          "🟥",
+          "⭐",
+          "🌙"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "6, 7, 8, 9, ___?",
+        "choices": [
+          "11",
+          "9",
+          "10",
+          "12"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "16, 18, 20, 22, ___?",
+        "choices": [
+          "26",
+          "25",
+          "23",
+          "24"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "11, 13, 15, 17, ___?",
+        "choices": [
+          "19",
+          "21",
+          "18",
+          "20"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "8, 9, 10, 11, ___?",
+        "choices": [
+          "13",
+          "11",
+          "12",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "18, 21, 24, 27, ___?",
+        "choices": [
+          "29",
+          "33",
+          "30",
+          "31"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "2, 4, 6, 8, ___?",
+        "choices": [
+          "12",
+          "10",
+          "9",
+          "11"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "11, 12, 13, 14, ___?",
+        "choices": [
+          "16",
+          "14",
+          "15",
+          "18"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "3, 5, 7, 9, ___?",
+        "choices": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "15, 17, 19, 21, ___?",
+        "choices": [
+          "22",
+          "25",
+          "24",
+          "23"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "19, 20, 21, 22, ___?",
+        "choices": [
+          "24",
+          "22",
+          "23",
+          "20"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "13, 15, 17, 19, ___?",
+        "choices": [
+          "22",
+          "20",
+          "23",
+          "21"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "8, 11, 14, 17, ___?",
+        "choices": [
+          "21",
+          "23",
+          "20",
+          "19"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-11",
+    "subject": "MATHEMATICS",
+    "title": "Comparing Numbers",
+    "description": "Using greater than, less than and equal to.",
+    "notes": "We use > (greater than), < (less than) and = (equal) to compare two numbers. The open side of the sign faces the bigger number.",
+    "examples": [
+      "72 > 58 because 72 is bigger.",
+      "10 = 10"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which sign makes this true: 58 ___ 72?",
+        "choices": [
+          ">",
+          "<",
+          "="
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Which sign makes this true: 60 ___ 58?",
+        "choices": [
+          "=",
+          ">",
+          "<"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Which sign makes this true: 66 ___ 76?",
+        "choices": [
+          "=",
+          "<",
+          ">"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Which sign makes this true: 25 ___ 24?",
+        "choices": [
+          "<",
+          "=",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Which sign makes this true: 66 ___ 61?",
+        "choices": [
+          "<",
+          "=",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which sign makes this true: 81 ___ 79?",
+        "choices": [
+          "<",
+          "=",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which sign makes this true: 24 ___ 13?",
+        "choices": [
+          ">",
+          "<",
+          "="
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Which sign makes this true: 58 ___ 39?",
+        "choices": [
+          ">",
+          "=",
+          "<"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which sign makes this true: 19 ___ 12?",
+        "choices": [
+          "=",
+          ">",
+          "<"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Which sign makes this true: 69 ___ 89?",
+        "choices": [
+          "<",
+          ">",
+          "="
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which sign makes this true: 82 ___ 6?",
+        "choices": [
+          "<",
+          "=",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Which sign makes this true: 77 ___ 51?",
+        "choices": [
+          "=",
+          "<",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Which sign makes this true: 58 ___ 84?",
+        "choices": [
+          ">",
+          "=",
+          "<"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Which sign makes this true: 95 ___ 79?",
+        "choices": [
+          "=",
+          ">",
+          "<"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Which sign makes this true: 84 ___ 21?",
+        "choices": [
+          "<",
+          ">",
+          "="
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Which sign makes this true: 80 ___ 2?",
+        "choices": [
+          "=",
+          "<",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Which sign makes this true: 68 ___ 9?",
+        "choices": [
+          "<",
+          "=",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Which sign makes this true: 8 ___ 5?",
+        "choices": [
+          "<",
+          ">",
+          "="
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Which sign makes this true: 25 ___ 31?",
+        "choices": [
+          "=",
+          ">",
+          "<"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Which sign makes this true: 77 ___ 4?",
+        "choices": [
+          "<",
+          "=",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q21",
+        "prompt": "Which sign makes this true: 60 ___ 42?",
+        "choices": [
+          "=",
+          "<",
+          ">"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q22",
+        "prompt": "Which sign makes this true: 57 ___ 76?",
+        "choices": [
+          ">",
+          "=",
+          "<"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q23",
+        "prompt": "Which sign makes this true: 26 ___ 67?",
+        "choices": [
+          ">",
+          "<",
+          "="
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q24",
+        "prompt": "Which sign makes this true: 30 ___ 82?",
+        "choices": [
+          "=",
+          ">",
+          "<"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-12",
+    "subject": "MATHEMATICS",
+    "title": "Place Value (Tens & Ones)",
+    "description": "Breaking two-digit numbers into tens and ones.",
+    "notes": "A two-digit number has tens and ones. The first digit counts groups of ten, the second counts the leftover ones.",
+    "examples": [
+      "84 = 8 tens and 4 ones.",
+      "23 = 2 tens and 3 ones."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "In the number 84, how many tens are there?",
+        "choices": [
+          "4",
+          "7",
+          "9",
+          "8"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "In the number 95, how many tens are there?",
+        "choices": [
+          "10",
+          "8",
+          "5",
+          "9"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "In the number 36, how many tens are there?",
+        "choices": [
+          "3",
+          "4",
+          "2",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "In the number 15, how many tens are there?",
+        "choices": [
+          "5",
+          "2",
+          "1",
+          "0"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "In the number 84, how many tens are there?",
+        "choices": [
+          "7",
+          "4",
+          "8",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "In the number 89, how many tens are there?",
+        "choices": [
+          "7",
+          "9",
+          "8",
+          "13"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "In the number 48, how many tens are there?",
+        "choices": [
+          "8",
+          "5",
+          "3",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "In the number 19, how many tens are there?",
+        "choices": [
+          "9",
+          "1",
+          "0",
+          "2"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "In the number 37, how many tens are there?",
+        "choices": [
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "In the number 62, how many tens are there?",
+        "choices": [
+          "6",
+          "7",
+          "5",
+          "2"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "In the number 63, how many tens are there?",
+        "choices": [
+          "3",
+          "7",
+          "5",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "In the number 19, how many tens are there?",
+        "choices": [
+          "1",
+          "9",
+          "2",
+          "0"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "In the number 41, how many ones are there?",
+        "choices": [
+          "2",
+          "4",
+          "1",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "In the number 95, how many ones are there?",
+        "choices": [
+          "6",
+          "9",
+          "7",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "In the number 71, how many ones are there?",
+        "choices": [
+          "7",
+          "2",
+          "1",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "In the number 10, how many ones are there?",
+        "choices": [
+          "1",
+          "2",
+          "0"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "In the number 93, how many ones are there?",
+        "choices": [
+          "5",
+          "9",
+          "4",
+          "3"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "In the number 26, how many ones are there?",
+        "choices": [
+          "7",
+          "2",
+          "8",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "In the number 81, how many ones are there?",
+        "choices": [
+          "3",
+          "8",
+          "1",
+          "2"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "In the number 72, how many ones are there?",
+        "choices": [
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q21",
+        "prompt": "In the number 95, how many ones are there?",
+        "choices": [
+          "5",
+          "6",
+          "9",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q22",
+        "prompt": "In the number 92, how many ones are there?",
+        "choices": [
+          "2",
+          "4",
+          "9",
+          "3"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q23",
+        "prompt": "In the number 18, how many ones are there?",
+        "choices": [
+          "1",
+          "0",
+          "9",
+          "8"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q24",
+        "prompt": "In the number 38, how many ones are there?",
+        "choices": [
+          "9",
+          "0",
+          "3",
+          "8"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "math-13",
+    "subject": "MATHEMATICS",
+    "title": "Skip Counting by 2s",
+    "description": "Counting forward in twos.",
+    "notes": "Skip counting by 2 means adding 2 each time.",
+    "examples": [
+      "0, 2, 4, 6, 8",
+      "10, 12, 14"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "0, 2, 4, 6, ___?",
+        "choices": [
+          "9",
+          "7",
+          "10",
+          "8"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "2, 4, 6, 8, ___?",
+        "choices": [
+          "11",
+          "10",
+          "12",
+          "9"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "4, 6, 8, 10, ___?",
+        "choices": [
+          "11",
+          "13",
+          "12",
+          "14"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "6, 8, 10, 12, ___?",
+        "choices": [
+          "16",
+          "15",
+          "14",
+          "13"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "8, 10, 12, 14, ___?",
+        "choices": [
+          "17",
+          "18",
+          "16",
+          "15"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "10, 12, 14, 16, ___?",
+        "choices": [
+          "19",
+          "18",
+          "17",
+          "20"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "12, 14, 16, 18, ___?",
+        "choices": [
+          "21",
+          "20",
+          "19",
+          "22"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "14, 16, 18, 20, ___?",
+        "choices": [
+          "22",
+          "23",
+          "21",
+          "24"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "16, 18, 20, 22, ___?",
+        "choices": [
+          "25",
+          "24",
+          "26",
+          "23"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "18, 20, 22, 24, ___?",
+        "choices": [
+          "28",
+          "26",
+          "27",
+          "25"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "20, 22, 24, 26, ___?",
+        "choices": [
+          "28",
+          "27",
+          "29",
+          "30"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "22, 24, 26, 28, ___?",
+        "choices": [
+          "29",
+          "30",
+          "31",
+          "32"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "24, 26, 28, 30, ___?",
+        "choices": [
+          "34",
+          "31",
+          "33",
+          "32"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "26, 28, 30, 32, ___?",
+        "choices": [
+          "33",
+          "35",
+          "34",
+          "36"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "28, 30, 32, 34, ___?",
+        "choices": [
+          "36",
+          "35",
+          "38",
+          "37"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "30, 32, 34, 36, ___?",
+        "choices": [
+          "37",
+          "40",
+          "38",
+          "39"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "32, 34, 36, 38, ___?",
+        "choices": [
+          "40",
+          "39",
+          "41",
+          "42"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "34, 36, 38, 40, ___?",
+        "choices": [
+          "41",
+          "42",
+          "44",
+          "43"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "36, 38, 40, 42, ___?",
+        "choices": [
+          "43",
+          "45",
+          "44",
+          "46"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "38, 40, 42, 44, ___?",
+        "choices": [
+          "45",
+          "46",
+          "48",
+          "47"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "math-14",
+    "subject": "MATHEMATICS",
+    "title": "Skip Counting by 5s",
+    "description": "Counting forward in fives.",
+    "notes": "Skip counting by 5 means adding 5 each time.",
+    "examples": [
+      "0, 5, 10, 15, 20",
+      "25, 30, 35"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "0, 5, 10, ___?",
+        "choices": [
+          "14",
+          "15",
+          "20",
+          "10"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "5, 10, 15, ___?",
+        "choices": [
+          "20",
+          "15",
+          "19",
+          "25"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "10, 15, 20, ___?",
+        "choices": [
+          "24",
+          "25",
+          "30",
+          "20"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "15, 20, 25, ___?",
+        "choices": [
+          "30",
+          "29",
+          "25",
+          "35"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "20, 25, 30, ___?",
+        "choices": [
+          "40",
+          "35",
+          "34",
+          "30"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "25, 30, 35, ___?",
+        "choices": [
+          "39",
+          "35",
+          "40",
+          "45"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "30, 35, 40, ___?",
+        "choices": [
+          "44",
+          "40",
+          "50",
+          "45"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "35, 40, 45, ___?",
+        "choices": [
+          "55",
+          "50",
+          "45",
+          "49"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "40, 45, 50, ___?",
+        "choices": [
+          "50",
+          "55",
+          "60",
+          "54"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "45, 50, 55, ___?",
+        "choices": [
+          "60",
+          "65",
+          "59",
+          "55"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "50, 55, 60, ___?",
+        "choices": [
+          "70",
+          "65",
+          "64",
+          "60"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "55, 60, 65, ___?",
+        "choices": [
+          "69",
+          "65",
+          "75",
+          "70"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "60, 65, 70, ___?",
+        "choices": [
+          "80",
+          "74",
+          "70",
+          "75"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "65, 70, 75, ___?",
+        "choices": [
+          "75",
+          "79",
+          "85",
+          "80"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "70, 75, 80, ___?",
+        "choices": [
+          "85",
+          "84",
+          "80",
+          "90"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "75, 80, 85, ___?",
+        "choices": [
+          "95",
+          "85",
+          "89",
+          "90"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "80, 85, 90, ___?",
+        "choices": [
+          "94",
+          "90",
+          "100",
+          "95"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "85, 90, 95, ___?",
+        "choices": [
+          "99",
+          "100",
+          "105",
+          "95"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "90, 95, 100, ___?",
+        "choices": [
+          "104",
+          "100",
+          "110",
+          "105"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "95, 100, 105, ___?",
+        "choices": [
+          "109",
+          "110",
+          "115",
+          "105"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "math-15",
+    "subject": "MATHEMATICS",
+    "title": "Skip Counting by 10s",
+    "description": "Counting forward in tens.",
+    "notes": "Skip counting by 10 means adding 10 each time - only the tens digit changes.",
+    "examples": [
+      "0, 10, 20, 30",
+      "40, 50, 60"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "0, 10, 20, ___?",
+        "choices": [
+          "30",
+          "40",
+          "20",
+          "29"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "10, 20, 30, ___?",
+        "choices": [
+          "30",
+          "50",
+          "39",
+          "40"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "20, 30, 40, ___?",
+        "choices": [
+          "40",
+          "60",
+          "50",
+          "49"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "30, 40, 50, ___?",
+        "choices": [
+          "59",
+          "50",
+          "60",
+          "70"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "40, 50, 60, ___?",
+        "choices": [
+          "60",
+          "69",
+          "80",
+          "70"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "50, 60, 70, ___?",
+        "choices": [
+          "80",
+          "70",
+          "79",
+          "90"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "60, 70, 80, ___?",
+        "choices": [
+          "90",
+          "80",
+          "89",
+          "100"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "70, 80, 90, ___?",
+        "choices": [
+          "100",
+          "99",
+          "90",
+          "110"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "80, 90, 100, ___?",
+        "choices": [
+          "100",
+          "109",
+          "120",
+          "110"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "90, 100, 110, ___?",
+        "choices": [
+          "130",
+          "110",
+          "120",
+          "119"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "100, 110, 120, ___?",
+        "choices": [
+          "120",
+          "130",
+          "129",
+          "140"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "110, 120, 130, ___?",
+        "choices": [
+          "150",
+          "139",
+          "140",
+          "130"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "120, 130, 140, ___?",
+        "choices": [
+          "140",
+          "160",
+          "150",
+          "149"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "130, 140, 150, ___?",
+        "choices": [
+          "159",
+          "170",
+          "150",
+          "160"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "140, 150, 160, ___?",
+        "choices": [
+          "170",
+          "169",
+          "160",
+          "180"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "150, 160, 170, ___?",
+        "choices": [
+          "179",
+          "190",
+          "170",
+          "180"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "160, 170, 180, ___?",
+        "choices": [
+          "200",
+          "180",
+          "189",
+          "190"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "170, 180, 190, ___?",
+        "choices": [
+          "200",
+          "199",
+          "210",
+          "190"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "180, 190, 200, ___?",
+        "choices": [
+          "200",
+          "209",
+          "220",
+          "210"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "190, 200, 210, ___?",
+        "choices": [
+          "219",
+          "210",
+          "230",
+          "220"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "math-16",
+    "subject": "MATHEMATICS",
+    "title": "Telling Time: Hour",
+    "description": "Reading clocks to the hour.",
+    "notes": "When the minute hand points straight up at 12 and the hour hand points at a number, that number is the hour.",
+    "examples": [
+      "Hour hand on 3, minute hand on 12 = 3:00",
+      "Hour hand on 7 = 7:00"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "2:00",
+          "1:00",
+          "3:00",
+          "4:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "1",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "4:00",
+          "3:00",
+          "5:00",
+          "2:00"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "2",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "3:00",
+          "6:00",
+          "4:00",
+          "5:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "3",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "4:00",
+          "5:00",
+          "6:00",
+          "7:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "4",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "5:00",
+          "7:00",
+          "6:00",
+          "8:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "5",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "6:00",
+          "8:00",
+          "7:00",
+          "9:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "6",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "9:00",
+          "10:00",
+          "7:00",
+          "8:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "7",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "11:00",
+          "10:00",
+          "8:00",
+          "9:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "8",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "11:00",
+          "12:00",
+          "9:00",
+          "10:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "9",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "11:00",
+          "12:00",
+          "10:00",
+          "1:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "10",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "1:00",
+          "11:00",
+          "2:00",
+          "12:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "11",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "1:00",
+          "12:00",
+          "2:00",
+          "3:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "12",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "5:00",
+          "1:00",
+          "2:00",
+          "3:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "1",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "3:00",
+          "4:00",
+          "6:00",
+          "2:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "2",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "5:00",
+          "4:00",
+          "3:00",
+          "7:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "3",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "6:00",
+          "4:00",
+          "8:00",
+          "5:00"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "4",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "5:00",
+          "7:00",
+          "9:00",
+          "6:00"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "5",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "10:00",
+          "7:00",
+          "6:00",
+          "8:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "6",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "9:00",
+          "11:00",
+          "8:00",
+          "7:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "7",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "12:00",
+          "10:00",
+          "8:00",
+          "9:00"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "8",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q21",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "1:00",
+          "9:00",
+          "10:00",
+          "11:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "9",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q22",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "2:00",
+          "11:00",
+          "12:00",
+          "10:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "10",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q23",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "1:00",
+          "3:00",
+          "12:00",
+          "11:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "11",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q24",
+        "prompt": "The clock shows this time. What time will it be one hour later?",
+        "choices": [
+          "12:00",
+          "2:00",
+          "4:00",
+          "1:00"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "12",
+            "minute": "0"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "math-17",
+    "subject": "MATHEMATICS",
+    "title": "Telling Time: Half Hour",
+    "description": "Reading clocks to the half hour.",
+    "notes": "When the minute hand points at the 6, it means 'half past' - 30 minutes after the hour.",
+    "examples": [
+      "Hour hand between 3 and 4, minute hand on 6 = 3:30",
+      "7:30 means half past 7"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "2:30",
+          "1:30",
+          "1:00",
+          "2:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "1",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "3:00",
+          "3:30",
+          "2:00",
+          "2:30"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "2",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "3:30",
+          "4:30",
+          "4:00",
+          "3:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "3",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "4:30",
+          "5:00",
+          "5:30",
+          "4:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "4",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "6:00",
+          "5:30",
+          "5:00",
+          "6:30"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "5",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "7:00",
+          "7:30",
+          "6:30",
+          "6:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "6",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "7:30",
+          "8:00",
+          "8:30",
+          "7:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "7",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "9:30",
+          "9:00",
+          "8:00",
+          "8:30"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "8",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "9:00",
+          "9:30",
+          "10:00",
+          "10:30"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "9",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "11:30",
+          "10:30",
+          "10:00",
+          "11:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "10",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "11:00",
+          "12:00",
+          "12:30",
+          "11:30"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "11",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "What time does the clock show?",
+        "choices": [
+          "1:30",
+          "12:00",
+          "1:00",
+          "12:30"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "12",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 2",
+          "Half past 12",
+          "Half past 1",
+          "Half past 4"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "1",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 12",
+          "Half past 2",
+          "Half past 3",
+          "Half past 9"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "2",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 3",
+          "Half past 6",
+          "Half past 11",
+          "Half past 4"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "3",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 4",
+          "Half past 5",
+          "Half past 7",
+          "Half past 8"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "4",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 5",
+          "Half past 2",
+          "Half past 7",
+          "Half past 8"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "5",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 9",
+          "Half past 11",
+          "Half past 5",
+          "Half past 6"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "6",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 5",
+          "Half past 7",
+          "Half past 3",
+          "Half past 2"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "7",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 1",
+          "Half past 5",
+          "Half past 12",
+          "Half past 8"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "8",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q21",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 9",
+          "Half past 10",
+          "Half past 6",
+          "Half past 7"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "9",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q22",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 7",
+          "Half past 10",
+          "Half past 12",
+          "Half past 11"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "10",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q23",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 8",
+          "Half past 4",
+          "Half past 11",
+          "Half past 9"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "11",
+            "minute": "30"
+          }
+        }
+      },
+      {
+        "id": "q24",
+        "prompt": "The clock's minute hand points to 6. Which words match the time shown?",
+        "choices": [
+          "Half past 2",
+          "Half past 5",
+          "Half past 12",
+          "Half past 11"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "12",
+            "minute": "30"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "math-18",
+    "subject": "MATHEMATICS",
+    "title": "Money: Coins",
+    "description": "Recognising coins and their values.",
+    "notes": "Each coin has its own value: a penny is 1 cent, a nickel is 5 cents, a dime is 10 cents, and a quarter is 25 cents.",
+    "examples": [
+      "A nickel is worth 5 cents.",
+      "A dime is worth 10 cents."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "How many cents is a nickel worth?",
+        "choices": [
+          "10",
+          "1",
+          "25",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "How many cents is a dime worth?",
+        "choices": [
+          "1",
+          "25",
+          "5",
+          "10"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "How many cents is a penny worth?",
+        "choices": [
+          "1",
+          "25",
+          "10",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "How many cents is a quarter worth?",
+        "choices": [
+          "5",
+          "10",
+          "25",
+          "20"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "How many pennies make a nickel?",
+        "choices": [
+          "5",
+          "10",
+          "1",
+          "2"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "How many nickels make a dime?",
+        "choices": [
+          "5",
+          "10",
+          "2",
+          "1"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "How many pennies make a dime?",
+        "choices": [
+          "10",
+          "2",
+          "5",
+          "1"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Which coin is worth the most?",
+        "choices": [
+          "Quarter",
+          "Dime",
+          "Penny",
+          "Nickel"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which coin is worth the least?",
+        "choices": [
+          "Penny",
+          "Dime",
+          "Nickel",
+          "Quarter"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Two dimes are worth how many cents?",
+        "choices": [
+          "20",
+          "10",
+          "15",
+          "25"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Two nickels are worth how many cents?",
+        "choices": [
+          "5",
+          "10",
+          "15",
+          "20"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "A dime and a penny make how many cents?",
+        "choices": [
+          "6",
+          "10",
+          "11",
+          "15"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "A quarter and a dime make how many cents?",
+        "choices": [
+          "35",
+          "15",
+          "25",
+          "30"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Two quarters make how many cents?",
+        "choices": [
+          "45",
+          "25",
+          "40",
+          "50"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "A nickel and a dime make how many cents?",
+        "choices": [
+          "5",
+          "20",
+          "10",
+          "15"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Three pennies make how many cents?",
+        "choices": [
+          "1",
+          "5",
+          "3",
+          "2"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Which is worth more: a dime or a nickel?",
+        "choices": [
+          "They're equal",
+          "Can't tell",
+          "Dime",
+          "Nickel"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Which is worth more: a quarter or a dime?",
+        "choices": [
+          "They're equal",
+          "Quarter",
+          "Can't tell",
+          "Dime"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Four quarters make how many cents?",
+        "choices": [
+          "25",
+          "50",
+          "100",
+          "75"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Five pennies make how many cents?",
+        "choices": [
+          "15",
+          "10",
+          "5",
+          "1"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q21",
+        "prompt": "A dime, a nickel and a penny make how many cents?",
+        "choices": [
+          "15",
+          "6",
+          "11",
+          "16"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q22",
+        "prompt": "Which coins together make 15 cents?",
+        "choices": [
+          "Three pennies",
+          "A dime and a nickel",
+          "A quarter",
+          "Two nickels"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "math-19",
+    "subject": "MATHEMATICS",
+    "title": "Money: Simple Totals",
+    "description": "Adding coin values together.",
+    "notes": "To find a total amount of money, add up the value of every coin.",
+    "examples": [
+      "1 penny + 1 penny = 2 cents.",
+      "1 dime + 1 nickel = 15 cents."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "You have one penny and one penny. How many cents do you have?",
+        "choices": [
+          "2",
+          "0",
+          "12",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "You have one penny and one nickel. How many cents do you have?",
+        "choices": [
+          "1",
+          "6",
+          "11",
+          "16"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "You have one penny and one dime. How many cents do you have?",
+        "choices": [
+          "11",
+          "6",
+          "21",
+          "16"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "You have one penny and one quarter. How many cents do you have?",
+        "choices": [
+          "31",
+          "26",
+          "21",
+          "36"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "You have one nickel and one nickel. How many cents do you have?",
+        "choices": [
+          "10",
+          "20",
+          "15",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "You have one nickel and one dime. How many cents do you have?",
+        "choices": [
+          "25",
+          "15",
+          "10",
+          "20"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "You have one nickel and one quarter. How many cents do you have?",
+        "choices": [
+          "35",
+          "40",
+          "30",
+          "25"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "You have one dime and one dime. How many cents do you have?",
+        "choices": [
+          "25",
+          "20",
+          "15",
+          "30"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "You have one dime and one quarter. How many cents do you have?",
+        "choices": [
+          "30",
+          "45",
+          "40",
+          "35"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "You have one quarter and one quarter. How many cents do you have?",
+        "choices": [
+          "60",
+          "50",
+          "55",
+          "45"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "You have one penny, one penny and one nickel. How many cents in total?",
+        "choices": [
+          "12",
+          "2",
+          "17",
+          "7"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "You have one quarter, one dime and one dime. How many cents in total?",
+        "choices": [
+          "55",
+          "50",
+          "45",
+          "40"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "You have one nickel, one dime and one penny. How many cents in total?",
+        "choices": [
+          "26",
+          "21",
+          "16",
+          "11"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "You have one dime, one quarter and one dime. How many cents in total?",
+        "choices": [
+          "55",
+          "40",
+          "45",
+          "50"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "You have one dime, one penny and one dime. How many cents in total?",
+        "choices": [
+          "26",
+          "21",
+          "16",
+          "31"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "You have one dime, one penny and one nickel. How many cents in total?",
+        "choices": [
+          "11",
+          "21",
+          "26",
+          "16"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "You have one penny, one nickel and one penny. How many cents in total?",
+        "choices": [
+          "2",
+          "12",
+          "17",
+          "7"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "You have one quarter, one quarter and one penny. How many cents in total?",
+        "choices": [
+          "56",
+          "51",
+          "46",
+          "61"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "You have one penny, one quarter and one penny. How many cents in total?",
+        "choices": [
+          "22",
+          "27",
+          "32",
+          "37"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "You have one penny, one quarter and one quarter. How many cents in total?",
+        "choices": [
+          "46",
+          "51",
+          "56",
+          "61"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q21",
+        "prompt": "You have one quarter, one dime and one nickel. How many cents in total?",
+        "choices": [
+          "35",
+          "45",
+          "50",
+          "40"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q22",
+        "prompt": "You have one quarter, one nickel and one penny. How many cents in total?",
+        "choices": [
+          "31",
+          "36",
+          "26",
+          "41"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "math-20",
+    "subject": "MATHEMATICS",
+    "title": "Measurement: Length",
+    "description": "Comparing and estimating how long things are.",
+    "notes": "Length tells us how long or short something is. Compare two things by picturing them side by side.",
+    "examples": [
+      "A school bus is longer than a pencil.",
+      "A pencil is shorter than a door."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which is longer: a pencil or a school bus?",
+        "choices": [
+          "Pencil",
+          "Can't tell",
+          "School bus",
+          "Same length"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which is shorter: a shoe or a car?",
+        "choices": [
+          "Car",
+          "Shoe",
+          "Same length",
+          "Can't tell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "What tool do we use to measure length?",
+        "choices": [
+          "Ruler",
+          "Clock",
+          "Cup",
+          "Scale"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Which is taller: a house or a dog?",
+        "choices": [
+          "House",
+          "Same height",
+          "Dog",
+          "Can't tell"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which unit measures length?",
+        "choices": [
+          "Seconds",
+          "Centimetres",
+          "Kilograms",
+          "Litres"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Which is longer: your arm or your finger?",
+        "choices": [
+          "Finger",
+          "Can't tell",
+          "Same length",
+          "Arm"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "A worm is 8 cm and a stick is 15 cm. Which is longer?",
+        "choices": [
+          "Same length",
+          "Can't tell",
+          "The stick",
+          "The worm"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which is the best estimate for the length of a shoe?",
+        "choices": [
+          "25 cm",
+          "25 km",
+          "25 mm",
+          "25 m"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which is shorter: a snake or a bus?",
+        "choices": [
+          "Can't tell",
+          "Bus",
+          "Snake",
+          "Same length"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Which is the best estimate for the height of a door?",
+        "choices": [
+          "20 metres",
+          "2 metres",
+          "2 centimetres",
+          "2 kilometres"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Which is longer: a football field or a spoon?",
+        "choices": [
+          "Same length",
+          "Football field",
+          "Can't tell",
+          "Spoon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "How many centimetres are in a metre?",
+        "choices": [
+          "50",
+          "100",
+          "10",
+          "1000"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Which is taller: a giraffe or a cat?",
+        "choices": [
+          "Cat",
+          "Can't tell",
+          "Giraffe",
+          "Same height"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "A ribbon is 12 cm. Another is 20 cm. Which is shorter?",
+        "choices": [
+          "Same length",
+          "The 12 cm ribbon",
+          "Can't tell",
+          "The 20 cm ribbon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Which is the best tool to measure how tall you are?",
+        "choices": [
+          "A scale",
+          "A clock",
+          "A measuring tape",
+          "A thermometer"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Which is longer: a table or a book?",
+        "choices": [
+          "Book",
+          "Same length",
+          "Can't tell",
+          "Table"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Which is the best estimate for the length of a car?",
+        "choices": [
+          "4 metres",
+          "4 kilometres",
+          "4 millimetres",
+          "4 centimetres"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which is shorter: a pencil or a ruler?",
+        "choices": [
+          "Same length",
+          "Pencil",
+          "Ruler",
+          "Can't tell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Which is taller: a tree or a flower?",
+        "choices": [
+          "Tree",
+          "Same height",
+          "Flower",
+          "Can't tell"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "If a rope is longer than a pencil, the pencil is ___ than the rope.",
+        "choices": [
+          "Can't tell",
+          "The same",
+          "Longer",
+          "Shorter"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q21",
+        "prompt": "Which is the best estimate for the length of your thumb?",
+        "choices": [
+          "5 cm",
+          "5 m",
+          "50 cm",
+          "5 km"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q22",
+        "prompt": "Which is longer: a river or a puddle?",
+        "choices": [
+          "River",
+          "Same length",
+          "Can't tell",
+          "Puddle"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "math-21",
+    "subject": "MATHEMATICS",
+    "title": "Measurement: Weight",
+    "description": "Comparing and estimating how heavy things are.",
+    "notes": "Weight tells us how heavy or light something is.",
+    "examples": [
+      "An elephant is heavier than a feather.",
+      "A feather is lighter than a book."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which is heavier: an elephant or a feather?",
+        "choices": [
+          "Can't tell",
+          "Feather",
+          "Elephant",
+          "Same weight"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which is lighter: a pillow or a brick?",
+        "choices": [
+          "Brick",
+          "Pillow",
+          "Can't tell",
+          "Same weight"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "What tool do we use to weigh things?",
+        "choices": [
+          "Cup",
+          "Ruler",
+          "Scale",
+          "Clock"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Which is heavier: a bag of feathers or a bag of rocks the same size?",
+        "choices": [
+          "Bag of feathers",
+          "Same weight",
+          "Bag of rocks",
+          "Can't tell"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Which unit measures weight?",
+        "choices": [
+          "Litres",
+          "Seconds",
+          "Metres",
+          "Kilograms"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Which is lighter: a balloon or a bowling ball?",
+        "choices": [
+          "Can't tell",
+          "Bowling ball",
+          "Same weight",
+          "Balloon"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Which is heavier: a cat or a mouse?",
+        "choices": [
+          "Can't tell",
+          "Same weight",
+          "Cat",
+          "Mouse"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which is the best estimate for the weight of an apple?",
+        "choices": [
+          "100 litres",
+          "100 metres",
+          "100 grams",
+          "100 kilograms"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Which is heavier: a book or a single sheet of paper?",
+        "choices": [
+          "Can't tell",
+          "Sheet of paper",
+          "Same weight",
+          "Book"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Which is lighter: a leaf or a rock the same size?",
+        "choices": [
+          "Can't tell",
+          "Rock",
+          "Same weight",
+          "Leaf"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Which is heavier: a whale or a fish?",
+        "choices": [
+          "Same weight",
+          "Can't tell",
+          "Whale",
+          "Fish"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "If a box balances a scale evenly with another box, they are...",
+        "choices": [
+          "Empty",
+          "Broken",
+          "The same weight",
+          "Different weights"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Which is the best estimate for the weight of a school bag with books?",
+        "choices": [
+          "5 grams",
+          "5 metres",
+          "5 kilograms",
+          "5 litres"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Which is heavier: a watermelon or a grape?",
+        "choices": [
+          "Same weight",
+          "Can't tell",
+          "Watermelon",
+          "Grape"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Which is lighter: a feather or a shoe?",
+        "choices": [
+          "Same weight",
+          "Feather",
+          "Can't tell",
+          "Shoe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "How many grams are in a kilogram?",
+        "choices": [
+          "10",
+          "10000",
+          "100",
+          "1000"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Which is heavier: a bicycle or a toy car?",
+        "choices": [
+          "Same weight",
+          "Can't tell",
+          "Toy car",
+          "Bicycle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Which is the best estimate for the weight of a dog?",
+        "choices": [
+          "10 metres",
+          "10 litres",
+          "10 grams",
+          "10 kilograms"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Which is lighter: a cotton ball or a stone?",
+        "choices": [
+          "Cotton ball",
+          "Same weight",
+          "Can't tell",
+          "Stone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Which is heavier: a full backpack or an empty backpack?",
+        "choices": [
+          "Empty backpack",
+          "Full backpack",
+          "Same weight",
+          "Can't tell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q21",
+        "prompt": "Which is heavier: a horse or a rabbit?",
+        "choices": [
+          "Rabbit",
+          "Horse",
+          "Can't tell",
+          "Same weight"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q22",
+        "prompt": "Which tool would balance to compare two objects' weight?",
+        "choices": [
+          "A balance scale",
+          "A thermometer",
+          "A ruler",
+          "A clock"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "math-22",
+    "subject": "MATHEMATICS",
+    "title": "Measurement: Capacity",
+    "description": "Comparing and estimating how much liquid things hold.",
+    "notes": "Capacity is how much liquid something can hold.",
+    "examples": [
+      "A bathtub holds more than a cup.",
+      "A cup holds less than a bucket."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which holds more: a bathtub or a cup?",
+        "choices": [
+          "Cup",
+          "Can't tell",
+          "Same amount",
+          "Bathtub"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Which holds less: a spoon or a bucket?",
+        "choices": [
+          "Bucket",
+          "Same amount",
+          "Spoon",
+          "Can't tell"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Which unit measures capacity (how much liquid)?",
+        "choices": [
+          "Seconds",
+          "Metres",
+          "Kilograms",
+          "Litres"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Which holds more water: a swimming pool or a glass?",
+        "choices": [
+          "Swimming pool",
+          "Can't tell",
+          "Glass",
+          "Same amount"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which is the best estimate for a cup of juice?",
+        "choices": [
+          "250 kilograms",
+          "250 litres",
+          "250 millilitres",
+          "250 metres"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which holds less: a teaspoon or a jug?",
+        "choices": [
+          "Can't tell",
+          "Teaspoon",
+          "Same amount",
+          "Jug"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "How many millilitres are in a litre?",
+        "choices": [
+          "10000",
+          "10",
+          "1000",
+          "100"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which container would you use to measure how much milk is in a carton?",
+        "choices": [
+          "A measuring cup",
+          "A ruler",
+          "A scale",
+          "A clock"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which holds more: a water bottle or a thimble?",
+        "choices": [
+          "Same amount",
+          "Thimble",
+          "Water bottle",
+          "Can't tell"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Which holds less: a paddling pool or a bucket?",
+        "choices": [
+          "Same amount",
+          "Can't tell",
+          "Paddling pool",
+          "Bucket"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "If two cups look the same size, do they hold the same amount?",
+        "choices": [
+          "Never",
+          "Always less",
+          "Usually yes",
+          "Always more"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Which holds more: a fish tank or a fishbowl?",
+        "choices": [
+          "Same amount",
+          "Fish tank",
+          "Fishbowl",
+          "Can't tell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Which is the best estimate for a bathtub full of water?",
+        "choices": [
+          "150 kilograms",
+          "150 litres",
+          "150 millilitres",
+          "150 metres"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Which holds less: a mug or a jug?",
+        "choices": [
+          "Same amount",
+          "Can't tell",
+          "Jug",
+          "Mug"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which holds more liquid: a pond or a puddle?",
+        "choices": [
+          "Pond",
+          "Same amount",
+          "Can't tell",
+          "Puddle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which tool measures small amounts of liquid for baking?",
+        "choices": [
+          "Measuring spoon",
+          "Scale for weight only",
+          "Thermometer only",
+          "Ruler"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Which holds more: a soup bowl or a soup spoon?",
+        "choices": [
+          "Same amount",
+          "Soup bowl",
+          "Can't tell",
+          "Soup spoon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Which holds less: an ocean or a lake?",
+        "choices": [
+          "Same amount",
+          "Ocean",
+          "Can't tell",
+          "Lake"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "A full jug pours into 4 equal cups. Each cup gets a ___ of the jug.",
+        "choices": [
+          "Quarter",
+          "Half",
+          "Whole",
+          "Double"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Which holds more: a watering can or a raindrop?",
+        "choices": [
+          "Raindrop",
+          "Same amount",
+          "Can't tell",
+          "Watering can"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q21",
+        "prompt": "Which is the best estimate for a small drinking glass?",
+        "choices": [
+          "2 litres",
+          "200 litres",
+          "200 millilitres",
+          "20 litres"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q22",
+        "prompt": "Which holds less: a barrel or a bottle?",
+        "choices": [
+          "Barrel",
+          "Can't tell",
+          "Bottle",
+          "Same amount"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-23",
+    "subject": "MATHEMATICS",
+    "title": "Doubles Facts",
+    "description": "Quick recall of doubling numbers.",
+    "notes": "Doubling means adding a number to itself.",
+    "examples": [
+      "Double 1 is 1 + 1 = 2",
+      "Double 4 is 4 + 4 = 8"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Double 1 is...?",
+        "choices": [
+          "3",
+          "4",
+          "1",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Double 2 is...?",
+        "choices": [
+          "6",
+          "4",
+          "5",
+          "3"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Double 3 is...?",
+        "choices": [
+          "8",
+          "7",
+          "5",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Double 4 is...?",
+        "choices": [
+          "8",
+          "7",
+          "9",
+          "10"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Double 5 is...?",
+        "choices": [
+          "11",
+          "9",
+          "12",
+          "10"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Double 6 is...?",
+        "choices": [
+          "12",
+          "14",
+          "13",
+          "11"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "Double 7 is...?",
+        "choices": [
+          "16",
+          "15",
+          "14",
+          "13"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Double 8 is...?",
+        "choices": [
+          "15",
+          "18",
+          "16",
+          "17"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Double 9 is...?",
+        "choices": [
+          "18",
+          "20",
+          "19",
+          "17"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Double 10 is...?",
+        "choices": [
+          "19",
+          "21",
+          "20",
+          "22"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Double 11 is...?",
+        "choices": [
+          "21",
+          "23",
+          "22",
+          "24"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Double 12 is...?",
+        "choices": [
+          "23",
+          "26",
+          "25",
+          "24"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "1 + 1 = ?",
+        "choices": [
+          "0",
+          "4",
+          "1",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "2 + 2 = ?",
+        "choices": [
+          "4",
+          "2",
+          "6",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "3 + 3 = ?",
+        "choices": [
+          "6",
+          "8",
+          "3",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "4 + 4 = ?",
+        "choices": [
+          "8",
+          "6",
+          "10",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "5 + 5 = ?",
+        "choices": [
+          "8",
+          "10",
+          "12",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "6 + 6 = ?",
+        "choices": [
+          "12",
+          "10",
+          "6",
+          "14"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "7 + 7 = ?",
+        "choices": [
+          "12",
+          "16",
+          "14",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "8 + 8 = ?",
+        "choices": [
+          "18",
+          "14",
+          "8",
+          "16"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q21",
+        "prompt": "9 + 9 = ?",
+        "choices": [
+          "20",
+          "16",
+          "18",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q22",
+        "prompt": "10 + 10 = ?",
+        "choices": [
+          "22",
+          "18",
+          "20",
+          "10"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "math-24",
+    "subject": "MATHEMATICS",
+    "title": "Missing Number Equations",
+    "description": "Finding the missing number in an equation.",
+    "notes": "To find a missing number in an equation, work backwards using subtraction.",
+    "examples": [
+      "7 + ___ = 17, so 17 - 7 = 10",
+      "___ + 4 = 9, so 9 - 4 = 5"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "7 + ___ = 17",
+        "choices": [
+          "9",
+          "11",
+          "10",
+          "12"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "3 + ___ = 7",
+        "choices": [
+          "4",
+          "5",
+          "3",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "___ + 3 = 5",
+        "choices": [
+          "4",
+          "2",
+          "1",
+          "3"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "5 + ___ = 6",
+        "choices": [
+          "2",
+          "3",
+          "0",
+          "1"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "___ + 1 = 3",
+        "choices": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "___ + 8 = 16",
+        "choices": [
+          "8",
+          "10",
+          "9",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "___ + 2 = 10",
+        "choices": [
+          "7",
+          "8",
+          "10",
+          "9"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "5 + ___ = 15",
+        "choices": [
+          "11",
+          "10",
+          "9",
+          "12"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "6 + ___ = 11",
+        "choices": [
+          "7",
+          "6",
+          "4",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "___ + 1 = 7",
+        "choices": [
+          "5",
+          "6",
+          "8",
+          "7"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "___ + 6 = 12",
+        "choices": [
+          "6",
+          "7",
+          "5",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "2 + ___ = 7",
+        "choices": [
+          "6",
+          "4",
+          "5",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "___ + 3 = 13",
+        "choices": [
+          "11",
+          "12",
+          "9",
+          "10"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "8 + ___ = 13",
+        "choices": [
+          "6",
+          "7",
+          "4",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "5 + ___ = 9",
+        "choices": [
+          "4",
+          "5",
+          "3",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "___ + 3 = 11",
+        "choices": [
+          "10",
+          "9",
+          "8",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "6 + ___ = 14",
+        "choices": [
+          "9",
+          "10",
+          "8",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "10 + ___ = 13",
+        "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "___ + 9 = 14",
+        "choices": [
+          "7",
+          "5",
+          "6",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "9 + ___ = 13",
+        "choices": [
+          "4",
+          "5",
+          "6",
+          "3"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q21",
+        "prompt": "3 + ___ = 8",
+        "choices": [
+          "4",
+          "6",
+          "5",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q22",
+        "prompt": "9 + ___ = 13",
+        "choices": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q23",
+        "prompt": "5 + ___ = 12",
+        "choices": [
+          "8",
+          "6",
+          "9",
+          "7"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q24",
+        "prompt": "6 + ___ = 12",
+        "choices": [
+          "5",
+          "8",
+          "7",
+          "6"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "math-25",
+    "subject": "MATHEMATICS",
+    "title": "Introduction to Multiplication",
+    "description": "Understanding multiplication as equal groups.",
+    "notes": "Multiplication is a fast way of adding equal groups together.",
+    "examples": [
+      "2 groups of 2 is 2 x 2 = 4",
+      "3 groups of 5 is 3 x 5 = 15"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "2 groups of 2 is the same as 2 × 2 = ?",
+        "choices": [
+          "2",
+          "5",
+          "4",
+          "6"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "3 groups of 3 is the same as 3 × 3 = ?",
+        "choices": [
+          "9",
+          "12",
+          "10",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "4 groups of 4 is the same as 4 × 4 = ?",
+        "choices": [
+          "20",
+          "12",
+          "16",
+          "17"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "5 groups of 5 is the same as 5 × 5 = ?",
+        "choices": [
+          "26",
+          "25",
+          "30",
+          "20"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "6 groups of 2 is the same as 6 × 2 = ?",
+        "choices": [
+          "12",
+          "18",
+          "6",
+          "13"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "2 groups of 3 is the same as 2 × 3 = ?",
+        "choices": [
+          "6",
+          "8",
+          "7",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "3 groups of 4 is the same as 3 × 4 = ?",
+        "choices": [
+          "12",
+          "13",
+          "9",
+          "15"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "4 groups of 5 is the same as 4 × 5 = ?",
+        "choices": [
+          "24",
+          "16",
+          "21",
+          "20"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "5 groups of 2 is the same as 5 × 2 = ?",
+        "choices": [
+          "10",
+          "11",
+          "15",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "6 groups of 3 is the same as 6 × 3 = ?",
+        "choices": [
+          "12",
+          "19",
+          "18",
+          "24"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "2 groups of 4 is the same as 2 × 4 = ?",
+        "choices": [
+          "9",
+          "6",
+          "10",
+          "8"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "3 groups of 5 is the same as 3 × 5 = ?",
+        "choices": [
+          "16",
+          "18",
+          "12",
+          "15"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "4 groups of 2 is the same as 4 × 2 = ?",
+        "choices": [
+          "12",
+          "8",
+          "9",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "5 groups of 3 is the same as 5 × 3 = ?",
+        "choices": [
+          "10",
+          "16",
+          "15",
+          "20"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "6 groups of 4 is the same as 6 × 4 = ?",
+        "choices": [
+          "25",
+          "30",
+          "24",
+          "18"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "2 groups of 5 is the same as 2 × 5 = ?",
+        "choices": [
+          "12",
+          "10",
+          "8",
+          "11"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "3 groups of 2 is the same as 3 × 2 = ?",
+        "choices": [
+          "7",
+          "3",
+          "6",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "4 groups of 3 is the same as 4 × 3 = ?",
+        "choices": [
+          "8",
+          "13",
+          "16",
+          "12"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "5 groups of 4 is the same as 5 × 4 = ?",
+        "choices": [
+          "25",
+          "20",
+          "21",
+          "15"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "6 groups of 5 is the same as 6 × 5 = ?",
+        "choices": [
+          "31",
+          "36",
+          "30",
+          "24"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q21",
+        "prompt": "2 groups of 2 is the same as 2 × 2 = ?",
+        "choices": [
+          "4",
+          "2",
+          "5",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q22",
+        "prompt": "3 groups of 3 is the same as 3 × 3 = ?",
+        "choices": [
+          "12",
+          "9",
+          "10",
+          "6"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "math-26",
+    "subject": "MATHEMATICS",
+    "title": "Introduction to Division (sharing)",
+    "description": "Sharing amounts equally into groups.",
+    "notes": "Division means sharing an amount equally into groups.",
+    "examples": [
+      "4 sweets shared between 2 friends is 2 each.",
+      "6 shared between 3 is 2 each."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If 4 sweets are shared equally between 2 friends, how many does each friend get?",
+        "choices": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "If 6 sweets are shared equally between 2 friends, how many does each friend get?",
+        "choices": [
+          "4",
+          "3",
+          "2",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "If 8 sweets are shared equally between 2 friends, how many does each friend get?",
+        "choices": [
+          "3",
+          "5",
+          "4",
+          "6"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "If 10 sweets are shared equally between 2 friends, how many does each friend get?",
+        "choices": [
+          "7",
+          "6",
+          "5",
+          "4"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "If 12 sweets are shared equally between 2 friends, how many does each friend get?",
+        "choices": [
+          "7",
+          "6",
+          "8",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "If 14 sweets are shared equally between 2 friends, how many does each friend get?",
+        "choices": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "If 6 sweets are shared equally between 3 friends, how many does each friend get?",
+        "choices": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "If 9 sweets are shared equally between 3 friends, how many does each friend get?",
+        "choices": [
+          "5",
+          "4",
+          "2",
+          "3"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "If 12 sweets are shared equally between 3 friends, how many does each friend get?",
+        "choices": [
+          "5",
+          "6",
+          "4",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "If 15 sweets are shared equally between 3 friends, how many does each friend get?",
+        "choices": [
+          "7",
+          "6",
+          "4",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "If 18 sweets are shared equally between 3 friends, how many does each friend get?",
+        "choices": [
+          "6",
+          "8",
+          "7",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "If 21 sweets are shared equally between 3 friends, how many does each friend get?",
+        "choices": [
+          "9",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "If 8 sweets are shared equally between 4 friends, how many does each friend get?",
+        "choices": [
+          "4",
+          "2",
+          "3",
+          "1"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "If 12 sweets are shared equally between 4 friends, how many does each friend get?",
+        "choices": [
+          "2",
+          "3",
+          "5",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "If 16 sweets are shared equally between 4 friends, how many does each friend get?",
+        "choices": [
+          "3",
+          "4",
+          "6",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "If 20 sweets are shared equally between 4 friends, how many does each friend get?",
+        "choices": [
+          "4",
+          "5",
+          "7",
+          "6"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "If 24 sweets are shared equally between 4 friends, how many does each friend get?",
+        "choices": [
+          "6",
+          "7",
+          "5",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "If 28 sweets are shared equally between 4 friends, how many does each friend get?",
+        "choices": [
+          "8",
+          "6",
+          "9",
+          "7"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "If 10 sweets are shared equally between 5 friends, how many does each friend get?",
+        "choices": [
+          "3",
+          "4",
+          "1",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "If 15 sweets are shared equally between 5 friends, how many does each friend get?",
+        "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q21",
+        "prompt": "If 20 sweets are shared equally between 5 friends, how many does each friend get?",
+        "choices": [
+          "6",
+          "5",
+          "3",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q22",
+        "prompt": "If 25 sweets are shared equally between 5 friends, how many does each friend get?",
+        "choices": [
+          "5",
+          "4",
+          "7",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q23",
+        "prompt": "If 30 sweets are shared equally between 5 friends, how many does each friend get?",
+        "choices": [
+          "7",
+          "6",
+          "5",
+          "8"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q24",
+        "prompt": "If 35 sweets are shared equally between 5 friends, how many does each friend get?",
+        "choices": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "math-27",
+    "subject": "MATHEMATICS",
+    "title": "Fractions: Halves and Quarters",
+    "description": "Understanding halves and quarters of shapes and numbers.",
+    "notes": "Cutting something into 2 equal pieces makes halves. Cutting it into 4 equal pieces makes quarters.",
+    "examples": [
+      "A pizza cut into 2 equal pieces: each piece is a half.",
+      "A pizza cut into 4 equal pieces: each piece is a quarter."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If a pizza is cut into 2 equal pieces, each piece is a...",
+        "choices": [
+          "Quarter",
+          "Whole",
+          "Third",
+          "Half"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "If a pizza is cut into 4 equal pieces, each piece is a...",
+        "choices": [
+          "Third",
+          "Half",
+          "Whole",
+          "Quarter"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "How many quarters make a whole?",
+        "choices": [
+          "3",
+          "2",
+          "4",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "How many halves make a whole?",
+        "choices": [
+          "2",
+          "1",
+          "4",
+          "3"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Half of 10 is...?",
+        "choices": [
+          "4",
+          "5",
+          "2",
+          "6"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Half of 8 is...?",
+        "choices": [
+          "5",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "A quarter of 8 is...?",
+        "choices": [
+          "8",
+          "2",
+          "1",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "A quarter of 12 is...?",
+        "choices": [
+          "3",
+          "6",
+          "4",
+          "2"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "If you eat half of a chocolate bar, how much is left?",
+        "choices": [
+          "None",
+          "Half",
+          "A quarter",
+          "All of it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Half of 6 is...?",
+        "choices": [
+          "3",
+          "4",
+          "1",
+          "2"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which shows a shape split into halves?",
+        "choices": [
+          "A circle cut into 3 parts",
+          "A circle cut into 2 equal parts",
+          "A circle cut into 5 parts",
+          "A whole circle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Which shows a shape split into quarters?",
+        "choices": [
+          "A square cut into 4 equal parts",
+          "A whole square",
+          "A square cut into 3 parts",
+          "A square cut into 2 parts"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Half of 20 is...?",
+        "choices": [
+          "15",
+          "5",
+          "4",
+          "10"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "A quarter of 20 is...?",
+        "choices": [
+          "2",
+          "4",
+          "5",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "If 2 out of 4 equal parts are shaded, what fraction is shaded?",
+        "choices": [
+          "Quarter",
+          "A third",
+          "Half",
+          "Whole"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "If 1 out of 4 equal parts is shaded, what fraction is shaded?",
+        "choices": [
+          "A whole",
+          "A half",
+          "A quarter",
+          "A third"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Half of 4 is...?",
+        "choices": [
+          "1",
+          "3",
+          "4",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "A quarter of 4 is...?",
+        "choices": [
+          "2",
+          "1",
+          "0",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Half of 12 is...?",
+        "choices": [
+          "7",
+          "4",
+          "6",
+          "5"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Which is bigger: a half or a quarter of the same cake?",
+        "choices": [
+          "They're equal",
+          "Can't tell",
+          "A quarter",
+          "A half"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q21",
+        "prompt": "A quarter of 16 is...?",
+        "choices": [
+          "16",
+          "8",
+          "2",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q22",
+        "prompt": "Half of 14 is...?",
+        "choices": [
+          "8",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "math-28",
+    "subject": "MATHEMATICS",
+    "title": "Data: Simple Graphs & Tally Charts",
+    "description": "Reading bar charts and tally charts.",
+    "notes": "Bar charts use tall bars to show how many of something there are - a taller bar means more.",
+    "examples": [
+      "The tallest bar shows the most votes.",
+      "Tally marks |||| stand for 4."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Bananas",
+          "Apples",
+          "Grapes"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "2,3,9",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Bananas",
+          "Apples"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "3,4,3",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Apples",
+          "Bananas"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "8,7,4",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Bananas",
+          "Grapes"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "4,3,7",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Bananas",
+          "Apples"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "3,3,4",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Apples",
+          "Bananas"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "4,1,7",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Apples",
+          "Bananas"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "4,2,2",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Bananas",
+          "Apples",
+          "Grapes"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "7,6,3",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Bananas",
+          "Grapes"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "3,9,9",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Bananas",
+          "Apples",
+          "Grapes"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "5,4,8",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Grapes",
+          "Bananas"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "3,4,1",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Bananas",
+          "Apples"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "5,5,2",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Bananas",
+          "Apples",
+          "Grapes"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "9,9,5",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Apples",
+          "Bananas"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "2,7,3",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Bananas",
+          "Grapes"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "4,6,2",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Bananas",
+          "Grapes",
+          "Apples"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "1,7,8",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Grapes",
+          "Bananas"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "6,3,7",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Grapes",
+          "Bananas"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "5,7,9",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Bananas",
+          "Apples",
+          "Grapes"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "3,4,3",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Bananas",
+          "Grapes"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "5,4,9",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q21",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Grapes",
+          "Apples",
+          "Bananas"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "7,1,4",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      },
+      {
+        "id": "q22",
+        "prompt": "The bar chart shows fruit votes. Which fruit got the most votes?",
+        "choices": [
+          "Apples",
+          "Grapes",
+          "Bananas"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "4,1,6",
+            "labels": "Apples,Bananas,Grapes"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "math-29",
+    "subject": "MATHEMATICS",
+    "title": "Numbers to 100",
+    "description": "Counting, ordering and place value up to 100.",
+    "notes": "Numbers up to 100 follow the same tens-and-ones pattern, just with bigger tens.",
+    "examples": [
+      "One more than 71 is 72.",
+      "99 + 1 = 100"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What number is one more than 71?",
+        "choices": [
+          "72",
+          "71",
+          "70",
+          "73"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "What number is one more than 10?",
+        "choices": [
+          "11",
+          "12",
+          "9",
+          "10"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "What number is one more than 45?",
+        "choices": [
+          "45",
+          "44",
+          "47",
+          "46"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "What number is one more than 77?",
+        "choices": [
+          "78",
+          "77",
+          "79",
+          "76"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "What number is one more than 78?",
+        "choices": [
+          "78",
+          "77",
+          "79",
+          "80"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "What number is one more than 37?",
+        "choices": [
+          "38",
+          "37",
+          "36",
+          "39"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "What number is one more than 12?",
+        "choices": [
+          "13",
+          "14",
+          "12",
+          "11"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "What number is one more than 66?",
+        "choices": [
+          "68",
+          "65",
+          "67",
+          "66"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "What number is one more than 45?",
+        "choices": [
+          "46",
+          "45",
+          "47",
+          "44"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What number is one more than 51?",
+        "choices": [
+          "51",
+          "52",
+          "53",
+          "50"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "What number is one more than 54?",
+        "choices": [
+          "56",
+          "55",
+          "54",
+          "53"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "What number is one more than 3?",
+        "choices": [
+          "3",
+          "5",
+          "2",
+          "4"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "What number is one more than 5?",
+        "choices": [
+          "6",
+          "4",
+          "5",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "What number is one more than 14?",
+        "choices": [
+          "16",
+          "15",
+          "14",
+          "13"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "What number is one more than 57?",
+        "choices": [
+          "56",
+          "57",
+          "58",
+          "59"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "What number is one more than 84?",
+        "choices": [
+          "83",
+          "84",
+          "86",
+          "85"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "What number is one more than 29?",
+        "choices": [
+          "31",
+          "30",
+          "28",
+          "29"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "What number is one more than 45?",
+        "choices": [
+          "44",
+          "47",
+          "45",
+          "46"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What number is one more than 11?",
+        "choices": [
+          "11",
+          "10",
+          "12",
+          "13"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "What number is one more than 64?",
+        "choices": [
+          "66",
+          "64",
+          "63",
+          "65"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "math-30",
+    "subject": "MATHEMATICS",
+    "title": "Mixed Review: Year-End Challenge",
+    "description": "A mixed challenge covering the whole year's math topics.",
+    "notes": "This module mixes questions from everything learned this year - counting, addition, shapes, time, and more.",
+    "examples": [
+      "7 + 6 = 13",
+      "Try the topic that feels trickiest first, then come back to the rest."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "7 + 6 = ?",
+        "choices": [
+          "14",
+          "13",
+          "11",
+          "12"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "15 - 8 = ?",
+        "choices": [
+          "8",
+          "7",
+          "9",
+          "6"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Double 9 is...?",
+        "choices": [
+          "16",
+          "17",
+          "18",
+          "20"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Half of 16 is...?",
+        "choices": [
+          "6",
+          "8",
+          "9",
+          "4"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "How many sides does a hexagon have?",
+        "choices": [
+          "5",
+          "8",
+          "6",
+          "4"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which shape has no straight sides?",
+        "choices": [
+          "Square",
+          "Circle",
+          "Hexagon",
+          "Triangle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "3 × 4 = ?",
+        "choices": [
+          "10",
+          "14",
+          "7",
+          "12"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "12 shared between 3 friends is how many each?",
+        "choices": [
+          "4",
+          "5",
+          "6",
+          "3"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "How many cents is a quarter worth?",
+        "choices": [
+          "1",
+          "25",
+          "5",
+          "10"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "10, 20, 30, ___?",
+        "choices": [
+          "40",
+          "45",
+          "50",
+          "35"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which is longer: a bus or a pencil?",
+        "choices": [
+          "Same",
+          "Pencil",
+          "Can't tell",
+          "Bus"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "Which is heavier: an elephant or a mouse?",
+        "choices": [
+          "Can't tell",
+          "Same",
+          "Elephant",
+          "Mouse"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "How many minutes are in a half hour?",
+        "choices": [
+          "15",
+          "30",
+          "45",
+          "60"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "In the number 47, how many tens?",
+        "choices": [
+          "4",
+          "47",
+          "7",
+          "0"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "9 + 9 = ?",
+        "choices": [
+          "17",
+          "19",
+          "18",
+          "16"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "20 - 12 = ?",
+        "choices": [
+          "6",
+          "9",
+          "7",
+          "8"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Which number is bigger: 68 or 86?",
+        "choices": [
+          "86",
+          "Can't tell",
+          "68",
+          "Equal"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "A quarter of 8 is...?",
+        "choices": [
+          "1",
+          "3",
+          "2",
+          "4"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "How many millilitres in a litre?",
+        "choices": [
+          "1000",
+          "10000",
+          "10",
+          "100"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "5, 10, 15, ___?",
+        "choices": [
+          "20",
+          "25",
+          "18",
+          "16"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q21",
+        "prompt": "How many faces does a cube have?",
+        "choices": [
+          "8",
+          "4",
+          "6",
+          "5"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q22",
+        "prompt": "8 + 7 = ?",
+        "choices": [
+          "14",
+          "16",
+          "13",
+          "15"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,7808 @@
+[
+  {
+    "id": "art-01",
+    "subject": "FINE_ART",
+    "title": "Primary Colors",
+    "description": "Learning red, blue, and yellow — the primary colors.",
+    "notes": "Red, blue, and yellow are the primary colours - they can't be made by mixing any other colours together.",
+    "examples": [
+      "Red is a primary colour.",
+      "You can't mix two colours to make yellow."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Pink",
+          "Red",
+          "Orange",
+          "Brown"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Grey",
+          "Purple",
+          "Blue",
+          "Green"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Orange",
+          "Pink",
+          "Grey",
+          "Yellow"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Red",
+          "Green",
+          "Pink",
+          "Grey"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Pink",
+          "Blue",
+          "Grey",
+          "Green"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Green",
+          "Brown",
+          "Yellow",
+          "Orange"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Grey",
+          "Brown",
+          "Orange",
+          "Red"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Orange",
+          "Green",
+          "Pink",
+          "Blue"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Green",
+          "Yellow",
+          "Grey",
+          "Brown"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Grey",
+          "Purple",
+          "Orange",
+          "Red"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Blue",
+          "Purple",
+          "Brown",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Yellow",
+          "Orange",
+          "Pink",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Pink",
+          "Orange",
+          "Green",
+          "Red"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Pink",
+          "Blue",
+          "Orange",
+          "Purple"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Grey",
+          "Yellow",
+          "Brown",
+          "Pink"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Orange",
+          "Pink",
+          "Red",
+          "Purple"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Blue",
+          "Green",
+          "Orange",
+          "Grey"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Orange",
+          "Yellow",
+          "Purple",
+          "Green"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Brown",
+          "Red",
+          "Grey",
+          "Pink"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "Which of these is a PRIMARY colour (cannot be mixed from others)?",
+        "choices": [
+          "Blue",
+          "Grey",
+          "Green",
+          "Brown"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#4CB963,#9B6BFF,#8B5E3C"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "art-02",
+    "subject": "FINE_ART",
+    "title": "Color Mixing: Secondary Colors",
+    "description": "Discovering green, purple, and orange by mixing colors.",
+    "notes": "Mixing two primary colours together makes a secondary colour.",
+    "examples": [
+      "Blue + Yellow = Green",
+      "Red + Yellow = Orange"
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Orange",
+          "Black",
+          "Brown",
+          "Green"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "Red + Blue = ?",
+        "choices": [
+          "Green",
+          "Orange",
+          "Purple",
+          "Pink"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "Red + Yellow = ?",
+        "choices": [
+          "Purple",
+          "Green",
+          "Pink",
+          "Orange"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Black",
+          "Green",
+          "Purple",
+          "Brown"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "Red + Blue = ?",
+        "choices": [
+          "Pink",
+          "Brown",
+          "Purple",
+          "Black"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "Red + Yellow = ?",
+        "choices": [
+          "Black",
+          "Pink",
+          "Brown",
+          "Orange"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Purple",
+          "Pink",
+          "Green",
+          "Brown"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "Red + Blue = ?",
+        "choices": [
+          "Pink",
+          "Orange",
+          "Purple",
+          "Brown"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "Red + Yellow = ?",
+        "choices": [
+          "Orange",
+          "Black",
+          "Pink",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Pink",
+          "Green",
+          "Purple",
+          "Black"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "Red + Blue = ?",
+        "choices": [
+          "Green",
+          "Orange",
+          "Purple",
+          "Black"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "Red + Yellow = ?",
+        "choices": [
+          "Black",
+          "Pink",
+          "Purple",
+          "Orange"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Brown",
+          "Green",
+          "Orange",
+          "Pink"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "Red + Blue = ?",
+        "choices": [
+          "Orange",
+          "Purple",
+          "Pink",
+          "Black"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "Red + Yellow = ?",
+        "choices": [
+          "Orange",
+          "Pink",
+          "Black",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Black",
+          "Green",
+          "Brown",
+          "Orange"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "Red + Blue = ?",
+        "choices": [
+          "Black",
+          "Purple",
+          "Brown",
+          "Pink"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "Red + Yellow = ?",
+        "choices": [
+          "Orange",
+          "Purple",
+          "Brown",
+          "Pink"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Pink",
+          "Black",
+          "Green",
+          "Purple"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7,#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "Red + Blue = ?",
+        "choices": [
+          "Pink",
+          "Purple",
+          "Black",
+          "Brown"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E,#3E8EF7"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "art-03",
+    "subject": "FINE_ART",
+    "title": "Warm vs Cool Colors",
+    "description": "Telling apart warm colors (red/orange/yellow) and cool colors (blue/green/purple).",
+    "notes": "Warm colours (red, orange, yellow) remind us of fire and sun. Cool colours (blue, green, purple) remind us of water and sky.",
+    "examples": [
+      "Red is a warm colour.",
+      "Blue is a cool colour."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Is the colour Red a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Both",
+          "Warm",
+          "Neither"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "Is the colour Orange a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Neither",
+          "Both",
+          "Warm"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "Is the colour Yellow a warm or cool colour?",
+        "choices": [
+          "Neither",
+          "Cool",
+          "Warm",
+          "Both"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "Is the colour Blue a warm or cool colour?",
+        "choices": [
+          "Both",
+          "Neither",
+          "Warm",
+          "Cool"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "Is the colour Green a warm or cool colour?",
+        "choices": [
+          "Neither",
+          "Warm",
+          "Both",
+          "Cool"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "Is the colour Purple a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Neither",
+          "Both",
+          "Warm"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "Is the colour Red a warm or cool colour?",
+        "choices": [
+          "Both",
+          "Warm",
+          "Cool",
+          "Neither"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "Is the colour Orange a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Neither",
+          "Both",
+          "Warm"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "Is the colour Yellow a warm or cool colour?",
+        "choices": [
+          "Both",
+          "Neither",
+          "Cool",
+          "Warm"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "Is the colour Blue a warm or cool colour?",
+        "choices": [
+          "Neither",
+          "Cool",
+          "Both",
+          "Warm"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "Is the colour Green a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Warm",
+          "Neither",
+          "Both"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "Is the colour Purple a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Both",
+          "Warm",
+          "Neither"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "Is the colour Red a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Neither",
+          "Both",
+          "Warm"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "Is the colour Orange a warm or cool colour?",
+        "choices": [
+          "Neither",
+          "Both",
+          "Cool",
+          "Warm"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FF7A45"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "Is the colour Yellow a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Warm",
+          "Neither",
+          "Both"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "Is the colour Blue a warm or cool colour?",
+        "choices": [
+          "Neither",
+          "Warm",
+          "Both",
+          "Cool"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "Is the colour Green a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Both",
+          "Warm",
+          "Neither"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "Is the colour Purple a warm or cool colour?",
+        "choices": [
+          "Warm",
+          "Both",
+          "Cool",
+          "Neither"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "Is the colour Red a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Neither",
+          "Both",
+          "Warm"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "Is the colour Orange a warm or cool colour?",
+        "choices": [
+          "Cool",
+          "Warm",
+          "Neither",
+          "Both"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FF7A45"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "art-04",
+    "subject": "FINE_ART",
+    "title": "Shapes in Art",
+    "description": "Spotting circles, squares, triangles, and rectangles in everyday objects.",
+    "notes": "Everyday objects are often built from simple shapes.",
+    "examples": [
+      "A door is usually drawn as a rectangle."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A 'Door' is usually drawn as a...",
+        "choices": [
+          "square",
+          "rectangle",
+          "circle",
+          "triangle"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "A 'Dice' is usually drawn as a...",
+        "choices": [
+          "square",
+          "triangle",
+          "rectangle",
+          "circle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "A 'Sail' is usually drawn as a...",
+        "choices": [
+          "square",
+          "circle",
+          "rectangle",
+          "triangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "A 'Mountain' is usually drawn as a...",
+        "choices": [
+          "circle",
+          "triangle",
+          "square",
+          "rectangle"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "A 'Window' is usually drawn as a...",
+        "choices": [
+          "triangle",
+          "circle",
+          "square",
+          "rectangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "A 'Box' is usually drawn as a...",
+        "choices": [
+          "rectangle",
+          "triangle",
+          "square",
+          "circle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "A 'Ball' is usually drawn as a...",
+        "choices": [
+          "square",
+          "rectangle",
+          "circle",
+          "triangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "A 'Table' is usually drawn as a...",
+        "choices": [
+          "rectangle",
+          "square",
+          "triangle",
+          "circle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "A 'Coin' is usually drawn as a...",
+        "choices": [
+          "triangle",
+          "square",
+          "circle",
+          "rectangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "A 'Wheel' is usually drawn as a...",
+        "choices": [
+          "square",
+          "triangle",
+          "circle",
+          "rectangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "A 'Book' is usually drawn as a...",
+        "choices": [
+          "triangle",
+          "square",
+          "rectangle",
+          "circle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "A 'Phone' is usually drawn as a...",
+        "choices": [
+          "triangle",
+          "circle",
+          "rectangle",
+          "square"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "A 'Sun' is usually drawn as a...",
+        "choices": [
+          "rectangle",
+          "square",
+          "triangle",
+          "circle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "A 'Picture frame' is usually drawn as a...",
+        "choices": [
+          "rectangle",
+          "square",
+          "circle",
+          "triangle"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "A 'Roof' is usually drawn as a...",
+        "choices": [
+          "square",
+          "circle",
+          "rectangle",
+          "triangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "A 'Slice of pizza' is usually drawn as a...",
+        "choices": [
+          "circle",
+          "square",
+          "rectangle",
+          "triangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "A 'Door' is usually drawn as a...",
+        "choices": [
+          "square",
+          "circle",
+          "rectangle",
+          "triangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "A 'Dice' is usually drawn as a...",
+        "choices": [
+          "square",
+          "circle",
+          "triangle",
+          "rectangle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "A 'Sail' is usually drawn as a...",
+        "choices": [
+          "triangle",
+          "square",
+          "circle",
+          "rectangle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "A 'Mountain' is usually drawn as a...",
+        "choices": [
+          "circle",
+          "square",
+          "rectangle",
+          "triangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "art-05",
+    "subject": "FINE_ART",
+    "title": "Lines in Art",
+    "description": "Recognising straight, curved, zigzag, and wavy lines.",
+    "notes": "Lines can be straight, curved, zigzag, or wavy - each one creates a different feeling.",
+    "examples": [
+      "A ruler's edge makes a straight line.",
+      "A zigzag looks like lightning."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What kind of line looks like a ruler edge?",
+        "choices": [
+          "Zigzag line",
+          "Straight line",
+          "Curved line",
+          "Wavy line"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What kind of line looks like a rainbow?",
+        "choices": [
+          "Zigzag line",
+          "Curved line",
+          "Straight line",
+          "Wavy line"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "What kind of line looks like lightning?",
+        "choices": [
+          "Zigzag line",
+          "Wavy line",
+          "Curved line",
+          "Straight line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "What kind of line looks like the sea?",
+        "choices": [
+          "Wavy line",
+          "Curved line",
+          "Straight line",
+          "Zigzag line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "What kind of line looks like a ruler edge?",
+        "choices": [
+          "Curved line",
+          "Straight line",
+          "Wavy line",
+          "Zigzag line"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "What kind of line looks like a rainbow?",
+        "choices": [
+          "Wavy line",
+          "Zigzag line",
+          "Straight line",
+          "Curved line"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "What kind of line looks like lightning?",
+        "choices": [
+          "Straight line",
+          "Wavy line",
+          "Zigzag line",
+          "Curved line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "What kind of line looks like the sea?",
+        "choices": [
+          "Zigzag line",
+          "Wavy line",
+          "Straight line",
+          "Curved line"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "What kind of line looks like a ruler edge?",
+        "choices": [
+          "Straight line",
+          "Wavy line",
+          "Zigzag line",
+          "Curved line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What kind of line looks like a rainbow?",
+        "choices": [
+          "Straight line",
+          "Wavy line",
+          "Zigzag line",
+          "Curved line"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "What kind of line looks like lightning?",
+        "choices": [
+          "Curved line",
+          "Straight line",
+          "Zigzag line",
+          "Wavy line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "What kind of line looks like the sea?",
+        "choices": [
+          "Wavy line",
+          "Straight line",
+          "Curved line",
+          "Zigzag line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "What kind of line looks like a ruler edge?",
+        "choices": [
+          "Zigzag line",
+          "Curved line",
+          "Straight line",
+          "Wavy line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "What kind of line looks like a rainbow?",
+        "choices": [
+          "Straight line",
+          "Wavy line",
+          "Zigzag line",
+          "Curved line"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "What kind of line looks like lightning?",
+        "choices": [
+          "Wavy line",
+          "Zigzag line",
+          "Curved line",
+          "Straight line"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "What kind of line looks like the sea?",
+        "choices": [
+          "Zigzag line",
+          "Straight line",
+          "Curved line",
+          "Wavy line"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "What kind of line looks like a ruler edge?",
+        "choices": [
+          "Wavy line",
+          "Zigzag line",
+          "Straight line",
+          "Curved line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "What kind of line looks like a rainbow?",
+        "choices": [
+          "Straight line",
+          "Zigzag line",
+          "Curved line",
+          "Wavy line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "What kind of line looks like lightning?",
+        "choices": [
+          "Wavy line",
+          "Curved line",
+          "Zigzag line",
+          "Straight line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "What kind of line looks like the sea?",
+        "choices": [
+          "Zigzag line",
+          "Wavy line",
+          "Curved line",
+          "Straight line"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "art-06",
+    "subject": "FINE_ART",
+    "title": "Patterns",
+    "description": "Continuing color and shape patterns.",
+    "notes": "A pattern in art repeats colours or shapes in the same order again and again.",
+    "examples": [
+      "Red, Blue, Red, Blue, Red, ___ -> next is Blue."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What comes next in the pattern: Red, Blue, Red, Blue, Red, ___?",
+        "choices": [
+          "Green",
+          "Red",
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "What comes next in the pattern: Circle, Square, Circle, Square, ___?",
+        "choices": [
+          "Square",
+          "Triangle",
+          "Star",
+          "Circle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "What comes next in the pattern: Big, Small, Big, Small, Big, ___?",
+        "choices": [
+          "Medium",
+          "Tiny",
+          "Small",
+          "Big"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "What comes next in the pattern: Star, Star, Moon, Star, Star, ___?",
+        "choices": [
+          "Sun",
+          "Moon",
+          "Cloud",
+          "Star"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "What comes next in the pattern: Red, Blue, Red, Blue, Red, ___?",
+        "choices": [
+          "Blue",
+          "Red",
+          "Green",
+          "Yellow"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "What comes next in the pattern: Circle, Square, Circle, Square, ___?",
+        "choices": [
+          "Star",
+          "Square",
+          "Circle",
+          "Triangle"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "What comes next in the pattern: Big, Small, Big, Small, Big, ___?",
+        "choices": [
+          "Medium",
+          "Small",
+          "Tiny",
+          "Big"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "What comes next in the pattern: Star, Star, Moon, Star, Star, ___?",
+        "choices": [
+          "Cloud",
+          "Moon",
+          "Star",
+          "Sun"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "What comes next in the pattern: Red, Blue, Red, Blue, Red, ___?",
+        "choices": [
+          "Yellow",
+          "Blue",
+          "Red",
+          "Green"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "What comes next in the pattern: Circle, Square, Circle, Square, ___?",
+        "choices": [
+          "Square",
+          "Circle",
+          "Star",
+          "Triangle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "What comes next in the pattern: Big, Small, Big, Small, Big, ___?",
+        "choices": [
+          "Medium",
+          "Big",
+          "Small",
+          "Tiny"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "What comes next in the pattern: Star, Star, Moon, Star, Star, ___?",
+        "choices": [
+          "Star",
+          "Moon",
+          "Cloud",
+          "Sun"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "What comes next in the pattern: Red, Blue, Red, Blue, Red, ___?",
+        "choices": [
+          "Blue",
+          "Red",
+          "Green",
+          "Yellow"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "What comes next in the pattern: Circle, Square, Circle, Square, ___?",
+        "choices": [
+          "Star",
+          "Square",
+          "Triangle",
+          "Circle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "What comes next in the pattern: Big, Small, Big, Small, Big, ___?",
+        "choices": [
+          "Big",
+          "Small",
+          "Tiny",
+          "Medium"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "What comes next in the pattern: Star, Star, Moon, Star, Star, ___?",
+        "choices": [
+          "Moon",
+          "Star",
+          "Sun",
+          "Cloud"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "What comes next in the pattern: Red, Blue, Red, Blue, Red, ___?",
+        "choices": [
+          "Red",
+          "Green",
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "What comes next in the pattern: Circle, Square, Circle, Square, ___?",
+        "choices": [
+          "Circle",
+          "Square",
+          "Triangle",
+          "Star"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "What comes next in the pattern: Big, Small, Big, Small, Big, ___?",
+        "choices": [
+          "Tiny",
+          "Medium",
+          "Big",
+          "Small"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "What comes next in the pattern: Star, Star, Moon, Star, Star, ___?",
+        "choices": [
+          "Sun",
+          "Star",
+          "Moon",
+          "Cloud"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "art-07",
+    "subject": "FINE_ART",
+    "title": "Symmetry in Art",
+    "description": "Finding shapes and objects that are the same on both sides.",
+    "notes": "A symmetrical picture looks the same on both sides, like a mirror image.",
+    "examples": [
+      "A butterfly's wings are symmetrical."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Is a 'Butterfly' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Sometimes",
+          "Never",
+          "No",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Is a 'Heart' usually symmetrical (same on both sides)?",
+        "choices": [
+          "No",
+          "Never",
+          "Yes",
+          "Sometimes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Which of these shapes is usually symmetrical?",
+        "choices": [
+          "A scribble",
+          "An uneven blob",
+          "A torn paper shape",
+          "Star"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Is a 'Circle' usually symmetrical (same on both sides)?",
+        "choices": [
+          "No",
+          "Yes",
+          "Sometimes",
+          "Never"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Is a 'Square' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Sometimes",
+          "Yes",
+          "Never",
+          "No"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Which of these shapes is usually symmetrical?",
+        "choices": [
+          "An uneven blob",
+          "A scribble",
+          "A torn paper shape",
+          "Face"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Is a 'Leaf' usually symmetrical (same on both sides)?",
+        "choices": [
+          "No",
+          "Never",
+          "Yes",
+          "Sometimes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Is a 'Triangle' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Yes",
+          "Never",
+          "Sometimes",
+          "No"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which of these shapes is usually symmetrical?",
+        "choices": [
+          "A random splat",
+          "A scribble",
+          "Butterfly",
+          "An uneven blob"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Is a 'Heart' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Never",
+          "No",
+          "Sometimes",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Is a 'Star' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Sometimes",
+          "Yes",
+          "No",
+          "Never"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Which of these shapes is usually symmetrical?",
+        "choices": [
+          "Circle",
+          "An uneven blob",
+          "A random splat",
+          "A torn paper shape"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Is a 'Square' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Never",
+          "No",
+          "Yes",
+          "Sometimes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Is a 'Face' usually symmetrical (same on both sides)?",
+        "choices": [
+          "No",
+          "Yes",
+          "Sometimes",
+          "Never"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Which of these shapes is usually symmetrical?",
+        "choices": [
+          "A torn paper shape",
+          "An uneven blob",
+          "A scribble",
+          "Leaf"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Is a 'Triangle' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Yes",
+          "No",
+          "Never",
+          "Sometimes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Is a 'Butterfly' usually symmetrical (same on both sides)?",
+        "choices": [
+          "No",
+          "Never",
+          "Sometimes",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Which of these shapes is usually symmetrical?",
+        "choices": [
+          "An uneven blob",
+          "A random splat",
+          "Heart",
+          "A torn paper shape"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Is a 'Star' usually symmetrical (same on both sides)?",
+        "choices": [
+          "No",
+          "Never",
+          "Sometimes",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Is a 'Circle' usually symmetrical (same on both sides)?",
+        "choices": [
+          "Sometimes",
+          "No",
+          "Never",
+          "Yes"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "art-08",
+    "subject": "FINE_ART",
+    "title": "Texture",
+    "description": "Describing how things feel: rough, smooth, soft, bumpy.",
+    "notes": "Texture is how something feels - rough, smooth, soft, or bumpy.",
+    "examples": [
+      "Sandpaper feels rough."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which texture word describes sandpaper?",
+        "choices": [
+          "Soft",
+          "Smooth",
+          "Rough",
+          "Fluffy"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which texture word describes glass?",
+        "choices": [
+          "Fuzzy",
+          "Slippery",
+          "Fluffy",
+          "Smooth"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Which texture word describes a cloud?",
+        "choices": [
+          "Fluffy",
+          "Fuzzy",
+          "Rough",
+          "Soft"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Which texture word describes a pinecone?",
+        "choices": [
+          "Bumpy",
+          "Fluffy",
+          "Slippery",
+          "Rough"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which texture word describes a pillow?",
+        "choices": [
+          "Soft",
+          "Rough",
+          "Smooth",
+          "Hard"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Which texture word describes a rock?",
+        "choices": [
+          "Hard",
+          "Soft",
+          "Fluffy",
+          "Bumpy"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "Which texture word describes a peach?",
+        "choices": [
+          "Slippery",
+          "Bumpy",
+          "Fuzzy",
+          "Smooth"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which texture word describes ice?",
+        "choices": [
+          "Soft",
+          "Slippery",
+          "Hard",
+          "Fluffy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which texture word describes sandpaper?",
+        "choices": [
+          "Slippery",
+          "Hard",
+          "Fuzzy",
+          "Rough"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Which texture word describes glass?",
+        "choices": [
+          "Fluffy",
+          "Rough",
+          "Smooth",
+          "Slippery"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Which texture word describes a cloud?",
+        "choices": [
+          "Bumpy",
+          "Fluffy",
+          "Fuzzy",
+          "Hard"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Which texture word describes a pinecone?",
+        "choices": [
+          "Fluffy",
+          "Hard",
+          "Bumpy",
+          "Soft"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Which texture word describes a pillow?",
+        "choices": [
+          "Soft",
+          "Hard",
+          "Fluffy",
+          "Fuzzy"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Which texture word describes a rock?",
+        "choices": [
+          "Hard",
+          "Slippery",
+          "Smooth",
+          "Bumpy"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Which texture word describes a peach?",
+        "choices": [
+          "Fuzzy",
+          "Rough",
+          "Hard",
+          "Slippery"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which texture word describes ice?",
+        "choices": [
+          "Fluffy",
+          "Slippery",
+          "Soft",
+          "Bumpy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Which texture word describes sandpaper?",
+        "choices": [
+          "Bumpy",
+          "Soft",
+          "Smooth",
+          "Rough"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Which texture word describes glass?",
+        "choices": [
+          "Rough",
+          "Fuzzy",
+          "Slippery",
+          "Smooth"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Which texture word describes a cloud?",
+        "choices": [
+          "Fluffy",
+          "Smooth",
+          "Fuzzy",
+          "Bumpy"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Which texture word describes a pinecone?",
+        "choices": [
+          "Smooth",
+          "Rough",
+          "Bumpy",
+          "Soft"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "art-09",
+    "subject": "FINE_ART",
+    "title": "Art Tools",
+    "description": "Matching tools to the job they do.",
+    "notes": "Different art tools are best for different jobs.",
+    "examples": [
+      "A paintbrush is best for painting."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which tool is best for painting?",
+        "choices": [
+          "Crayon",
+          "Easel",
+          "Paintbrush",
+          "Pencil"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which tool is best for sketching?",
+        "choices": [
+          "Pencil",
+          "Scissors",
+          "Crayon",
+          "Palette"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Which tool is best for cutting paper?",
+        "choices": [
+          "Sponge",
+          "Glue",
+          "Scissors",
+          "Paintbrush"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Which tool is best for sticking things together?",
+        "choices": [
+          "Glue",
+          "Scissors",
+          "Crayon",
+          "Palette"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which tool is best for coloring?",
+        "choices": [
+          "Palette",
+          "Pencil",
+          "Crayon",
+          "Easel"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which tool is best for mixing paint?",
+        "choices": [
+          "Crayon",
+          "Glue",
+          "Palette",
+          "Scissors"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which tool is best for holding a canvas up?",
+        "choices": [
+          "Scissors",
+          "Pencil",
+          "Glue",
+          "Easel"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Which tool is best for dabbing texture on paint?",
+        "choices": [
+          "Pencil",
+          "Sponge",
+          "Easel",
+          "Palette"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which tool is best for painting?",
+        "choices": [
+          "Easel",
+          "Pencil",
+          "Glue",
+          "Paintbrush"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Which tool is best for sketching?",
+        "choices": [
+          "Sponge",
+          "Palette",
+          "Pencil",
+          "Scissors"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Which tool is best for cutting paper?",
+        "choices": [
+          "Pencil",
+          "Scissors",
+          "Crayon",
+          "Paintbrush"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Which tool is best for sticking things together?",
+        "choices": [
+          "Pencil",
+          "Sponge",
+          "Scissors",
+          "Glue"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Which tool is best for coloring?",
+        "choices": [
+          "Pencil",
+          "Crayon",
+          "Easel",
+          "Scissors"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Which tool is best for mixing paint?",
+        "choices": [
+          "Pencil",
+          "Scissors",
+          "Easel",
+          "Palette"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which tool is best for holding a canvas up?",
+        "choices": [
+          "Palette",
+          "Glue",
+          "Easel",
+          "Paintbrush"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Which tool is best for dabbing texture on paint?",
+        "choices": [
+          "Easel",
+          "Crayon",
+          "Scissors",
+          "Sponge"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Which tool is best for painting?",
+        "choices": [
+          "Scissors",
+          "Glue",
+          "Paintbrush",
+          "Easel"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Which tool is best for sketching?",
+        "choices": [
+          "Crayon",
+          "Glue",
+          "Pencil",
+          "Easel"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Which tool is best for cutting paper?",
+        "choices": [
+          "Easel",
+          "Sponge",
+          "Scissors",
+          "Pencil"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Which tool is best for sticking things together?",
+        "choices": [
+          "Glue",
+          "Crayon",
+          "Easel",
+          "Pencil"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "art-10",
+    "subject": "FINE_ART",
+    "title": "Drawing Techniques",
+    "description": "Simple steps for good drawing.",
+    "notes": "Good drawing often starts with a simple shape as a guide, then adds details on top.",
+    "examples": [
+      "Start with an oval for a head, then add the face."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What should you draw first when drawing a person?",
+        "choices": [
+          "The background",
+          "The head/body outline",
+          "The tiny details",
+          "The shoes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What helps you draw a straight line?",
+        "choices": [
+          "A ruler",
+          "A sponge",
+          "A feeling",
+          "Your finger"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "What do you use to fix a pencil mistake?",
+        "choices": [
+          "Glue",
+          "An eraser",
+          "Scissors",
+          "A brush"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "What comes last when drawing usually?",
+        "choices": [
+          "The rough outline",
+          "Nothing",
+          "Small details",
+          "Only shading"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "What should you draw first when drawing a person?",
+        "choices": [
+          "The shoes",
+          "The tiny details",
+          "The head/body outline",
+          "The background"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "What helps you draw a straight line?",
+        "choices": [
+          "A sponge",
+          "A ruler",
+          "Your finger",
+          "A feeling"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What do you use to fix a pencil mistake?",
+        "choices": [
+          "A brush",
+          "Scissors",
+          "Glue",
+          "An eraser"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "What comes last when drawing usually?",
+        "choices": [
+          "Only shading",
+          "The rough outline",
+          "Small details",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "What should you draw first when drawing a person?",
+        "choices": [
+          "The head/body outline",
+          "The shoes",
+          "The tiny details",
+          "The background"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What helps you draw a straight line?",
+        "choices": [
+          "Your finger",
+          "A sponge",
+          "A ruler",
+          "A feeling"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "What do you use to fix a pencil mistake?",
+        "choices": [
+          "An eraser",
+          "Scissors",
+          "A brush",
+          "Glue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "What comes last when drawing usually?",
+        "choices": [
+          "Nothing",
+          "Small details",
+          "Only shading",
+          "The rough outline"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "What should you draw first when drawing a person?",
+        "choices": [
+          "The background",
+          "The shoes",
+          "The tiny details",
+          "The head/body outline"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "What helps you draw a straight line?",
+        "choices": [
+          "A feeling",
+          "Your finger",
+          "A ruler",
+          "A sponge"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "What do you use to fix a pencil mistake?",
+        "choices": [
+          "Scissors",
+          "An eraser",
+          "A brush",
+          "Glue"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "What comes last when drawing usually?",
+        "choices": [
+          "Small details",
+          "Only shading",
+          "The rough outline",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "What should you draw first when drawing a person?",
+        "choices": [
+          "The head/body outline",
+          "The shoes",
+          "The tiny details",
+          "The background"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "What helps you draw a straight line?",
+        "choices": [
+          "A sponge",
+          "Your finger",
+          "A feeling",
+          "A ruler"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What do you use to fix a pencil mistake?",
+        "choices": [
+          "Glue",
+          "An eraser",
+          "Scissors",
+          "A brush"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "What comes last when drawing usually?",
+        "choices": [
+          "The rough outline",
+          "Small details",
+          "Nothing",
+          "Only shading"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "art-11",
+    "subject": "FINE_ART",
+    "title": "Painting Techniques",
+    "description": "Tints, shades, and caring for your brush.",
+    "notes": "Adding white to a colour makes it lighter, and adding black makes it darker.",
+    "examples": [
+      "White mixed into a colour makes a lighter tint."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What happens if you add white paint to a color?",
+        "choices": [
+          "It becomes clear",
+          "It disappears",
+          "It becomes darker",
+          "It becomes lighter (a tint)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "What happens if you add black paint to a color?",
+        "choices": [
+          "It becomes darker (a shade)",
+          "It disappears",
+          "It becomes brighter",
+          "It becomes lighter"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "What should you do with your brush between colors?",
+        "choices": [
+          "Rinse it in water",
+          "Leave it dirty",
+          "Hide it",
+          "Break it"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "What do you paint on?",
+        "choices": [
+          "A pillow",
+          "A canvas or paper",
+          "The floor only",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "What happens if you add white paint to a color?",
+        "choices": [
+          "It becomes lighter (a tint)",
+          "It disappears",
+          "It becomes clear",
+          "It becomes darker"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "What happens if you add black paint to a color?",
+        "choices": [
+          "It becomes darker (a shade)",
+          "It becomes brighter",
+          "It becomes lighter",
+          "It disappears"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "What should you do with your brush between colors?",
+        "choices": [
+          "Rinse it in water",
+          "Break it",
+          "Leave it dirty",
+          "Hide it"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "What do you paint on?",
+        "choices": [
+          "A pillow",
+          "The floor only",
+          "Nothing",
+          "A canvas or paper"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "What happens if you add white paint to a color?",
+        "choices": [
+          "It becomes darker",
+          "It becomes lighter (a tint)",
+          "It disappears",
+          "It becomes clear"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "What happens if you add black paint to a color?",
+        "choices": [
+          "It becomes lighter",
+          "It disappears",
+          "It becomes darker (a shade)",
+          "It becomes brighter"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "What should you do with your brush between colors?",
+        "choices": [
+          "Leave it dirty",
+          "Break it",
+          "Rinse it in water",
+          "Hide it"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "What do you paint on?",
+        "choices": [
+          "A canvas or paper",
+          "The floor only",
+          "A pillow",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "What happens if you add white paint to a color?",
+        "choices": [
+          "It becomes lighter (a tint)",
+          "It becomes darker",
+          "It disappears",
+          "It becomes clear"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "What happens if you add black paint to a color?",
+        "choices": [
+          "It becomes darker (a shade)",
+          "It becomes lighter",
+          "It becomes brighter",
+          "It disappears"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "What should you do with your brush between colors?",
+        "choices": [
+          "Break it",
+          "Hide it",
+          "Rinse it in water",
+          "Leave it dirty"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "What do you paint on?",
+        "choices": [
+          "Nothing",
+          "The floor only",
+          "A canvas or paper",
+          "A pillow"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "What happens if you add white paint to a color?",
+        "choices": [
+          "It disappears",
+          "It becomes darker",
+          "It becomes clear",
+          "It becomes lighter (a tint)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "What happens if you add black paint to a color?",
+        "choices": [
+          "It becomes lighter",
+          "It disappears",
+          "It becomes darker (a shade)",
+          "It becomes brighter"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "What should you do with your brush between colors?",
+        "choices": [
+          "Hide it",
+          "Leave it dirty",
+          "Break it",
+          "Rinse it in water"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "What do you paint on?",
+        "choices": [
+          "A pillow",
+          "A canvas or paper",
+          "Nothing",
+          "The floor only"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "art-12",
+    "subject": "FINE_ART",
+    "title": "Tints and Shades",
+    "description": "Making colors lighter (tints) or darker (shades).",
+    "notes": "A tint is a colour mixed with white (lighter). A shade is a colour mixed with black (darker).",
+    "examples": [
+      "Pink is a tint of red."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Pink is a ___ of red.",
+        "choices": [
+          "primary",
+          "shade",
+          "tint",
+          "secondary"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Navy is a ___ of blue.",
+        "choices": [
+          "shade",
+          "tint",
+          "secondary",
+          "primary"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Adding white makes a...",
+        "choices": [
+          "tone",
+          "shade",
+          "tint",
+          "hue"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Adding black makes a...",
+        "choices": [
+          "hue",
+          "shade",
+          "tint",
+          "tone"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Pink is a ___ of red.",
+        "choices": [
+          "shade",
+          "tint",
+          "secondary",
+          "primary"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Navy is a ___ of blue.",
+        "choices": [
+          "primary",
+          "shade",
+          "tint",
+          "secondary"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "Adding white makes a...",
+        "choices": [
+          "shade",
+          "tint",
+          "hue",
+          "tone"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Adding black makes a...",
+        "choices": [
+          "hue",
+          "shade",
+          "tone",
+          "tint"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Pink is a ___ of red.",
+        "choices": [
+          "tint",
+          "shade",
+          "secondary",
+          "primary"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Navy is a ___ of blue.",
+        "choices": [
+          "shade",
+          "tint",
+          "primary",
+          "secondary"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Adding white makes a...",
+        "choices": [
+          "tone",
+          "shade",
+          "tint",
+          "hue"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Adding black makes a...",
+        "choices": [
+          "tone",
+          "hue",
+          "tint",
+          "shade"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Pink is a ___ of red.",
+        "choices": [
+          "secondary",
+          "primary",
+          "tint",
+          "shade"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Navy is a ___ of blue.",
+        "choices": [
+          "tint",
+          "shade",
+          "primary",
+          "secondary"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Adding white makes a...",
+        "choices": [
+          "shade",
+          "tint",
+          "tone",
+          "hue"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Adding black makes a...",
+        "choices": [
+          "tint",
+          "shade",
+          "tone",
+          "hue"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Pink is a ___ of red.",
+        "choices": [
+          "primary",
+          "secondary",
+          "shade",
+          "tint"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Navy is a ___ of blue.",
+        "choices": [
+          "secondary",
+          "tint",
+          "primary",
+          "shade"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Adding white makes a...",
+        "choices": [
+          "tone",
+          "hue",
+          "tint",
+          "shade"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Adding black makes a...",
+        "choices": [
+          "shade",
+          "tone",
+          "hue",
+          "tint"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "art-13",
+    "subject": "FINE_ART",
+    "title": "Sculpture Basics",
+    "description": "3D art you can shape and touch.",
+    "notes": "A sculpture is 3D art you can walk around and touch, unlike a flat painting.",
+    "examples": [
+      "A clay statue is a sculpture."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A sculpture is a piece of art you can...",
+        "choices": [
+          "See from all sides",
+          "Only smell",
+          "Only see from the front",
+          "Only hear"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "What material can you sculpt with?",
+        "choices": [
+          "Sunlight",
+          "Air",
+          "Water",
+          "Clay"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "A statue is an example of...",
+        "choices": [
+          "A poem",
+          "A painting",
+          "Sculpture",
+          "A song"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "What tool helps shape clay?",
+        "choices": [
+          "Only glue",
+          "Only paint",
+          "Your hands",
+          "Only scissors"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "A sculpture is a piece of art you can...",
+        "choices": [
+          "Only hear",
+          "Only smell",
+          "Only see from the front",
+          "See from all sides"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "What material can you sculpt with?",
+        "choices": [
+          "Air",
+          "Water",
+          "Sunlight",
+          "Clay"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "A statue is an example of...",
+        "choices": [
+          "A poem",
+          "A song",
+          "Sculpture",
+          "A painting"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "What tool helps shape clay?",
+        "choices": [
+          "Your hands",
+          "Only paint",
+          "Only glue",
+          "Only scissors"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "A sculpture is a piece of art you can...",
+        "choices": [
+          "Only hear",
+          "Only smell",
+          "Only see from the front",
+          "See from all sides"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "What material can you sculpt with?",
+        "choices": [
+          "Sunlight",
+          "Clay",
+          "Air",
+          "Water"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "A statue is an example of...",
+        "choices": [
+          "A song",
+          "Sculpture",
+          "A painting",
+          "A poem"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "What tool helps shape clay?",
+        "choices": [
+          "Only paint",
+          "Only glue",
+          "Only scissors",
+          "Your hands"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "A sculpture is a piece of art you can...",
+        "choices": [
+          "Only hear",
+          "Only see from the front",
+          "Only smell",
+          "See from all sides"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "What material can you sculpt with?",
+        "choices": [
+          "Clay",
+          "Air",
+          "Sunlight",
+          "Water"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "A statue is an example of...",
+        "choices": [
+          "Sculpture",
+          "A poem",
+          "A painting",
+          "A song"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "What tool helps shape clay?",
+        "choices": [
+          "Only scissors",
+          "Only glue",
+          "Only paint",
+          "Your hands"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "A sculpture is a piece of art you can...",
+        "choices": [
+          "Only hear",
+          "See from all sides",
+          "Only smell",
+          "Only see from the front"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "What material can you sculpt with?",
+        "choices": [
+          "Air",
+          "Water",
+          "Clay",
+          "Sunlight"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "A statue is an example of...",
+        "choices": [
+          "Sculpture",
+          "A poem",
+          "A song",
+          "A painting"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "What tool helps shape clay?",
+        "choices": [
+          "Only glue",
+          "Your hands",
+          "Only paint",
+          "Only scissors"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "art-14",
+    "subject": "FINE_ART",
+    "title": "Collage Art",
+    "description": "Making pictures by sticking different materials together.",
+    "notes": "A collage is a picture made by sticking different materials onto a surface.",
+    "examples": [
+      "Gluing paper, fabric, and photos together makes a collage."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A collage is made by...",
+        "choices": [
+          "Only drawing lines",
+          "Sticking different materials together",
+          "Only painting",
+          "Only using one color"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Which material could you use in a collage?",
+        "choices": [
+          "Only air",
+          "Only water",
+          "Only pencils",
+          "Torn paper"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "What do you need to make a collage?",
+        "choices": [
+          "Only scissors, no glue",
+          "Only a ruler",
+          "Glue and paper scraps",
+          "Only a pencil"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "A collage can include...",
+        "choices": [
+          "Only crayons",
+          "Only one item",
+          "Nothing at all",
+          "Fabric, buttons, and paper"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "A collage is made by...",
+        "choices": [
+          "Only painting",
+          "Sticking different materials together",
+          "Only drawing lines",
+          "Only using one color"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Which material could you use in a collage?",
+        "choices": [
+          "Only pencils",
+          "Only air",
+          "Torn paper",
+          "Only water"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "What do you need to make a collage?",
+        "choices": [
+          "Only scissors, no glue",
+          "Glue and paper scraps",
+          "Only a ruler",
+          "Only a pencil"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "A collage can include...",
+        "choices": [
+          "Only one item",
+          "Fabric, buttons, and paper",
+          "Nothing at all",
+          "Only crayons"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "A collage is made by...",
+        "choices": [
+          "Only using one color",
+          "Only painting",
+          "Sticking different materials together",
+          "Only drawing lines"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Which material could you use in a collage?",
+        "choices": [
+          "Only water",
+          "Torn paper",
+          "Only pencils",
+          "Only air"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "What do you need to make a collage?",
+        "choices": [
+          "Only a ruler",
+          "Only a pencil",
+          "Glue and paper scraps",
+          "Only scissors, no glue"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "A collage can include...",
+        "choices": [
+          "Nothing at all",
+          "Only crayons",
+          "Fabric, buttons, and paper",
+          "Only one item"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "A collage is made by...",
+        "choices": [
+          "Only drawing lines",
+          "Sticking different materials together",
+          "Only using one color",
+          "Only painting"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Which material could you use in a collage?",
+        "choices": [
+          "Only air",
+          "Only pencils",
+          "Only water",
+          "Torn paper"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "What do you need to make a collage?",
+        "choices": [
+          "Only a ruler",
+          "Only a pencil",
+          "Glue and paper scraps",
+          "Only scissors, no glue"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "A collage can include...",
+        "choices": [
+          "Only one item",
+          "Nothing at all",
+          "Fabric, buttons, and paper",
+          "Only crayons"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "A collage is made by...",
+        "choices": [
+          "Only painting",
+          "Only drawing lines",
+          "Sticking different materials together",
+          "Only using one color"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Which material could you use in a collage?",
+        "choices": [
+          "Torn paper",
+          "Only water",
+          "Only pencils",
+          "Only air"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "What do you need to make a collage?",
+        "choices": [
+          "Only scissors, no glue",
+          "Only a pencil",
+          "Glue and paper scraps",
+          "Only a ruler"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "A collage can include...",
+        "choices": [
+          "Only crayons",
+          "Nothing at all",
+          "Only one item",
+          "Fabric, buttons, and paper"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "art-15",
+    "subject": "FINE_ART",
+    "title": "Printmaking",
+    "description": "Making repeated pictures with stamps and prints.",
+    "notes": "Printmaking repeats the same picture by pressing an inked object onto paper.",
+    "examples": [
+      "A potato cut into a shape can be dipped in paint and stamped."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Potato printing uses a potato as a...",
+        "choices": [
+          "Canvas",
+          "Stamp",
+          "Ruler",
+          "Paintbrush"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What do you dip a stamp into before printing?",
+        "choices": [
+          "Paint",
+          "Water only",
+          "Sand",
+          "Glue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Printing lets you make the same picture...",
+        "choices": [
+          "Many times",
+          "Never",
+          "By accident only",
+          "Only once"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "What shape could you carve into a stamp?",
+        "choices": [
+          "A star",
+          "Only numbers",
+          "Nothing, stamps are blank",
+          "Only letters"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Potato printing uses a potato as a...",
+        "choices": [
+          "Ruler",
+          "Canvas",
+          "Paintbrush",
+          "Stamp"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "What do you dip a stamp into before printing?",
+        "choices": [
+          "Glue",
+          "Water only",
+          "Paint",
+          "Sand"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Printing lets you make the same picture...",
+        "choices": [
+          "Only once",
+          "Never",
+          "Many times",
+          "By accident only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "What shape could you carve into a stamp?",
+        "choices": [
+          "A star",
+          "Only numbers",
+          "Only letters",
+          "Nothing, stamps are blank"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Potato printing uses a potato as a...",
+        "choices": [
+          "Paintbrush",
+          "Ruler",
+          "Canvas",
+          "Stamp"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "What do you dip a stamp into before printing?",
+        "choices": [
+          "Glue",
+          "Sand",
+          "Paint",
+          "Water only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Printing lets you make the same picture...",
+        "choices": [
+          "Many times",
+          "By accident only",
+          "Only once",
+          "Never"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "What shape could you carve into a stamp?",
+        "choices": [
+          "A star",
+          "Only numbers",
+          "Nothing, stamps are blank",
+          "Only letters"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Potato printing uses a potato as a...",
+        "choices": [
+          "Ruler",
+          "Stamp",
+          "Paintbrush",
+          "Canvas"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "What do you dip a stamp into before printing?",
+        "choices": [
+          "Paint",
+          "Water only",
+          "Sand",
+          "Glue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Printing lets you make the same picture...",
+        "choices": [
+          "Never",
+          "Many times",
+          "Only once",
+          "By accident only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "What shape could you carve into a stamp?",
+        "choices": [
+          "A star",
+          "Nothing, stamps are blank",
+          "Only letters",
+          "Only numbers"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Potato printing uses a potato as a...",
+        "choices": [
+          "Ruler",
+          "Stamp",
+          "Canvas",
+          "Paintbrush"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "What do you dip a stamp into before printing?",
+        "choices": [
+          "Sand",
+          "Paint",
+          "Glue",
+          "Water only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Printing lets you make the same picture...",
+        "choices": [
+          "By accident only",
+          "Never",
+          "Only once",
+          "Many times"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "What shape could you carve into a stamp?",
+        "choices": [
+          "Only letters",
+          "Only numbers",
+          "A star",
+          "Nothing, stamps are blank"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "art-16",
+    "subject": "FINE_ART",
+    "title": "Foreground and Background",
+    "description": "Understanding what's near and what's far in a picture.",
+    "notes": "The foreground is what's closest to you in a picture. The background is what's far away.",
+    "examples": [
+      "A flower drawn in front of everything else is in the foreground."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "The part of a picture closest to you is the...",
+        "choices": [
+          "Background",
+          "Foreground",
+          "Middle ground",
+          "Outline"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "The part of a picture farthest away is the...",
+        "choices": [
+          "Foreground",
+          "Frame",
+          "Middle ground",
+          "Background"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Things in the background usually look...",
+        "choices": [
+          "Smaller",
+          "Invisible",
+          "Bigger",
+          "The same size"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Things in the foreground usually look...",
+        "choices": [
+          "Bigger and clearer",
+          "Invisible",
+          "Smaller and blurry",
+          "Upside down"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "The part of a picture closest to you is the...",
+        "choices": [
+          "Foreground",
+          "Outline",
+          "Middle ground",
+          "Background"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "The part of a picture farthest away is the...",
+        "choices": [
+          "Frame",
+          "Middle ground",
+          "Foreground",
+          "Background"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Things in the background usually look...",
+        "choices": [
+          "Smaller",
+          "Bigger",
+          "Invisible",
+          "The same size"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Things in the foreground usually look...",
+        "choices": [
+          "Upside down",
+          "Invisible",
+          "Bigger and clearer",
+          "Smaller and blurry"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "The part of a picture closest to you is the...",
+        "choices": [
+          "Foreground",
+          "Outline",
+          "Middle ground",
+          "Background"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "The part of a picture farthest away is the...",
+        "choices": [
+          "Middle ground",
+          "Foreground",
+          "Frame",
+          "Background"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Things in the background usually look...",
+        "choices": [
+          "Bigger",
+          "Smaller",
+          "Invisible",
+          "The same size"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Things in the foreground usually look...",
+        "choices": [
+          "Invisible",
+          "Upside down",
+          "Bigger and clearer",
+          "Smaller and blurry"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "The part of a picture closest to you is the...",
+        "choices": [
+          "Background",
+          "Foreground",
+          "Outline",
+          "Middle ground"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "The part of a picture farthest away is the...",
+        "choices": [
+          "Background",
+          "Frame",
+          "Middle ground",
+          "Foreground"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Things in the background usually look...",
+        "choices": [
+          "Bigger",
+          "Smaller",
+          "Invisible",
+          "The same size"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Things in the foreground usually look...",
+        "choices": [
+          "Smaller and blurry",
+          "Invisible",
+          "Bigger and clearer",
+          "Upside down"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "The part of a picture closest to you is the...",
+        "choices": [
+          "Outline",
+          "Middle ground",
+          "Foreground",
+          "Background"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "The part of a picture farthest away is the...",
+        "choices": [
+          "Frame",
+          "Middle ground",
+          "Foreground",
+          "Background"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Things in the background usually look...",
+        "choices": [
+          "The same size",
+          "Smaller",
+          "Invisible",
+          "Bigger"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Things in the foreground usually look...",
+        "choices": [
+          "Smaller and blurry",
+          "Upside down",
+          "Bigger and clearer",
+          "Invisible"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "art-17",
+    "subject": "FINE_ART",
+    "title": "Portraits, Landscapes & Still Life",
+    "description": "Different types of pictures artists make.",
+    "notes": "A portrait shows a face, a landscape shows scenery, and a still life shows objects like fruit in a bowl.",
+    "examples": [
+      "A picture of a person's face is called a portrait."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A picture of a person's face is called a...",
+        "choices": [
+          "Landscape",
+          "Pattern",
+          "Still life",
+          "Portrait"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "A picture of mountains and fields is called a...",
+        "choices": [
+          "Still life",
+          "Portrait",
+          "Landscape",
+          "Collage"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "A painting of fruit in a bowl is a...",
+        "choices": [
+          "Still life",
+          "Sculpture",
+          "Landscape",
+          "Portrait"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "If you paint your friend's face, you're making a...",
+        "choices": [
+          "Pattern",
+          "Portrait",
+          "Print",
+          "Landscape"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "A picture of a person's face is called a...",
+        "choices": [
+          "Portrait",
+          "Pattern",
+          "Still life",
+          "Landscape"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "A picture of mountains and fields is called a...",
+        "choices": [
+          "Landscape",
+          "Collage",
+          "Portrait",
+          "Still life"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "A painting of fruit in a bowl is a...",
+        "choices": [
+          "Landscape",
+          "Sculpture",
+          "Portrait",
+          "Still life"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "If you paint your friend's face, you're making a...",
+        "choices": [
+          "Landscape",
+          "Pattern",
+          "Print",
+          "Portrait"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "A picture of a person's face is called a...",
+        "choices": [
+          "Landscape",
+          "Pattern",
+          "Portrait",
+          "Still life"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "A picture of mountains and fields is called a...",
+        "choices": [
+          "Collage",
+          "Still life",
+          "Portrait",
+          "Landscape"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "A painting of fruit in a bowl is a...",
+        "choices": [
+          "Portrait",
+          "Still life",
+          "Landscape",
+          "Sculpture"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "If you paint your friend's face, you're making a...",
+        "choices": [
+          "Print",
+          "Portrait",
+          "Pattern",
+          "Landscape"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "A picture of a person's face is called a...",
+        "choices": [
+          "Landscape",
+          "Pattern",
+          "Portrait",
+          "Still life"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "A picture of mountains and fields is called a...",
+        "choices": [
+          "Landscape",
+          "Portrait",
+          "Still life",
+          "Collage"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "A painting of fruit in a bowl is a...",
+        "choices": [
+          "Portrait",
+          "Still life",
+          "Sculpture",
+          "Landscape"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "If you paint your friend's face, you're making a...",
+        "choices": [
+          "Portrait",
+          "Landscape",
+          "Print",
+          "Pattern"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "A picture of a person's face is called a...",
+        "choices": [
+          "Still life",
+          "Pattern",
+          "Landscape",
+          "Portrait"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "A picture of mountains and fields is called a...",
+        "choices": [
+          "Portrait",
+          "Collage",
+          "Still life",
+          "Landscape"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "A painting of fruit in a bowl is a...",
+        "choices": [
+          "Sculpture",
+          "Portrait",
+          "Landscape",
+          "Still life"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "If you paint your friend's face, you're making a...",
+        "choices": [
+          "Pattern",
+          "Portrait",
+          "Print",
+          "Landscape"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "art-18",
+    "subject": "FINE_ART",
+    "title": "Art from Nature",
+    "description": "Using leaves, shells, and twigs to make art.",
+    "notes": "Natural objects like leaves, shells, and twigs can be used to make art.",
+    "examples": [
+      "A leaf can be dipped in paint to print its shape."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which natural object could you use for art?",
+        "choices": [
+          "A phone",
+          "A computer",
+          "A car",
+          "A leaf"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "What can you make from fallen leaves?",
+        "choices": [
+          "A leaf rubbing or collage",
+          "A song only",
+          "A phone call",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Pinecones and shells are good for making...",
+        "choices": [
+          "Paintings only",
+          "Nothing",
+          "Music only",
+          "Nature sculptures"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "What might you collect on a nature walk for art?",
+        "choices": [
+          "Cars",
+          "Furniture",
+          "Twigs and flowers",
+          "Electronics"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Which natural object could you use for art?",
+        "choices": [
+          "A phone",
+          "A leaf",
+          "A computer",
+          "A car"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "What can you make from fallen leaves?",
+        "choices": [
+          "A song only",
+          "Nothing",
+          "A leaf rubbing or collage",
+          "A phone call"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Pinecones and shells are good for making...",
+        "choices": [
+          "Music only",
+          "Nature sculptures",
+          "Nothing",
+          "Paintings only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "What might you collect on a nature walk for art?",
+        "choices": [
+          "Furniture",
+          "Cars",
+          "Twigs and flowers",
+          "Electronics"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Which natural object could you use for art?",
+        "choices": [
+          "A leaf",
+          "A phone",
+          "A computer",
+          "A car"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What can you make from fallen leaves?",
+        "choices": [
+          "Nothing",
+          "A phone call",
+          "A leaf rubbing or collage",
+          "A song only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Pinecones and shells are good for making...",
+        "choices": [
+          "Paintings only",
+          "Music only",
+          "Nature sculptures",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "What might you collect on a nature walk for art?",
+        "choices": [
+          "Electronics",
+          "Twigs and flowers",
+          "Furniture",
+          "Cars"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Which natural object could you use for art?",
+        "choices": [
+          "A leaf",
+          "A phone",
+          "A computer",
+          "A car"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "What can you make from fallen leaves?",
+        "choices": [
+          "A song only",
+          "A leaf rubbing or collage",
+          "Nothing",
+          "A phone call"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Pinecones and shells are good for making...",
+        "choices": [
+          "Nothing",
+          "Nature sculptures",
+          "Music only",
+          "Paintings only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "What might you collect on a nature walk for art?",
+        "choices": [
+          "Furniture",
+          "Electronics",
+          "Twigs and flowers",
+          "Cars"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Which natural object could you use for art?",
+        "choices": [
+          "A computer",
+          "A car",
+          "A leaf",
+          "A phone"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "What can you make from fallen leaves?",
+        "choices": [
+          "Nothing",
+          "A phone call",
+          "A song only",
+          "A leaf rubbing or collage"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Pinecones and shells are good for making...",
+        "choices": [
+          "Nature sculptures",
+          "Music only",
+          "Paintings only",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "What might you collect on a nature walk for art?",
+        "choices": [
+          "Twigs and flowers",
+          "Cars",
+          "Electronics",
+          "Furniture"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "art-19",
+    "subject": "FINE_ART",
+    "title": "Patterns in Nature",
+    "description": "Spotting repeating patterns in the natural world.",
+    "notes": "Nature has its own repeating patterns, like the hexagons in a honeycomb.",
+    "examples": [
+      "A honeycomb is made of repeating hexagons."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A honeycomb is made of which repeating shape?",
+        "choices": [
+          "Hexagons",
+          "Triangles",
+          "Circles",
+          "Stars"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "A zebra's stripes are an example of a...",
+        "choices": [
+          "Texture only",
+          "Pattern",
+          "Single color",
+          "Random splat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "A spiral pattern can be seen in a...",
+        "choices": [
+          "Straight ruler",
+          "Square box",
+          "Flat table",
+          "Snail shell"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Flower petals often grow in a...",
+        "choices": [
+          "Total mess",
+          "Repeating pattern",
+          "Straight line only",
+          "Single dot"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "A honeycomb is made of which repeating shape?",
+        "choices": [
+          "Triangles",
+          "Hexagons",
+          "Circles",
+          "Stars"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "A zebra's stripes are an example of a...",
+        "choices": [
+          "Texture only",
+          "Pattern",
+          "Random splat",
+          "Single color"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "A spiral pattern can be seen in a...",
+        "choices": [
+          "Flat table",
+          "Straight ruler",
+          "Square box",
+          "Snail shell"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Flower petals often grow in a...",
+        "choices": [
+          "Repeating pattern",
+          "Single dot",
+          "Straight line only",
+          "Total mess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "A honeycomb is made of which repeating shape?",
+        "choices": [
+          "Stars",
+          "Circles",
+          "Triangles",
+          "Hexagons"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "A zebra's stripes are an example of a...",
+        "choices": [
+          "Random splat",
+          "Single color",
+          "Texture only",
+          "Pattern"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "A spiral pattern can be seen in a...",
+        "choices": [
+          "Square box",
+          "Snail shell",
+          "Straight ruler",
+          "Flat table"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Flower petals often grow in a...",
+        "choices": [
+          "Total mess",
+          "Single dot",
+          "Repeating pattern",
+          "Straight line only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "A honeycomb is made of which repeating shape?",
+        "choices": [
+          "Hexagons",
+          "Stars",
+          "Triangles",
+          "Circles"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "A zebra's stripes are an example of a...",
+        "choices": [
+          "Random splat",
+          "Single color",
+          "Pattern",
+          "Texture only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "A spiral pattern can be seen in a...",
+        "choices": [
+          "Square box",
+          "Snail shell",
+          "Straight ruler",
+          "Flat table"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Flower petals often grow in a...",
+        "choices": [
+          "Total mess",
+          "Single dot",
+          "Straight line only",
+          "Repeating pattern"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "A honeycomb is made of which repeating shape?",
+        "choices": [
+          "Hexagons",
+          "Triangles",
+          "Circles",
+          "Stars"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "A zebra's stripes are an example of a...",
+        "choices": [
+          "Single color",
+          "Pattern",
+          "Texture only",
+          "Random splat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "A spiral pattern can be seen in a...",
+        "choices": [
+          "Square box",
+          "Straight ruler",
+          "Flat table",
+          "Snail shell"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Flower petals often grow in a...",
+        "choices": [
+          "Total mess",
+          "Straight line only",
+          "Single dot",
+          "Repeating pattern"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "art-20",
+    "subject": "FINE_ART",
+    "title": "Mosaic Art",
+    "description": "Making pictures from many small pieces.",
+    "notes": "A mosaic is a picture made from many small pieces of tile, glass, or paper.",
+    "examples": [
+      "Ancient buildings often had mosaic floors made of tiny tiles."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A mosaic is a picture made from...",
+        "choices": [
+          "Small tiles or pieces",
+          "Nothing",
+          "Only pencil lines",
+          "One big brush stroke"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "What can you use to make a mosaic?",
+        "choices": [
+          "Air",
+          "A single crayon line",
+          "Small paper squares",
+          "Water only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Ancient artists used mosaics to decorate...",
+        "choices": [
+          "Nothing",
+          "Water",
+          "Floors and walls",
+          "Clouds"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Mosaic pieces are usually glued onto a...",
+        "choices": [
+          "Nothing at all",
+          "Flat surface",
+          "Balloon",
+          "Cloud"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "A mosaic is a picture made from...",
+        "choices": [
+          "One big brush stroke",
+          "Only pencil lines",
+          "Small tiles or pieces",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "What can you use to make a mosaic?",
+        "choices": [
+          "A single crayon line",
+          "Water only",
+          "Air",
+          "Small paper squares"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Ancient artists used mosaics to decorate...",
+        "choices": [
+          "Clouds",
+          "Water",
+          "Nothing",
+          "Floors and walls"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Mosaic pieces are usually glued onto a...",
+        "choices": [
+          "Balloon",
+          "Flat surface",
+          "Nothing at all",
+          "Cloud"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "A mosaic is a picture made from...",
+        "choices": [
+          "Small tiles or pieces",
+          "Nothing",
+          "One big brush stroke",
+          "Only pencil lines"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What can you use to make a mosaic?",
+        "choices": [
+          "A single crayon line",
+          "Air",
+          "Small paper squares",
+          "Water only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Ancient artists used mosaics to decorate...",
+        "choices": [
+          "Water",
+          "Clouds",
+          "Floors and walls",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Mosaic pieces are usually glued onto a...",
+        "choices": [
+          "Cloud",
+          "Flat surface",
+          "Nothing at all",
+          "Balloon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "A mosaic is a picture made from...",
+        "choices": [
+          "Small tiles or pieces",
+          "Nothing",
+          "One big brush stroke",
+          "Only pencil lines"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "What can you use to make a mosaic?",
+        "choices": [
+          "A single crayon line",
+          "Water only",
+          "Air",
+          "Small paper squares"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Ancient artists used mosaics to decorate...",
+        "choices": [
+          "Floors and walls",
+          "Clouds",
+          "Water",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Mosaic pieces are usually glued onto a...",
+        "choices": [
+          "Cloud",
+          "Balloon",
+          "Flat surface",
+          "Nothing at all"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "A mosaic is a picture made from...",
+        "choices": [
+          "Small tiles or pieces",
+          "Nothing",
+          "One big brush stroke",
+          "Only pencil lines"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "What can you use to make a mosaic?",
+        "choices": [
+          "Small paper squares",
+          "Water only",
+          "Air",
+          "A single crayon line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Ancient artists used mosaics to decorate...",
+        "choices": [
+          "Water",
+          "Nothing",
+          "Floors and walls",
+          "Clouds"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Mosaic pieces are usually glued onto a...",
+        "choices": [
+          "Balloon",
+          "Nothing at all",
+          "Cloud",
+          "Flat surface"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "art-21",
+    "subject": "FINE_ART",
+    "title": "Paper Crafts",
+    "description": "Folding, cutting, and looping paper into art.",
+    "notes": "Paper can be folded, cut, or curled to make 3D art.",
+    "examples": [
+      "Folding paper into shapes is called origami."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Folding paper to make shapes is called...",
+        "choices": [
+          "Printing",
+          "Origami",
+          "Sculpting",
+          "Painting"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What do you need to cut paper safely?",
+        "choices": [
+          "Child-safe scissors",
+          "A knife",
+          "Fire",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "What can you make by folding paper in half repeatedly?",
+        "choices": [
+          "A sound",
+          "A liquid",
+          "A fan",
+          "A smell"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Paper chains are made by...",
+        "choices": [
+          "Eating paper",
+          "Freezing paper",
+          "Looping and gluing strips",
+          "Burning paper"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Folding paper to make shapes is called...",
+        "choices": [
+          "Printing",
+          "Sculpting",
+          "Origami",
+          "Painting"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "What do you need to cut paper safely?",
+        "choices": [
+          "Fire",
+          "A knife",
+          "Child-safe scissors",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "What can you make by folding paper in half repeatedly?",
+        "choices": [
+          "A sound",
+          "A fan",
+          "A liquid",
+          "A smell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Paper chains are made by...",
+        "choices": [
+          "Burning paper",
+          "Looping and gluing strips",
+          "Eating paper",
+          "Freezing paper"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Folding paper to make shapes is called...",
+        "choices": [
+          "Painting",
+          "Sculpting",
+          "Printing",
+          "Origami"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "What do you need to cut paper safely?",
+        "choices": [
+          "Nothing",
+          "Fire",
+          "Child-safe scissors",
+          "A knife"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "What can you make by folding paper in half repeatedly?",
+        "choices": [
+          "A liquid",
+          "A smell",
+          "A sound",
+          "A fan"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "Paper chains are made by...",
+        "choices": [
+          "Burning paper",
+          "Looping and gluing strips",
+          "Eating paper",
+          "Freezing paper"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Folding paper to make shapes is called...",
+        "choices": [
+          "Painting",
+          "Sculpting",
+          "Origami",
+          "Printing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "What do you need to cut paper safely?",
+        "choices": [
+          "A knife",
+          "Child-safe scissors",
+          "Nothing",
+          "Fire"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "What can you make by folding paper in half repeatedly?",
+        "choices": [
+          "A sound",
+          "A fan",
+          "A liquid",
+          "A smell"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Paper chains are made by...",
+        "choices": [
+          "Freezing paper",
+          "Eating paper",
+          "Burning paper",
+          "Looping and gluing strips"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Folding paper to make shapes is called...",
+        "choices": [
+          "Printing",
+          "Painting",
+          "Origami",
+          "Sculpting"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "What do you need to cut paper safely?",
+        "choices": [
+          "Child-safe scissors",
+          "Fire",
+          "A knife",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "What can you make by folding paper in half repeatedly?",
+        "choices": [
+          "A liquid",
+          "A sound",
+          "A fan",
+          "A smell"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Paper chains are made by...",
+        "choices": [
+          "Freezing paper",
+          "Eating paper",
+          "Looping and gluing strips",
+          "Burning paper"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "art-22",
+    "subject": "FINE_ART",
+    "title": "Drawing Animals",
+    "description": "Using simple shapes to draw animals.",
+    "notes": "Animals can be built from simple shapes, like ovals and circles.",
+    "examples": [
+      "A long, curvy line helps you draw a snake."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What shape helps you draw a snake?",
+        "choices": [
+          "a spiral shell",
+          "an oval body",
+          "a wavy line",
+          "eight lines for legs"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "What shape helps you draw an owl?",
+        "choices": [
+          "circles for eyes",
+          "an oval body",
+          "a wavy line",
+          "triangle ears"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "What shape helps you draw a cat?",
+        "choices": [
+          "circles for eyes",
+          "a wavy line",
+          "triangle ears",
+          "an oval body"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "What shape helps you draw a fish?",
+        "choices": [
+          "circles for eyes",
+          "a wavy line",
+          "eight lines for legs",
+          "an oval body"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "What shape helps you draw a spider?",
+        "choices": [
+          "eight lines for legs",
+          "a spiral shell",
+          "a wavy line",
+          "an oval body"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "What shape helps you draw a snail?",
+        "choices": [
+          "a wavy line",
+          "triangle ears",
+          "a spiral shell",
+          "an oval body"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "What shape helps you draw a snake?",
+        "choices": [
+          "a spiral shell",
+          "a wavy line",
+          "circles for eyes",
+          "an oval body"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "What shape helps you draw an owl?",
+        "choices": [
+          "a spiral shell",
+          "triangle ears",
+          "eight lines for legs",
+          "circles for eyes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "What shape helps you draw a cat?",
+        "choices": [
+          "triangle ears",
+          "eight lines for legs",
+          "a spiral shell",
+          "a wavy line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What shape helps you draw a fish?",
+        "choices": [
+          "triangle ears",
+          "eight lines for legs",
+          "an oval body",
+          "a wavy line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "What shape helps you draw a spider?",
+        "choices": [
+          "a spiral shell",
+          "a wavy line",
+          "an oval body",
+          "eight lines for legs"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "What shape helps you draw a snail?",
+        "choices": [
+          "a wavy line",
+          "eight lines for legs",
+          "an oval body",
+          "a spiral shell"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "What shape helps you draw a snake?",
+        "choices": [
+          "a spiral shell",
+          "triangle ears",
+          "a wavy line",
+          "an oval body"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "What shape helps you draw an owl?",
+        "choices": [
+          "triangle ears",
+          "eight lines for legs",
+          "circles for eyes",
+          "a spiral shell"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "What shape helps you draw a cat?",
+        "choices": [
+          "triangle ears",
+          "an oval body",
+          "eight lines for legs",
+          "a wavy line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "What shape helps you draw a fish?",
+        "choices": [
+          "triangle ears",
+          "circles for eyes",
+          "an oval body",
+          "a wavy line"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "What shape helps you draw a spider?",
+        "choices": [
+          "a spiral shell",
+          "an oval body",
+          "eight lines for legs",
+          "triangle ears"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "What shape helps you draw a snail?",
+        "choices": [
+          "circles for eyes",
+          "triangle ears",
+          "an oval body",
+          "a spiral shell"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What shape helps you draw a snake?",
+        "choices": [
+          "an oval body",
+          "eight lines for legs",
+          "circles for eyes",
+          "a wavy line"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "What shape helps you draw an owl?",
+        "choices": [
+          "circles for eyes",
+          "eight lines for legs",
+          "an oval body",
+          "triangle ears"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "art-23",
+    "subject": "FINE_ART",
+    "title": "Drawing People",
+    "description": "Simple shapes for drawing people and faces.",
+    "notes": "People are often drawn starting with simple shapes for the head and body.",
+    "examples": [
+      "A circle or oval is often used to draw a head."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What shape is often used for a head?",
+        "choices": [
+          "A hexagon",
+          "A star",
+          "A zigzag",
+          "An oval or circle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "How many arms does a person usually have in a drawing?",
+        "choices": [
+          "1",
+          "4",
+          "2",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "What do you draw to show a person is smiling?",
+        "choices": [
+          "A square",
+          "A curved line (smile)",
+          "A straight line only",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "What do you usually draw below the head?",
+        "choices": [
+          "The sky",
+          "Clouds",
+          "The body",
+          "A car"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "What shape is often used for a head?",
+        "choices": [
+          "An oval or circle",
+          "A star",
+          "A zigzag",
+          "A hexagon"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "How many arms does a person usually have in a drawing?",
+        "choices": [
+          "3",
+          "4",
+          "1",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "What do you draw to show a person is smiling?",
+        "choices": [
+          "A square",
+          "Nothing",
+          "A straight line only",
+          "A curved line (smile)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "What do you usually draw below the head?",
+        "choices": [
+          "The sky",
+          "Clouds",
+          "A car",
+          "The body"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "What shape is often used for a head?",
+        "choices": [
+          "A star",
+          "A zigzag",
+          "A hexagon",
+          "An oval or circle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "How many arms does a person usually have in a drawing?",
+        "choices": [
+          "1",
+          "4",
+          "2",
+          "3"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "What do you draw to show a person is smiling?",
+        "choices": [
+          "A straight line only",
+          "A square",
+          "A curved line (smile)",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "What do you usually draw below the head?",
+        "choices": [
+          "The body",
+          "Clouds",
+          "The sky",
+          "A car"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "What shape is often used for a head?",
+        "choices": [
+          "An oval or circle",
+          "A hexagon",
+          "A star",
+          "A zigzag"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "How many arms does a person usually have in a drawing?",
+        "choices": [
+          "4",
+          "1",
+          "3",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "What do you draw to show a person is smiling?",
+        "choices": [
+          "Nothing",
+          "A straight line only",
+          "A square",
+          "A curved line (smile)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "What do you usually draw below the head?",
+        "choices": [
+          "The sky",
+          "The body",
+          "A car",
+          "Clouds"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "What shape is often used for a head?",
+        "choices": [
+          "A star",
+          "A zigzag",
+          "An oval or circle",
+          "A hexagon"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "How many arms does a person usually have in a drawing?",
+        "choices": [
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What do you draw to show a person is smiling?",
+        "choices": [
+          "Nothing",
+          "A square",
+          "A curved line (smile)",
+          "A straight line only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "What do you usually draw below the head?",
+        "choices": [
+          "Clouds",
+          "The sky",
+          "The body",
+          "A car"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "art-24",
+    "subject": "FINE_ART",
+    "title": "Perspective Basics",
+    "description": "Understanding near and far in drawings.",
+    "notes": "Things that are far away look smaller than things that are close up.",
+    "examples": [
+      "A faraway tree looks tiny; a close-up tree looks huge."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Things that are far away look...",
+        "choices": [
+          "Smaller",
+          "Bigger",
+          "The same size",
+          "Invisible"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Things that are close look...",
+        "choices": [
+          "Tiny",
+          "Gone",
+          "Bigger",
+          "Smaller"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "A road drawn going into the distance should get...",
+        "choices": [
+          "Wider",
+          "The same width",
+          "Narrower",
+          "Curvy only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Which object would look smaller in a drawing: a house up close or a house far away?",
+        "choices": [
+          "Both the same",
+          "Neither",
+          "The house up close",
+          "The house far away"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Things that are far away look...",
+        "choices": [
+          "Bigger",
+          "Smaller",
+          "Invisible",
+          "The same size"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Things that are close look...",
+        "choices": [
+          "Tiny",
+          "Bigger",
+          "Smaller",
+          "Gone"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "A road drawn going into the distance should get...",
+        "choices": [
+          "The same width",
+          "Wider",
+          "Curvy only",
+          "Narrower"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Which object would look smaller in a drawing: a house up close or a house far away?",
+        "choices": [
+          "The house far away",
+          "Both the same",
+          "The house up close",
+          "Neither"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Things that are far away look...",
+        "choices": [
+          "Smaller",
+          "Invisible",
+          "Bigger",
+          "The same size"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Things that are close look...",
+        "choices": [
+          "Smaller",
+          "Tiny",
+          "Bigger",
+          "Gone"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "A road drawn going into the distance should get...",
+        "choices": [
+          "Curvy only",
+          "Narrower",
+          "Wider",
+          "The same width"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Which object would look smaller in a drawing: a house up close or a house far away?",
+        "choices": [
+          "The house far away",
+          "Neither",
+          "Both the same",
+          "The house up close"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Things that are far away look...",
+        "choices": [
+          "The same size",
+          "Bigger",
+          "Invisible",
+          "Smaller"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Things that are close look...",
+        "choices": [
+          "Bigger",
+          "Smaller",
+          "Tiny",
+          "Gone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "A road drawn going into the distance should get...",
+        "choices": [
+          "The same width",
+          "Curvy only",
+          "Narrower",
+          "Wider"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Which object would look smaller in a drawing: a house up close or a house far away?",
+        "choices": [
+          "Both the same",
+          "Neither",
+          "The house far away",
+          "The house up close"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Things that are far away look...",
+        "choices": [
+          "Smaller",
+          "Invisible",
+          "The same size",
+          "Bigger"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Things that are close look...",
+        "choices": [
+          "Bigger",
+          "Gone",
+          "Smaller",
+          "Tiny"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "A road drawn going into the distance should get...",
+        "choices": [
+          "Wider",
+          "Narrower",
+          "The same width",
+          "Curvy only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Which object would look smaller in a drawing: a house up close or a house far away?",
+        "choices": [
+          "The house far away",
+          "Both the same",
+          "The house up close",
+          "Neither"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "art-25",
+    "subject": "FINE_ART",
+    "title": "Meet Some Artists",
+    "description": "A gentle introduction to a few famous painters.",
+    "notes": "Famous artists are often known for a special style or a famous piece of art.",
+    "examples": [
+      "Vincent van Gogh is famous for painting a starry night sky."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Vincent van Gogh was famous for painting a starry night sky. What did he paint stars in?",
+        "choices": [
+          "The night sky",
+          "The ocean",
+          "A cave",
+          "A desert"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Pablo Picasso often painted shapes in interesting, mixed-up ways. What art movement is he known for?",
+        "choices": [
+          "Realism",
+          "Photography",
+          "Sculpture only",
+          "Cubism"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Claude Monet loved painting gardens and water lilies. What did he often paint?",
+        "choices": [
+          "Water lilies",
+          "Robots",
+          "Skyscrapers",
+          "Cars"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Georgia O'Keeffe was known for painting large, colorful...",
+        "choices": [
+          "Bicycles",
+          "Computers",
+          "Bridges only",
+          "Flowers"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Vincent van Gogh was famous for painting a starry night sky. What did he paint stars in?",
+        "choices": [
+          "A cave",
+          "The night sky",
+          "The ocean",
+          "A desert"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Pablo Picasso often painted shapes in interesting, mixed-up ways. What art movement is he known for?",
+        "choices": [
+          "Sculpture only",
+          "Photography",
+          "Cubism",
+          "Realism"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Claude Monet loved painting gardens and water lilies. What did he often paint?",
+        "choices": [
+          "Cars",
+          "Water lilies",
+          "Robots",
+          "Skyscrapers"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Georgia O'Keeffe was known for painting large, colorful...",
+        "choices": [
+          "Computers",
+          "Bridges only",
+          "Bicycles",
+          "Flowers"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Vincent van Gogh was famous for painting a starry night sky. What did he paint stars in?",
+        "choices": [
+          "The ocean",
+          "The night sky",
+          "A cave",
+          "A desert"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Pablo Picasso often painted shapes in interesting, mixed-up ways. What art movement is he known for?",
+        "choices": [
+          "Sculpture only",
+          "Photography",
+          "Realism",
+          "Cubism"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Claude Monet loved painting gardens and water lilies. What did he often paint?",
+        "choices": [
+          "Robots",
+          "Water lilies",
+          "Cars",
+          "Skyscrapers"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Georgia O'Keeffe was known for painting large, colorful...",
+        "choices": [
+          "Bridges only",
+          "Flowers",
+          "Bicycles",
+          "Computers"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Vincent van Gogh was famous for painting a starry night sky. What did he paint stars in?",
+        "choices": [
+          "A cave",
+          "The ocean",
+          "A desert",
+          "The night sky"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Pablo Picasso often painted shapes in interesting, mixed-up ways. What art movement is he known for?",
+        "choices": [
+          "Realism",
+          "Sculpture only",
+          "Photography",
+          "Cubism"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Claude Monet loved painting gardens and water lilies. What did he often paint?",
+        "choices": [
+          "Skyscrapers",
+          "Cars",
+          "Robots",
+          "Water lilies"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Georgia O'Keeffe was known for painting large, colorful...",
+        "choices": [
+          "Bicycles",
+          "Flowers",
+          "Bridges only",
+          "Computers"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Vincent van Gogh was famous for painting a starry night sky. What did he paint stars in?",
+        "choices": [
+          "The night sky",
+          "A cave",
+          "A desert",
+          "The ocean"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Pablo Picasso often painted shapes in interesting, mixed-up ways. What art movement is he known for?",
+        "choices": [
+          "Photography",
+          "Sculpture only",
+          "Cubism",
+          "Realism"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Claude Monet loved painting gardens and water lilies. What did he often paint?",
+        "choices": [
+          "Robots",
+          "Water lilies",
+          "Cars",
+          "Skyscrapers"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Georgia O'Keeffe was known for painting large, colorful...",
+        "choices": [
+          "Bridges only",
+          "Bicycles",
+          "Flowers",
+          "Computers"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "art-26",
+    "subject": "FINE_ART",
+    "title": "Art Around the World",
+    "description": "Exploring colorful art traditions from different cultures.",
+    "notes": "Different cultures around the world have their own art traditions and patterns.",
+    "examples": [
+      "A mandala is a colourful, circular pattern used in art from India and other cultures."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A mandala is a colorful, circular pattern used in art from...",
+        "choices": [
+          "India",
+          "A phone",
+          "A car factory",
+          "The moon"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Aboriginal Australian art often uses dot patterns to tell...",
+        "choices": [
+          "Only numbers",
+          "Nothing at all",
+          "Weather reports",
+          "Stories"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Lanterns are a common craft during festivals like...",
+        "choices": [
+          "A car wash",
+          "A regular Tuesday",
+          "Lunar New Year",
+          "A math test"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Henna patterns are painted on...",
+        "choices": [
+          "Hands",
+          "Cars",
+          "Walls only",
+          "The sky"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "A mandala is a colorful, circular pattern used in art from...",
+        "choices": [
+          "A car factory",
+          "The moon",
+          "India",
+          "A phone"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Aboriginal Australian art often uses dot patterns to tell...",
+        "choices": [
+          "Only numbers",
+          "Nothing at all",
+          "Stories",
+          "Weather reports"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Lanterns are a common craft during festivals like...",
+        "choices": [
+          "A car wash",
+          "Lunar New Year",
+          "A math test",
+          "A regular Tuesday"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Henna patterns are painted on...",
+        "choices": [
+          "Walls only",
+          "Cars",
+          "Hands",
+          "The sky"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "A mandala is a colorful, circular pattern used in art from...",
+        "choices": [
+          "India",
+          "A car factory",
+          "A phone",
+          "The moon"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Aboriginal Australian art often uses dot patterns to tell...",
+        "choices": [
+          "Only numbers",
+          "Weather reports",
+          "Nothing at all",
+          "Stories"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Lanterns are a common craft during festivals like...",
+        "choices": [
+          "A math test",
+          "Lunar New Year",
+          "A regular Tuesday",
+          "A car wash"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Henna patterns are painted on...",
+        "choices": [
+          "Walls only",
+          "Cars",
+          "Hands",
+          "The sky"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "A mandala is a colorful, circular pattern used in art from...",
+        "choices": [
+          "A phone",
+          "India",
+          "A car factory",
+          "The moon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Aboriginal Australian art often uses dot patterns to tell...",
+        "choices": [
+          "Stories",
+          "Nothing at all",
+          "Weather reports",
+          "Only numbers"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Lanterns are a common craft during festivals like...",
+        "choices": [
+          "A regular Tuesday",
+          "A car wash",
+          "Lunar New Year",
+          "A math test"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Henna patterns are painted on...",
+        "choices": [
+          "Cars",
+          "Hands",
+          "The sky",
+          "Walls only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "A mandala is a colorful, circular pattern used in art from...",
+        "choices": [
+          "The moon",
+          "A car factory",
+          "A phone",
+          "India"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Aboriginal Australian art often uses dot patterns to tell...",
+        "choices": [
+          "Nothing at all",
+          "Weather reports",
+          "Stories",
+          "Only numbers"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Lanterns are a common craft during festivals like...",
+        "choices": [
+          "Lunar New Year",
+          "A car wash",
+          "A regular Tuesday",
+          "A math test"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Henna patterns are painted on...",
+        "choices": [
+          "Hands",
+          "Cars",
+          "Walls only",
+          "The sky"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "art-27",
+    "subject": "FINE_ART",
+    "title": "Colors and Feelings",
+    "description": "How colors can make us feel different moods.",
+    "notes": "Colours can make us feel different moods - red can feel exciting, blue can feel calm.",
+    "examples": [
+      "Red often makes people feel excited or energetic."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What feeling does the color Red often give people?",
+        "choices": [
+          "serious or mysterious",
+          "excited or energetic",
+          "calm or a little sad",
+          "magical or royal"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "What feeling does the color Blue often give people?",
+        "choices": [
+          "calm or a little sad",
+          "magical or royal",
+          "serious or mysterious",
+          "excited or energetic"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "What feeling does the color Yellow often give people?",
+        "choices": [
+          "cheerful and bright",
+          "fresh and natural",
+          "calm or a little sad",
+          "magical or royal"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "What feeling does the color Black often give people?",
+        "choices": [
+          "fresh and natural",
+          "calm or a little sad",
+          "serious or mysterious",
+          "excited or energetic"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#2E2A26"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "What feeling does the color Green often give people?",
+        "choices": [
+          "cheerful and bright",
+          "calm or a little sad",
+          "fresh and natural",
+          "magical or royal"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "What feeling does the color Purple often give people?",
+        "choices": [
+          "magical or royal",
+          "serious or mysterious",
+          "calm or a little sad",
+          "cheerful and bright"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "What feeling does the color Red often give people?",
+        "choices": [
+          "magical or royal",
+          "serious or mysterious",
+          "excited or energetic",
+          "cheerful and bright"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "What feeling does the color Blue often give people?",
+        "choices": [
+          "fresh and natural",
+          "magical or royal",
+          "calm or a little sad",
+          "cheerful and bright"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "What feeling does the color Yellow often give people?",
+        "choices": [
+          "cheerful and bright",
+          "magical or royal",
+          "serious or mysterious",
+          "calm or a little sad"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "What feeling does the color Black often give people?",
+        "choices": [
+          "magical or royal",
+          "calm or a little sad",
+          "serious or mysterious",
+          "excited or energetic"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#2E2A26"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "What feeling does the color Green often give people?",
+        "choices": [
+          "calm or a little sad",
+          "fresh and natural",
+          "serious or mysterious",
+          "magical or royal"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "What feeling does the color Purple often give people?",
+        "choices": [
+          "magical or royal",
+          "excited or energetic",
+          "cheerful and bright",
+          "fresh and natural"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "What feeling does the color Red often give people?",
+        "choices": [
+          "calm or a little sad",
+          "excited or energetic",
+          "fresh and natural",
+          "serious or mysterious"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "What feeling does the color Blue often give people?",
+        "choices": [
+          "serious or mysterious",
+          "calm or a little sad",
+          "cheerful and bright",
+          "magical or royal"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "What feeling does the color Yellow often give people?",
+        "choices": [
+          "cheerful and bright",
+          "fresh and natural",
+          "serious or mysterious",
+          "magical or royal"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "What feeling does the color Black often give people?",
+        "choices": [
+          "serious or mysterious",
+          "calm or a little sad",
+          "magical or royal",
+          "excited or energetic"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#2E2A26"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "What feeling does the color Green often give people?",
+        "choices": [
+          "serious or mysterious",
+          "excited or energetic",
+          "cheerful and bright",
+          "fresh and natural"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "What feeling does the color Purple often give people?",
+        "choices": [
+          "fresh and natural",
+          "cheerful and bright",
+          "serious or mysterious",
+          "magical or royal"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "What feeling does the color Red often give people?",
+        "choices": [
+          "magical or royal",
+          "fresh and natural",
+          "excited or energetic",
+          "serious or mysterious"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "What feeling does the color Blue often give people?",
+        "choices": [
+          "cheerful and bright",
+          "calm or a little sad",
+          "fresh and natural",
+          "excited or energetic"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "colorSwatch",
+          "params": {
+            "colors": "#3E8EF7"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "art-28",
+    "subject": "FINE_ART",
+    "title": "Craft Materials",
+    "description": "Choosing the right material for a craft project.",
+    "notes": "Different craft materials are good for different jobs - some stretch, some are stiff.",
+    "examples": [
+      "Elastic or rubber bands are good for making something stretchy."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which material is best for making something stretchy?",
+        "choices": [
+          "Dry sand",
+          "Stone",
+          "Rubber bands",
+          "Glass"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which is a natural material?",
+        "choices": [
+          "Glitter glue",
+          "Wood",
+          "Plastic",
+          "Metal wire"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Which material would you use to make something shiny?",
+        "choices": [
+          "Foil",
+          "Cardboard",
+          "Cotton wool",
+          "Dry leaves"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Which material is soft and good for stuffing a craft?",
+        "choices": [
+          "A stone",
+          "A nail",
+          "Glass",
+          "Cotton wool"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Which material is best for making something stretchy?",
+        "choices": [
+          "Stone",
+          "Dry sand",
+          "Glass",
+          "Rubber bands"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Which is a natural material?",
+        "choices": [
+          "Glitter glue",
+          "Metal wire",
+          "Wood",
+          "Plastic"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which material would you use to make something shiny?",
+        "choices": [
+          "Cardboard",
+          "Cotton wool",
+          "Dry leaves",
+          "Foil"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Which material is soft and good for stuffing a craft?",
+        "choices": [
+          "A stone",
+          "A nail",
+          "Glass",
+          "Cotton wool"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Which material is best for making something stretchy?",
+        "choices": [
+          "Rubber bands",
+          "Glass",
+          "Stone",
+          "Dry sand"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Which is a natural material?",
+        "choices": [
+          "Wood",
+          "Plastic",
+          "Glitter glue",
+          "Metal wire"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which material would you use to make something shiny?",
+        "choices": [
+          "Cardboard",
+          "Foil",
+          "Cotton wool",
+          "Dry leaves"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Which material is soft and good for stuffing a craft?",
+        "choices": [
+          "Cotton wool",
+          "A stone",
+          "A nail",
+          "Glass"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Which material is best for making something stretchy?",
+        "choices": [
+          "Dry sand",
+          "Rubber bands",
+          "Stone",
+          "Glass"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Which is a natural material?",
+        "choices": [
+          "Wood",
+          "Metal wire",
+          "Glitter glue",
+          "Plastic"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Which material would you use to make something shiny?",
+        "choices": [
+          "Cotton wool",
+          "Foil",
+          "Dry leaves",
+          "Cardboard"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Which material is soft and good for stuffing a craft?",
+        "choices": [
+          "Glass",
+          "Cotton wool",
+          "A stone",
+          "A nail"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Which material is best for making something stretchy?",
+        "choices": [
+          "Rubber bands",
+          "Stone",
+          "Glass",
+          "Dry sand"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which is a natural material?",
+        "choices": [
+          "Plastic",
+          "Wood",
+          "Glitter glue",
+          "Metal wire"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Which material would you use to make something shiny?",
+        "choices": [
+          "Foil",
+          "Dry leaves",
+          "Cotton wool",
+          "Cardboard"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Which material is soft and good for stuffing a craft?",
+        "choices": [
+          "Glass",
+          "Cotton wool",
+          "A stone",
+          "A nail"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "art-29",
+    "subject": "FINE_ART",
+    "title": "Shape and Color Recall",
+    "description": "Naming the color and shape shown together.",
+    "notes": "Look closely at a picture and name both its shape and its colour.",
+    "examples": [
+      "A red circle is a red shape that is round."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Yellow triangle",
+          "A Yellow circle",
+          "A Red square",
+          "A Yellow square"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Green square",
+          "A Red circle",
+          "A Green circle",
+          "A Green triangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Yellow square",
+          "A Yellow triangle",
+          "A Blue rectangle",
+          "A Yellow rectangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Blue circle",
+          "A Red square",
+          "A Red circle",
+          "A Red rectangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Yellow rectangle",
+          "A Green circle",
+          "A Yellow square",
+          "A Yellow circle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#FFC64B"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Green triangle",
+          "A Red circle",
+          "A Red rectangle",
+          "A Red triangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Blue square",
+          "A Red square",
+          "A Blue triangle",
+          "A Blue rectangle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Red triangle",
+          "A Purple rectangle",
+          "A Purple triangle",
+          "A Purple square"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Green rectangle",
+          "A Yellow rectangle",
+          "A Green triangle",
+          "A Green square"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Green triangle",
+          "A Green circle",
+          "A Green square",
+          "A Blue triangle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Purple square",
+          "A Yellow circle",
+          "A Purple rectangle",
+          "A Purple circle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Blue rectangle",
+          "A Blue circle",
+          "A Yellow circle",
+          "A Blue square"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "circle",
+            "color": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Purple square",
+          "A Purple rectangle",
+          "A Purple triangle",
+          "A Yellow square"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Red triangle",
+          "A Green square",
+          "A Red rectangle",
+          "A Red square"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Red triangle",
+          "A Red square",
+          "A Purple rectangle",
+          "A Red rectangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#E0526E"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Yellow square",
+          "A Green triangle",
+          "A Green square",
+          "A Green rectangle"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "square",
+            "color": "#4CB963"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Purple circle",
+          "A Blue rectangle",
+          "A Purple square",
+          "A Purple rectangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#9B6BFF"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Blue triangle",
+          "A Blue square",
+          "A Blue circle",
+          "A Yellow triangle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Blue rectangle",
+          "A Green rectangle",
+          "A Blue triangle",
+          "A Blue circle"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "rectangle",
+            "color": "#3E8EF7"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "Look at the shape shown. What is it?",
+        "choices": [
+          "A Yellow rectangle",
+          "A Green triangle",
+          "A Yellow square",
+          "A Yellow triangle"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "shape",
+          "params": {
+            "kind": "triangle",
+            "color": "#FFC64B"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "art-30",
+    "subject": "FINE_ART",
+    "title": "Mixed Review: Year-End Challenge",
+    "description": "A mix of colors, shapes, and art ideas from across the year.",
+    "notes": "This module mixes colours, shapes, and art ideas from across the whole year.",
+    "examples": [
+      "Review primary colours and basic shapes before you start."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which is a primary color?",
+        "choices": [
+          "Purple",
+          "Red",
+          "Green",
+          "Brown"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Brown",
+          "Green",
+          "Purple",
+          "Orange"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Is Red a warm or cool color?",
+        "choices": [
+          "Warm",
+          "Both",
+          "Cool",
+          "Neither"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "A picture of a face is called a...",
+        "choices": [
+          "Pattern",
+          "Still life",
+          "Landscape",
+          "Portrait"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Adding white to a color makes a...",
+        "choices": [
+          "Texture",
+          "Shade",
+          "Tone",
+          "Tint"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "A sculpture is art you can see from...",
+        "choices": [
+          "All sides",
+          "Nowhere",
+          "The front only",
+          "Behind glass only"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "What tool is best for mixing paint?",
+        "choices": [
+          "Scissors",
+          "Glue",
+          "A palette",
+          "A ruler"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Things far away look...",
+        "choices": [
+          "The same size",
+          "Bigger",
+          "Invisible",
+          "Smaller"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "A honeycomb pattern uses which shape?",
+        "choices": [
+          "Stars",
+          "Circles",
+          "Squares",
+          "Hexagons"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "What is a collage made from?",
+        "choices": [
+          "Only paint",
+          "Only water",
+          "Different materials glued together",
+          "Only pencil"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Which is a primary color?",
+        "choices": [
+          "Green",
+          "Red",
+          "Purple",
+          "Brown"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Purple",
+          "Orange",
+          "Green",
+          "Brown"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Is Red a warm or cool color?",
+        "choices": [
+          "Neither",
+          "Warm",
+          "Both",
+          "Cool"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "A picture of a face is called a...",
+        "choices": [
+          "Still life",
+          "Landscape",
+          "Portrait",
+          "Pattern"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Adding white to a color makes a...",
+        "choices": [
+          "Texture",
+          "Tone",
+          "Shade",
+          "Tint"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "A sculpture is art you can see from...",
+        "choices": [
+          "Behind glass only",
+          "The front only",
+          "Nowhere",
+          "All sides"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "What tool is best for mixing paint?",
+        "choices": [
+          "Glue",
+          "Scissors",
+          "A palette",
+          "A ruler"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Things far away look...",
+        "choices": [
+          "Smaller",
+          "Bigger",
+          "Invisible",
+          "The same size"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "A honeycomb pattern uses which shape?",
+        "choices": [
+          "Hexagons",
+          "Circles",
+          "Stars",
+          "Squares"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "What is a collage made from?",
+        "choices": [
+          "Different materials glued together",
+          "Only pencil",
+          "Only water",
+          "Only paint"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q21",
+        "prompt": "Which is a primary color?",
+        "choices": [
+          "Purple",
+          "Green",
+          "Red",
+          "Brown"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q22",
+        "prompt": "Blue + Yellow = ?",
+        "choices": [
+          "Brown",
+          "Green",
+          "Purple",
+          "Orange"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]

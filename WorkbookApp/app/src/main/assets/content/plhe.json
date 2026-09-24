@@ -1,0 +1,7302 @@
+[
+  {
+    "id": "plhe-01",
+    "subject": "PLHE",
+    "title": "Brushing Teeth",
+    "description": "Good habits for healthy teeth.",
+    "notes": "Brushing your teeth removes food and germs, which keeps them healthy and strong.",
+    "examples": [
+      "Doctors recommend brushing twice a day - morning and night."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "How many times a day should you brush your teeth?",
+        "choices": [
+          "2",
+          "1",
+          "5",
+          "0"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "How long should you brush your teeth for?",
+        "choices": [
+          "10 seconds",
+          "2 minutes",
+          "30 minutes",
+          "1 second"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "What helps clean between your teeth?",
+        "choices": [
+          "A crayon",
+          "A pencil",
+          "Floss",
+          "A spoon"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "When should you visit the dentist?",
+        "choices": [
+          "Once in your life",
+          "Only if it hurts",
+          "Never",
+          "Every 6 months"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "What can cause tooth decay if eaten too much?",
+        "choices": [
+          "Water",
+          "Sugary sweets",
+          "Milk",
+          "Vegetables"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "How many times a day should you brush your teeth?",
+        "choices": [
+          "1",
+          "0",
+          "2",
+          "5"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "How long should you brush your teeth for?",
+        "choices": [
+          "10 seconds",
+          "1 second",
+          "30 minutes",
+          "2 minutes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "What helps clean between your teeth?",
+        "choices": [
+          "A pencil",
+          "A crayon",
+          "A spoon",
+          "Floss"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "When should you visit the dentist?",
+        "choices": [
+          "Every 6 months",
+          "Only if it hurts",
+          "Never",
+          "Once in your life"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What can cause tooth decay if eaten too much?",
+        "choices": [
+          "Milk",
+          "Water",
+          "Sugary sweets",
+          "Vegetables"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "How many times a day should you brush your teeth?",
+        "choices": [
+          "0",
+          "2",
+          "5",
+          "1"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "How long should you brush your teeth for?",
+        "choices": [
+          "30 minutes",
+          "2 minutes",
+          "1 second",
+          "10 seconds"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "What helps clean between your teeth?",
+        "choices": [
+          "Floss",
+          "A pencil",
+          "A crayon",
+          "A spoon"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "When should you visit the dentist?",
+        "choices": [
+          "Once in your life",
+          "Never",
+          "Only if it hurts",
+          "Every 6 months"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "What can cause tooth decay if eaten too much?",
+        "choices": [
+          "Water",
+          "Sugary sweets",
+          "Milk",
+          "Vegetables"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "How many times a day should you brush your teeth?",
+        "choices": [
+          "0",
+          "2",
+          "5",
+          "1"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "How long should you brush your teeth for?",
+        "choices": [
+          "10 seconds",
+          "1 second",
+          "2 minutes",
+          "30 minutes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "What helps clean between your teeth?",
+        "choices": [
+          "Floss",
+          "A spoon",
+          "A pencil",
+          "A crayon"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "When should you visit the dentist?",
+        "choices": [
+          "Never",
+          "Every 6 months",
+          "Once in your life",
+          "Only if it hurts"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "What can cause tooth decay if eaten too much?",
+        "choices": [
+          "Milk",
+          "Sugary sweets",
+          "Water",
+          "Vegetables"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-02",
+    "subject": "PLHE",
+    "title": "Hand Washing & Germs",
+    "description": "Stopping the spread of germs.",
+    "notes": "Washing your hands with soap and water washes away germs that can make you sick.",
+    "examples": [
+      "Wash your hands before eating and after using the bathroom."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "When should you wash your hands?",
+        "choices": [
+          "Before eating",
+          "Never",
+          "Only on Mondays",
+          "Only if visibly dirty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "What do you use to wash hands properly?",
+        "choices": [
+          "Soap and water",
+          "Just water",
+          "Nothing",
+          "Sand"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "How long should you wash your hands for?",
+        "choices": [
+          "1 hour",
+          "5 minutes",
+          "1 second",
+          "20 seconds"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Germs can make you...",
+        "choices": [
+          "Sick",
+          "Taller",
+          "Faster",
+          "Stronger"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "You should wash your hands after...",
+        "choices": [
+          "Sleeping",
+          "Using the toilet",
+          "Blinking",
+          "Reading a book"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "When should you wash your hands?",
+        "choices": [
+          "Never",
+          "Only on Mondays",
+          "Before eating",
+          "Only if visibly dirty"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "What do you use to wash hands properly?",
+        "choices": [
+          "Nothing",
+          "Soap and water",
+          "Sand",
+          "Just water"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "How long should you wash your hands for?",
+        "choices": [
+          "5 minutes",
+          "1 hour",
+          "20 seconds",
+          "1 second"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Germs can make you...",
+        "choices": [
+          "Faster",
+          "Sick",
+          "Taller",
+          "Stronger"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "You should wash your hands after...",
+        "choices": [
+          "Blinking",
+          "Sleeping",
+          "Using the toilet",
+          "Reading a book"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "When should you wash your hands?",
+        "choices": [
+          "Only if visibly dirty",
+          "Only on Mondays",
+          "Before eating",
+          "Never"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "What do you use to wash hands properly?",
+        "choices": [
+          "Sand",
+          "Nothing",
+          "Soap and water",
+          "Just water"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "How long should you wash your hands for?",
+        "choices": [
+          "20 seconds",
+          "1 second",
+          "5 minutes",
+          "1 hour"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Germs can make you...",
+        "choices": [
+          "Faster",
+          "Sick",
+          "Taller",
+          "Stronger"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "You should wash your hands after...",
+        "choices": [
+          "Blinking",
+          "Using the toilet",
+          "Reading a book",
+          "Sleeping"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "When should you wash your hands?",
+        "choices": [
+          "Only if visibly dirty",
+          "Never",
+          "Only on Mondays",
+          "Before eating"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "What do you use to wash hands properly?",
+        "choices": [
+          "Just water",
+          "Soap and water",
+          "Nothing",
+          "Sand"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "How long should you wash your hands for?",
+        "choices": [
+          "1 second",
+          "1 hour",
+          "5 minutes",
+          "20 seconds"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Germs can make you...",
+        "choices": [
+          "Stronger",
+          "Faster",
+          "Sick",
+          "Taller"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "You should wash your hands after...",
+        "choices": [
+          "Blinking",
+          "Sleeping",
+          "Using the toilet",
+          "Reading a book"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "plhe-03",
+    "subject": "PLHE",
+    "title": "Healthy Foods",
+    "description": "Choosing foods that help our bodies grow.",
+    "notes": "Healthy foods like fruits and vegetables help your body grow strong.",
+    "examples": [
+      "An apple is a healthy snack."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which is a healthy snack?",
+        "choices": [
+          "Chips",
+          "Candy",
+          "Soda",
+          "An apple"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Vegetables help keep us...",
+        "choices": [
+          "Healthy",
+          "Loud",
+          "Cold",
+          "Sleepy"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Which drink is healthiest?",
+        "choices": [
+          "Soda",
+          "Water",
+          "Fizzy drink",
+          "Sugary juice"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Fruits give our bodies...",
+        "choices": [
+          "Vitamins",
+          "Only fat",
+          "Nothing",
+          "Only sugar"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Eating too much candy can cause...",
+        "choices": [
+          "Faster running",
+          "Better eyesight",
+          "Tooth decay",
+          "Stronger bones"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which is a healthy snack?",
+        "choices": [
+          "Candy",
+          "Chips",
+          "Soda",
+          "An apple"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Vegetables help keep us...",
+        "choices": [
+          "Cold",
+          "Sleepy",
+          "Healthy",
+          "Loud"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which drink is healthiest?",
+        "choices": [
+          "Fizzy drink",
+          "Soda",
+          "Water",
+          "Sugary juice"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Fruits give our bodies...",
+        "choices": [
+          "Only sugar",
+          "Vitamins",
+          "Nothing",
+          "Only fat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Eating too much candy can cause...",
+        "choices": [
+          "Tooth decay",
+          "Better eyesight",
+          "Stronger bones",
+          "Faster running"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which is a healthy snack?",
+        "choices": [
+          "Soda",
+          "Candy",
+          "An apple",
+          "Chips"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Vegetables help keep us...",
+        "choices": [
+          "Cold",
+          "Sleepy",
+          "Healthy",
+          "Loud"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Which drink is healthiest?",
+        "choices": [
+          "Soda",
+          "Fizzy drink",
+          "Sugary juice",
+          "Water"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Fruits give our bodies...",
+        "choices": [
+          "Only sugar",
+          "Only fat",
+          "Vitamins",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Eating too much candy can cause...",
+        "choices": [
+          "Better eyesight",
+          "Tooth decay",
+          "Faster running",
+          "Stronger bones"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Which is a healthy snack?",
+        "choices": [
+          "Candy",
+          "An apple",
+          "Soda",
+          "Chips"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Vegetables help keep us...",
+        "choices": [
+          "Sleepy",
+          "Loud",
+          "Cold",
+          "Healthy"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Which drink is healthiest?",
+        "choices": [
+          "Sugary juice",
+          "Soda",
+          "Water",
+          "Fizzy drink"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Fruits give our bodies...",
+        "choices": [
+          "Vitamins",
+          "Nothing",
+          "Only fat",
+          "Only sugar"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Eating too much candy can cause...",
+        "choices": [
+          "Tooth decay",
+          "Faster running",
+          "Better eyesight",
+          "Stronger bones"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-04",
+    "subject": "PLHE",
+    "title": "Food Groups",
+    "description": "Learning about different types of food.",
+    "notes": "Foods are sorted into groups like grains, fruits, vegetables, protein, and dairy.",
+    "examples": [
+      "Bread belongs to the grains group."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which food group is bread part of?",
+        "choices": [
+          "Fats",
+          "Dairy",
+          "Grains",
+          "Fruits"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Milk and cheese belong to which group?",
+        "choices": [
+          "Dairy",
+          "Vegetables",
+          "Grains",
+          "Sweets"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Which food group are carrots part of?",
+        "choices": [
+          "Vegetables",
+          "Grains",
+          "Dairy",
+          "Sweets"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Which food group are apples part of?",
+        "choices": [
+          "Dairy",
+          "Grains",
+          "Proteins",
+          "Fruits"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Chicken and eggs are examples of...",
+        "choices": [
+          "Protein",
+          "Grains",
+          "Sugar",
+          "Fruit"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Which food group is bread part of?",
+        "choices": [
+          "Fats",
+          "Fruits",
+          "Grains",
+          "Dairy"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Milk and cheese belong to which group?",
+        "choices": [
+          "Vegetables",
+          "Grains",
+          "Dairy",
+          "Sweets"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which food group are carrots part of?",
+        "choices": [
+          "Grains",
+          "Sweets",
+          "Dairy",
+          "Vegetables"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Which food group are apples part of?",
+        "choices": [
+          "Proteins",
+          "Grains",
+          "Dairy",
+          "Fruits"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Chicken and eggs are examples of...",
+        "choices": [
+          "Protein",
+          "Fruit",
+          "Sugar",
+          "Grains"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which food group is bread part of?",
+        "choices": [
+          "Dairy",
+          "Grains",
+          "Fats",
+          "Fruits"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Milk and cheese belong to which group?",
+        "choices": [
+          "Grains",
+          "Dairy",
+          "Vegetables",
+          "Sweets"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Which food group are carrots part of?",
+        "choices": [
+          "Vegetables",
+          "Dairy",
+          "Grains",
+          "Sweets"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Which food group are apples part of?",
+        "choices": [
+          "Dairy",
+          "Proteins",
+          "Fruits",
+          "Grains"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Chicken and eggs are examples of...",
+        "choices": [
+          "Fruit",
+          "Sugar",
+          "Grains",
+          "Protein"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Which food group is bread part of?",
+        "choices": [
+          "Fruits",
+          "Dairy",
+          "Fats",
+          "Grains"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Milk and cheese belong to which group?",
+        "choices": [
+          "Dairy",
+          "Grains",
+          "Vegetables",
+          "Sweets"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which food group are carrots part of?",
+        "choices": [
+          "Vegetables",
+          "Grains",
+          "Dairy",
+          "Sweets"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Which food group are apples part of?",
+        "choices": [
+          "Fruits",
+          "Grains",
+          "Dairy",
+          "Proteins"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Chicken and eggs are examples of...",
+        "choices": [
+          "Protein",
+          "Fruit",
+          "Grains",
+          "Sugar"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-05",
+    "subject": "PLHE",
+    "title": "Move Your Body: Exercise",
+    "description": "Different ways to be active every day.",
+    "notes": "Exercise means moving your body to keep it strong and healthy.",
+    "examples": [
+      "Running, jumping, and swimming are all good exercise."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which activity is good exercise?",
+        "choices": [
+          "Sitting still",
+          "Sleeping",
+          "Jumping rope",
+          "Watching TV"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "9,4,7",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "Exercise helps make your heart...",
+        "choices": [
+          "Weaker",
+          "Slower forever",
+          "Invisible",
+          "Stronger"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "6,7,3",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "How many minutes of activity should kids get most days?",
+        "choices": [
+          "500 minutes",
+          "0 minutes",
+          "60 minutes",
+          "1 minute"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "3,2,8",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "Which is an example of exercise?",
+        "choices": [
+          "Napping",
+          "Riding a bike",
+          "Reading in bed",
+          "Watching a movie"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "10,5,4",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "What should you drink after exercising?",
+        "choices": [
+          "Water",
+          "Only candy",
+          "Nothing",
+          "Soda"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "7,8,9",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "Which activity is good exercise?",
+        "choices": [
+          "Sleeping",
+          "Jumping rope",
+          "Sitting still",
+          "Watching TV"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "4,3,5",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "Exercise helps make your heart...",
+        "choices": [
+          "Stronger",
+          "Slower forever",
+          "Invisible",
+          "Weaker"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "11,6,10",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "How many minutes of activity should kids get most days?",
+        "choices": [
+          "500 minutes",
+          "0 minutes",
+          "60 minutes",
+          "1 minute"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "8,1,6",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "Which is an example of exercise?",
+        "choices": [
+          "Watching a movie",
+          "Riding a bike",
+          "Reading in bed",
+          "Napping"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "5,4,2",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "What should you drink after exercising?",
+        "choices": [
+          "Nothing",
+          "Water",
+          "Soda",
+          "Only candy"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "2,7,7",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "Which activity is good exercise?",
+        "choices": [
+          "Sleeping",
+          "Sitting still",
+          "Jumping rope",
+          "Watching TV"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "9,2,3",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "Exercise helps make your heart...",
+        "choices": [
+          "Stronger",
+          "Slower forever",
+          "Weaker",
+          "Invisible"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "6,5,8",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "How many minutes of activity should kids get most days?",
+        "choices": [
+          "1 minute",
+          "500 minutes",
+          "60 minutes",
+          "0 minutes"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "3,8,4",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "Which is an example of exercise?",
+        "choices": [
+          "Riding a bike",
+          "Reading in bed",
+          "Watching a movie",
+          "Napping"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "10,3,9",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "What should you drink after exercising?",
+        "choices": [
+          "Nothing",
+          "Water",
+          "Only candy",
+          "Soda"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "7,6,5",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "Which activity is good exercise?",
+        "choices": [
+          "Sitting still",
+          "Sleeping",
+          "Jumping rope",
+          "Watching TV"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "4,1,10",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "Exercise helps make your heart...",
+        "choices": [
+          "Weaker",
+          "Invisible",
+          "Slower forever",
+          "Stronger"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "11,4,6",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "How many minutes of activity should kids get most days?",
+        "choices": [
+          "1 minute",
+          "500 minutes",
+          "60 minutes",
+          "0 minutes"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "8,7,2",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "Which is an example of exercise?",
+        "choices": [
+          "Riding a bike",
+          "Reading in bed",
+          "Watching a movie",
+          "Napping"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "5,2,7",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "What should you drink after exercising?",
+        "choices": [
+          "Only candy",
+          "Soda",
+          "Water",
+          "Nothing"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "bars",
+          "params": {
+            "values": "2,5,3",
+            "labels": "Mon,Wed,Fri"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "plhe-06",
+    "subject": "PLHE",
+    "title": "Sleep Habits",
+    "description": "Why sleep matters and good bedtime routines.",
+    "notes": "Sleep helps your body and brain rest and grow.",
+    "examples": [
+      "Getting enough sleep helps you feel ready for the day."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Why is sleep important?",
+        "choices": [
+          "It's not important",
+          "It makes you weaker",
+          "It helps your body rest and grow",
+          "It makes you sick"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "About how many hours should a young child sleep?",
+        "choices": [
+          "2 hours",
+          "20 hours",
+          "10 hours",
+          "0 hours"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "What helps you fall asleep easily?",
+        "choices": [
+          "Bright screens",
+          "Running around",
+          "A calm bedtime routine",
+          "Loud music"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "What should your room be like for good sleep?",
+        "choices": [
+          "Very hot",
+          "Full of noise",
+          "Bright and loud",
+          "Dark and quiet"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "It's best to avoid screens before bed because they can...",
+        "choices": [
+          "Help you sleep faster",
+          "Make you taller",
+          "Make it harder to fall asleep",
+          "Nothing happens"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Why is sleep important?",
+        "choices": [
+          "It's not important",
+          "It makes you sick",
+          "It makes you weaker",
+          "It helps your body rest and grow"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "About how many hours should a young child sleep?",
+        "choices": [
+          "20 hours",
+          "0 hours",
+          "10 hours",
+          "2 hours"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "What helps you fall asleep easily?",
+        "choices": [
+          "Bright screens",
+          "Loud music",
+          "Running around",
+          "A calm bedtime routine"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "What should your room be like for good sleep?",
+        "choices": [
+          "Dark and quiet",
+          "Bright and loud",
+          "Full of noise",
+          "Very hot"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "It's best to avoid screens before bed because they can...",
+        "choices": [
+          "Nothing happens",
+          "Make you taller",
+          "Help you sleep faster",
+          "Make it harder to fall asleep"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Why is sleep important?",
+        "choices": [
+          "It makes you weaker",
+          "It's not important",
+          "It helps your body rest and grow",
+          "It makes you sick"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "About how many hours should a young child sleep?",
+        "choices": [
+          "10 hours",
+          "0 hours",
+          "20 hours",
+          "2 hours"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "What helps you fall asleep easily?",
+        "choices": [
+          "Loud music",
+          "A calm bedtime routine",
+          "Bright screens",
+          "Running around"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "What should your room be like for good sleep?",
+        "choices": [
+          "Bright and loud",
+          "Very hot",
+          "Full of noise",
+          "Dark and quiet"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "It's best to avoid screens before bed because they can...",
+        "choices": [
+          "Nothing happens",
+          "Make it harder to fall asleep",
+          "Help you sleep faster",
+          "Make you taller"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Why is sleep important?",
+        "choices": [
+          "It's not important",
+          "It helps your body rest and grow",
+          "It makes you sick",
+          "It makes you weaker"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "About how many hours should a young child sleep?",
+        "choices": [
+          "20 hours",
+          "0 hours",
+          "10 hours",
+          "2 hours"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "What helps you fall asleep easily?",
+        "choices": [
+          "Bright screens",
+          "Loud music",
+          "Running around",
+          "A calm bedtime routine"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What should your room be like for good sleep?",
+        "choices": [
+          "Full of noise",
+          "Dark and quiet",
+          "Bright and loud",
+          "Very hot"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "It's best to avoid screens before bed because they can...",
+        "choices": [
+          "Make it harder to fall asleep",
+          "Nothing happens",
+          "Make you taller",
+          "Help you sleep faster"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-07",
+    "subject": "PLHE",
+    "title": "Bedtime & Daily Schedule",
+    "description": "Reading simple daily routines and clocks.",
+    "notes": "A daily routine, like a regular bedtime, helps you get enough rest each night.",
+    "examples": [
+      "Going to bed at 8 o'clock means the clock shows 8:00."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If you go to bed at 8 o'clock, what does the clock show?",
+        "choices": [
+          "8:00",
+          "6:00",
+          "3:00",
+          "12:00"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "1",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "A good bedtime is usually...",
+        "choices": [
+          "At noon",
+          "In the evening",
+          "Right after breakfast",
+          "Never"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "2",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "Waking up at the same time each day helps you feel...",
+        "choices": [
+          "Confused",
+          "More tired",
+          "Dizzy",
+          "Rested and ready"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "3",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "What should you do right before bed?",
+        "choices": [
+          "Run around",
+          "Watch loud TV",
+          "Eat candy",
+          "Brush your teeth"
+        ],
+        "correctIndex": 3,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "4",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "A bedtime routine might include...",
+        "choices": [
+          "Jumping on the bed",
+          "Eating sugar",
+          "Reading a story",
+          "Playing video games"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "5",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q6",
+        "prompt": "If you go to bed at 8 o'clock, what does the clock show?",
+        "choices": [
+          "3:00",
+          "12:00",
+          "8:00",
+          "6:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "6",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q7",
+        "prompt": "A good bedtime is usually...",
+        "choices": [
+          "Never",
+          "Right after breakfast",
+          "In the evening",
+          "At noon"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "7",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q8",
+        "prompt": "Waking up at the same time each day helps you feel...",
+        "choices": [
+          "Rested and ready",
+          "More tired",
+          "Confused",
+          "Dizzy"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "8",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q9",
+        "prompt": "What should you do right before bed?",
+        "choices": [
+          "Watch loud TV",
+          "Run around",
+          "Brush your teeth",
+          "Eat candy"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "9",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q10",
+        "prompt": "A bedtime routine might include...",
+        "choices": [
+          "Reading a story",
+          "Eating sugar",
+          "Jumping on the bed",
+          "Playing video games"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "10",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q11",
+        "prompt": "If you go to bed at 8 o'clock, what does the clock show?",
+        "choices": [
+          "12:00",
+          "8:00",
+          "6:00",
+          "3:00"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "11",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q12",
+        "prompt": "A good bedtime is usually...",
+        "choices": [
+          "At noon",
+          "In the evening",
+          "Never",
+          "Right after breakfast"
+        ],
+        "correctIndex": 1,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "12",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q13",
+        "prompt": "Waking up at the same time each day helps you feel...",
+        "choices": [
+          "More tired",
+          "Confused",
+          "Rested and ready",
+          "Dizzy"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "1",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q14",
+        "prompt": "What should you do right before bed?",
+        "choices": [
+          "Brush your teeth",
+          "Run around",
+          "Eat candy",
+          "Watch loud TV"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "2",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q15",
+        "prompt": "A bedtime routine might include...",
+        "choices": [
+          "Reading a story",
+          "Jumping on the bed",
+          "Playing video games",
+          "Eating sugar"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "3",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q16",
+        "prompt": "If you go to bed at 8 o'clock, what does the clock show?",
+        "choices": [
+          "6:00",
+          "12:00",
+          "8:00",
+          "3:00"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "4",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q17",
+        "prompt": "A good bedtime is usually...",
+        "choices": [
+          "In the evening",
+          "Right after breakfast",
+          "Never",
+          "At noon"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "5",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q18",
+        "prompt": "Waking up at the same time each day helps you feel...",
+        "choices": [
+          "Rested and ready",
+          "Confused",
+          "Dizzy",
+          "More tired"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "6",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q19",
+        "prompt": "What should you do right before bed?",
+        "choices": [
+          "Brush your teeth",
+          "Run around",
+          "Watch loud TV",
+          "Eat candy"
+        ],
+        "correctIndex": 0,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "7",
+            "minute": "0"
+          }
+        }
+      },
+      {
+        "id": "q20",
+        "prompt": "A bedtime routine might include...",
+        "choices": [
+          "Playing video games",
+          "Eating sugar",
+          "Reading a story",
+          "Jumping on the bed"
+        ],
+        "correctIndex": 2,
+        "diagram": {
+          "type": "clock",
+          "params": {
+            "hour": "8",
+            "minute": "0"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "plhe-08",
+    "subject": "PLHE",
+    "title": "Road Safety",
+    "description": "Staying safe near roads and traffic.",
+    "notes": "Traffic lights and simple safety rules keep people safe near roads.",
+    "examples": [
+      "Red means stop, green means go."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What color means STOP on a traffic light?",
+        "choices": [
+          "Red",
+          "Purple",
+          "Green",
+          "Blue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "What color means GO on a traffic light?",
+        "choices": [
+          "Purple",
+          "Yellow",
+          "Green",
+          "Red"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Where should you cross the street?",
+        "choices": [
+          "At a crosswalk",
+          "Anywhere",
+          "With your eyes closed",
+          "In the middle of traffic"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Before crossing, you should...",
+        "choices": [
+          "Look at your phone",
+          "Run fast",
+          "Look both ways",
+          "Close your eyes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "What should you wear when riding a bike?",
+        "choices": [
+          "Nothing",
+          "A helmet",
+          "A hat",
+          "Sunglasses only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "What color means STOP on a traffic light?",
+        "choices": [
+          "Blue",
+          "Green",
+          "Purple",
+          "Red"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "What color means GO on a traffic light?",
+        "choices": [
+          "Red",
+          "Yellow",
+          "Purple",
+          "Green"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Where should you cross the street?",
+        "choices": [
+          "With your eyes closed",
+          "At a crosswalk",
+          "In the middle of traffic",
+          "Anywhere"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Before crossing, you should...",
+        "choices": [
+          "Close your eyes",
+          "Run fast",
+          "Look at your phone",
+          "Look both ways"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "What should you wear when riding a bike?",
+        "choices": [
+          "Nothing",
+          "A hat",
+          "A helmet",
+          "Sunglasses only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "What color means STOP on a traffic light?",
+        "choices": [
+          "Purple",
+          "Blue",
+          "Green",
+          "Red"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "What color means GO on a traffic light?",
+        "choices": [
+          "Purple",
+          "Red",
+          "Green",
+          "Yellow"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Where should you cross the street?",
+        "choices": [
+          "With your eyes closed",
+          "Anywhere",
+          "In the middle of traffic",
+          "At a crosswalk"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Before crossing, you should...",
+        "choices": [
+          "Close your eyes",
+          "Look at your phone",
+          "Look both ways",
+          "Run fast"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "What should you wear when riding a bike?",
+        "choices": [
+          "A hat",
+          "Sunglasses only",
+          "A helmet",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "What color means STOP on a traffic light?",
+        "choices": [
+          "Green",
+          "Red",
+          "Blue",
+          "Purple"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "What color means GO on a traffic light?",
+        "choices": [
+          "Red",
+          "Yellow",
+          "Purple",
+          "Green"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Where should you cross the street?",
+        "choices": [
+          "In the middle of traffic",
+          "At a crosswalk",
+          "Anywhere",
+          "With your eyes closed"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Before crossing, you should...",
+        "choices": [
+          "Run fast",
+          "Close your eyes",
+          "Look at your phone",
+          "Look both ways"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "What should you wear when riding a bike?",
+        "choices": [
+          "A hat",
+          "Sunglasses only",
+          "A helmet",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "plhe-09",
+    "subject": "PLHE",
+    "title": "Fire Safety",
+    "description": "What to do to stay safe from fire.",
+    "notes": "Knowing what to do, and who to call, keeps you safe in a fire.",
+    "examples": [
+      "Call your local emergency number in a fire emergency."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What number do you call in a fire emergency?",
+        "choices": [
+          "123",
+          "000000",
+          "Your friend's number",
+          "911 (or local emergency number)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "What should you do if your clothes catch fire?",
+        "choices": [
+          "Hide",
+          "Run fast",
+          "Stop, drop, and roll",
+          "Wave your arms"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Where should your family plan to meet in a fire?",
+        "choices": [
+          "A safe meeting spot outside",
+          "Inside the house",
+          "In the fire",
+          "Nowhere"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "What detects smoke in a house?",
+        "choices": [
+          "A pillow",
+          "A toy",
+          "A window",
+          "A smoke alarm"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "If there's smoke, you should stay...",
+        "choices": [
+          "Jumping",
+          "Standing tall",
+          "Still, upright",
+          "Low to the ground"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "What number do you call in a fire emergency?",
+        "choices": [
+          "Your friend's number",
+          "911 (or local emergency number)",
+          "000000",
+          "123"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What should you do if your clothes catch fire?",
+        "choices": [
+          "Wave your arms",
+          "Run fast",
+          "Hide",
+          "Stop, drop, and roll"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Where should your family plan to meet in a fire?",
+        "choices": [
+          "Nowhere",
+          "Inside the house",
+          "A safe meeting spot outside",
+          "In the fire"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "What detects smoke in a house?",
+        "choices": [
+          "A toy",
+          "A window",
+          "A smoke alarm",
+          "A pillow"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "If there's smoke, you should stay...",
+        "choices": [
+          "Low to the ground",
+          "Jumping",
+          "Standing tall",
+          "Still, upright"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "What number do you call in a fire emergency?",
+        "choices": [
+          "Your friend's number",
+          "123",
+          "000000",
+          "911 (or local emergency number)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "What should you do if your clothes catch fire?",
+        "choices": [
+          "Wave your arms",
+          "Run fast",
+          "Hide",
+          "Stop, drop, and roll"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Where should your family plan to meet in a fire?",
+        "choices": [
+          "Nowhere",
+          "A safe meeting spot outside",
+          "Inside the house",
+          "In the fire"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "What detects smoke in a house?",
+        "choices": [
+          "A toy",
+          "A pillow",
+          "A window",
+          "A smoke alarm"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "If there's smoke, you should stay...",
+        "choices": [
+          "Low to the ground",
+          "Still, upright",
+          "Standing tall",
+          "Jumping"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "What number do you call in a fire emergency?",
+        "choices": [
+          "000000",
+          "123",
+          "911 (or local emergency number)",
+          "Your friend's number"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "What should you do if your clothes catch fire?",
+        "choices": [
+          "Hide",
+          "Stop, drop, and roll",
+          "Run fast",
+          "Wave your arms"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Where should your family plan to meet in a fire?",
+        "choices": [
+          "Nowhere",
+          "In the fire",
+          "Inside the house",
+          "A safe meeting spot outside"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What detects smoke in a house?",
+        "choices": [
+          "A window",
+          "A pillow",
+          "A smoke alarm",
+          "A toy"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "If there's smoke, you should stay...",
+        "choices": [
+          "Low to the ground",
+          "Jumping",
+          "Standing tall",
+          "Still, upright"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-10",
+    "subject": "PLHE",
+    "title": "Water Safety",
+    "description": "Staying safe around pools, lakes, and the sea.",
+    "notes": "Simple rules, like wearing a life jacket, keep you safe around water.",
+    "examples": [
+      "Wear a life jacket if you can't swim well."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What should you wear if you can't swim well?",
+        "choices": [
+          "Heavy clothes",
+          "Nothing, just try hard",
+          "Nothing extra",
+          "A life jacket"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Who should you swim with?",
+        "choices": [
+          "An adult or buddy",
+          "Your pet only",
+          "Strangers only",
+          "Nobody, alone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "What should you do before swimming in a pool?",
+        "choices": [
+          "Run on the wet floor",
+          "Jump in immediately",
+          "Check the depth and rules",
+          "Ignore the lifeguard"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Running near a pool is...",
+        "choices": [
+          "Dangerous, you could slip",
+          "Always safe",
+          "Encouraged",
+          "Required"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "If someone is struggling in water, you should...",
+        "choices": [
+          "Ignore them",
+          "Jump in without a plan",
+          "Get an adult's help",
+          "Laugh"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "What should you wear if you can't swim well?",
+        "choices": [
+          "Heavy clothes",
+          "Nothing extra",
+          "Nothing, just try hard",
+          "A life jacket"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Who should you swim with?",
+        "choices": [
+          "Strangers only",
+          "Nobody, alone",
+          "An adult or buddy",
+          "Your pet only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "What should you do before swimming in a pool?",
+        "choices": [
+          "Check the depth and rules",
+          "Ignore the lifeguard",
+          "Run on the wet floor",
+          "Jump in immediately"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Running near a pool is...",
+        "choices": [
+          "Dangerous, you could slip",
+          "Required",
+          "Always safe",
+          "Encouraged"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "If someone is struggling in water, you should...",
+        "choices": [
+          "Jump in without a plan",
+          "Laugh",
+          "Get an adult's help",
+          "Ignore them"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "What should you wear if you can't swim well?",
+        "choices": [
+          "A life jacket",
+          "Heavy clothes",
+          "Nothing extra",
+          "Nothing, just try hard"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Who should you swim with?",
+        "choices": [
+          "Nobody, alone",
+          "Strangers only",
+          "Your pet only",
+          "An adult or buddy"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "What should you do before swimming in a pool?",
+        "choices": [
+          "Ignore the lifeguard",
+          "Run on the wet floor",
+          "Check the depth and rules",
+          "Jump in immediately"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Running near a pool is...",
+        "choices": [
+          "Encouraged",
+          "Always safe",
+          "Dangerous, you could slip",
+          "Required"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "If someone is struggling in water, you should...",
+        "choices": [
+          "Get an adult's help",
+          "Jump in without a plan",
+          "Ignore them",
+          "Laugh"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "What should you wear if you can't swim well?",
+        "choices": [
+          "A life jacket",
+          "Heavy clothes",
+          "Nothing, just try hard",
+          "Nothing extra"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Who should you swim with?",
+        "choices": [
+          "Your pet only",
+          "Strangers only",
+          "Nobody, alone",
+          "An adult or buddy"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "What should you do before swimming in a pool?",
+        "choices": [
+          "Ignore the lifeguard",
+          "Check the depth and rules",
+          "Run on the wet floor",
+          "Jump in immediately"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Running near a pool is...",
+        "choices": [
+          "Required",
+          "Always safe",
+          "Encouraged",
+          "Dangerous, you could slip"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "If someone is struggling in water, you should...",
+        "choices": [
+          "Jump in without a plan",
+          "Ignore them",
+          "Laugh",
+          "Get an adult's help"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "plhe-11",
+    "subject": "PLHE",
+    "title": "Staying Safe with Strangers",
+    "description": "Simple safety rules for unfamiliar people.",
+    "notes": "There are simple safety rules for dealing with people you don't know.",
+    "examples": [
+      "If a stranger offers you candy, say no and tell a trusted adult."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If a stranger offers you candy, you should...",
+        "choices": [
+          "Go with them",
+          "Take it",
+          "Say no and tell a trusted adult",
+          "Say yes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Who are 'trusted adults'?",
+        "choices": [
+          "Nobody",
+          "Anyone you just met",
+          "People like parents, teachers, or guardians",
+          "Only strangers"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "If you get lost in a store, you should...",
+        "choices": [
+          "Hide and wait",
+          "Leave the store alone",
+          "Find a staff member or trusted adult",
+          "Wander off alone"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "It's okay to say 'no' to an adult if...",
+        "choices": [
+          "Something feels unsafe",
+          "Only when you're angry",
+          "Never, always obey everyone",
+          "Only to your parents"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "What is a safe word your family might use?",
+        "choices": [
+          "No such thing exists",
+          "Any random word a stranger says",
+          "A special word only your family knows",
+          "A word everyone knows"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "If a stranger offers you candy, you should...",
+        "choices": [
+          "Say no and tell a trusted adult",
+          "Go with them",
+          "Say yes",
+          "Take it"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "Who are 'trusted adults'?",
+        "choices": [
+          "People like parents, teachers, or guardians",
+          "Nobody",
+          "Anyone you just met",
+          "Only strangers"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "If you get lost in a store, you should...",
+        "choices": [
+          "Leave the store alone",
+          "Hide and wait",
+          "Wander off alone",
+          "Find a staff member or trusted adult"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "It's okay to say 'no' to an adult if...",
+        "choices": [
+          "Something feels unsafe",
+          "Only when you're angry",
+          "Only to your parents",
+          "Never, always obey everyone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What is a safe word your family might use?",
+        "choices": [
+          "No such thing exists",
+          "A special word only your family knows",
+          "A word everyone knows",
+          "Any random word a stranger says"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "If a stranger offers you candy, you should...",
+        "choices": [
+          "Say no and tell a trusted adult",
+          "Go with them",
+          "Take it",
+          "Say yes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Who are 'trusted adults'?",
+        "choices": [
+          "Only strangers",
+          "People like parents, teachers, or guardians",
+          "Nobody",
+          "Anyone you just met"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "If you get lost in a store, you should...",
+        "choices": [
+          "Hide and wait",
+          "Wander off alone",
+          "Leave the store alone",
+          "Find a staff member or trusted adult"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "It's okay to say 'no' to an adult if...",
+        "choices": [
+          "Something feels unsafe",
+          "Never, always obey everyone",
+          "Only when you're angry",
+          "Only to your parents"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "What is a safe word your family might use?",
+        "choices": [
+          "No such thing exists",
+          "A word everyone knows",
+          "A special word only your family knows",
+          "Any random word a stranger says"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "If a stranger offers you candy, you should...",
+        "choices": [
+          "Say yes",
+          "Go with them",
+          "Say no and tell a trusted adult",
+          "Take it"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Who are 'trusted adults'?",
+        "choices": [
+          "Only strangers",
+          "People like parents, teachers, or guardians",
+          "Anyone you just met",
+          "Nobody"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "If you get lost in a store, you should...",
+        "choices": [
+          "Find a staff member or trusted adult",
+          "Hide and wait",
+          "Wander off alone",
+          "Leave the store alone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "It's okay to say 'no' to an adult if...",
+        "choices": [
+          "Only when you're angry",
+          "Never, always obey everyone",
+          "Something feels unsafe",
+          "Only to your parents"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "What is a safe word your family might use?",
+        "choices": [
+          "A word everyone knows",
+          "A special word only your family knows",
+          "No such thing exists",
+          "Any random word a stranger says"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-12",
+    "subject": "PLHE",
+    "title": "Recognising Emotions",
+    "description": "Naming and understanding different feelings.",
+    "notes": "Our faces and bodies show how we feel - happy, sad, angry, or scared.",
+    "examples": [
+      "A big smile usually shows happiness."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which feeling matches: a big smile?",
+        "choices": [
+          "Sad",
+          "Calm",
+          "Happy",
+          "Angry"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which feeling matches: a downturned mouth and maybe tears?",
+        "choices": [
+          "Scared",
+          "Sad",
+          "Angry",
+          "Calm"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Which feeling matches: furrowed eyebrows and a frown?",
+        "choices": [
+          "Excited",
+          "Angry",
+          "Nervous",
+          "Calm"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Which feeling matches: wide eyes and a tense body?",
+        "choices": [
+          "Scared",
+          "Excited",
+          "Sad",
+          "Nervous"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which feeling matches: a big smile and lots of energy?",
+        "choices": [
+          "Calm",
+          "Nervous",
+          "Excited",
+          "Happy"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which feeling matches: a relaxed, peaceful face?",
+        "choices": [
+          "Calm",
+          "Angry",
+          "Nervous",
+          "Sad"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "Which feeling matches: a worried look, maybe fidgeting?",
+        "choices": [
+          "Sad",
+          "Calm",
+          "Proud",
+          "Nervous"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Which feeling matches: a smile and standing tall?",
+        "choices": [
+          "Excited",
+          "Proud",
+          "Happy",
+          "Calm"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which feeling matches: a big smile?",
+        "choices": [
+          "Happy",
+          "Proud",
+          "Scared",
+          "Calm"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Which feeling matches: a downturned mouth and maybe tears?",
+        "choices": [
+          "Nervous",
+          "Proud",
+          "Calm",
+          "Sad"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Which feeling matches: furrowed eyebrows and a frown?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry",
+          "Excited"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Which feeling matches: wide eyes and a tense body?",
+        "choices": [
+          "Scared",
+          "Angry",
+          "Calm",
+          "Excited"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Which feeling matches: a big smile and lots of energy?",
+        "choices": [
+          "Excited",
+          "Proud",
+          "Sad",
+          "Scared"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Which feeling matches: a relaxed, peaceful face?",
+        "choices": [
+          "Nervous",
+          "Scared",
+          "Angry",
+          "Calm"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which feeling matches: a worried look, maybe fidgeting?",
+        "choices": [
+          "Angry",
+          "Nervous",
+          "Excited",
+          "Proud"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Which feeling matches: a smile and standing tall?",
+        "choices": [
+          "Calm",
+          "Nervous",
+          "Happy",
+          "Proud"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Which feeling matches: a big smile?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Angry",
+          "Proud"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which feeling matches: a downturned mouth and maybe tears?",
+        "choices": [
+          "Calm",
+          "Sad",
+          "Angry",
+          "Scared"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Which feeling matches: furrowed eyebrows and a frown?",
+        "choices": [
+          "Calm",
+          "Excited",
+          "Proud",
+          "Angry"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Which feeling matches: wide eyes and a tense body?",
+        "choices": [
+          "Calm",
+          "Scared",
+          "Excited",
+          "Nervous"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-13",
+    "subject": "PLHE",
+    "title": "Sharing & Kindness",
+    "description": "Being kind and getting along with others.",
+    "notes": "Being kind means noticing when someone needs help and offering it.",
+    "examples": [
+      "If a friend is sad, you could ask if they're okay or share something with them."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If a friend is sad, you could...",
+        "choices": [
+          "Walk away without saying anything",
+          "Ignore them",
+          "Ask if they're okay and comfort them",
+          "Laugh at them"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Sharing toys with others shows...",
+        "choices": [
+          "Laziness",
+          "Nothing",
+          "Kindness",
+          "Meanness"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "If you accidentally hurt someone, you should...",
+        "choices": [
+          "Blame them",
+          "Say sorry",
+          "Run away",
+          "Ignore it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Taking turns is an example of...",
+        "choices": [
+          "Cheating",
+          "Winning always",
+          "Being fair",
+          "Being unfair"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Helping a classmate pick up dropped books is...",
+        "choices": [
+          "A kind act",
+          "Unnecessary",
+          "Bad manners",
+          "Rude"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "If a friend is sad, you could...",
+        "choices": [
+          "Laugh at them",
+          "Walk away without saying anything",
+          "Ask if they're okay and comfort them",
+          "Ignore them"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Sharing toys with others shows...",
+        "choices": [
+          "Meanness",
+          "Kindness",
+          "Laziness",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "If you accidentally hurt someone, you should...",
+        "choices": [
+          "Say sorry",
+          "Run away",
+          "Blame them",
+          "Ignore it"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Taking turns is an example of...",
+        "choices": [
+          "Cheating",
+          "Being fair",
+          "Winning always",
+          "Being unfair"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Helping a classmate pick up dropped books is...",
+        "choices": [
+          "Unnecessary",
+          "Bad manners",
+          "Rude",
+          "A kind act"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "If a friend is sad, you could...",
+        "choices": [
+          "Ask if they're okay and comfort them",
+          "Ignore them",
+          "Laugh at them",
+          "Walk away without saying anything"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Sharing toys with others shows...",
+        "choices": [
+          "Meanness",
+          "Nothing",
+          "Kindness",
+          "Laziness"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "If you accidentally hurt someone, you should...",
+        "choices": [
+          "Ignore it",
+          "Say sorry",
+          "Blame them",
+          "Run away"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Taking turns is an example of...",
+        "choices": [
+          "Being unfair",
+          "Winning always",
+          "Being fair",
+          "Cheating"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Helping a classmate pick up dropped books is...",
+        "choices": [
+          "Rude",
+          "A kind act",
+          "Unnecessary",
+          "Bad manners"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "If a friend is sad, you could...",
+        "choices": [
+          "Laugh at them",
+          "Ignore them",
+          "Ask if they're okay and comfort them",
+          "Walk away without saying anything"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Sharing toys with others shows...",
+        "choices": [
+          "Kindness",
+          "Nothing",
+          "Meanness",
+          "Laziness"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "If you accidentally hurt someone, you should...",
+        "choices": [
+          "Blame them",
+          "Say sorry",
+          "Run away",
+          "Ignore it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Taking turns is an example of...",
+        "choices": [
+          "Being fair",
+          "Winning always",
+          "Cheating",
+          "Being unfair"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Helping a classmate pick up dropped books is...",
+        "choices": [
+          "Rude",
+          "A kind act",
+          "Unnecessary",
+          "Bad manners"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-14",
+    "subject": "PLHE",
+    "title": "Body Parts & Their Jobs",
+    "description": "Learning what different body parts do.",
+    "notes": "Every body part has an important job to help you live and move.",
+    "examples": [
+      "The heart pumps blood around your body."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which body part pumps blood around your body?",
+        "choices": [
+          "Brain",
+          "Ears",
+          "Heart",
+          "Stomach"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which body part help you breathe?",
+        "choices": [
+          "Stomach",
+          "Heart",
+          "Lungs",
+          "Ears"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Which body part helps you think?",
+        "choices": [
+          "Bones",
+          "Heart",
+          "Brain",
+          "Stomach"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Which body part helps digest food?",
+        "choices": [
+          "Ears",
+          "Eyes",
+          "Lungs",
+          "Stomach"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Which body part help you move?",
+        "choices": [
+          "Lungs",
+          "Eyes",
+          "Heart",
+          "Muscles"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Which body part support your body?",
+        "choices": [
+          "Lungs",
+          "Brain",
+          "Bones",
+          "Stomach"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which body part help you see?",
+        "choices": [
+          "Lungs",
+          "Eyes",
+          "Ears",
+          "Stomach"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Which body part help you hear?",
+        "choices": [
+          "Ears",
+          "Eyes",
+          "Bones",
+          "Heart"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which body part pumps blood around your body?",
+        "choices": [
+          "Lungs",
+          "Heart",
+          "Ears",
+          "Eyes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Which body part help you breathe?",
+        "choices": [
+          "Heart",
+          "Muscles",
+          "Brain",
+          "Lungs"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Which body part helps you think?",
+        "choices": [
+          "Brain",
+          "Lungs",
+          "Muscles",
+          "Heart"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Which body part helps digest food?",
+        "choices": [
+          "Eyes",
+          "Brain",
+          "Stomach",
+          "Ears"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Which body part help you move?",
+        "choices": [
+          "Brain",
+          "Heart",
+          "Bones",
+          "Muscles"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Which body part support your body?",
+        "choices": [
+          "Lungs",
+          "Bones",
+          "Ears",
+          "Muscles"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Which body part help you see?",
+        "choices": [
+          "Ears",
+          "Eyes",
+          "Muscles",
+          "Lungs"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Which body part help you hear?",
+        "choices": [
+          "Stomach",
+          "Lungs",
+          "Ears",
+          "Brain"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Which body part pumps blood around your body?",
+        "choices": [
+          "Bones",
+          "Heart",
+          "Stomach",
+          "Brain"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Which body part help you breathe?",
+        "choices": [
+          "Eyes",
+          "Heart",
+          "Lungs",
+          "Brain"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Which body part helps you think?",
+        "choices": [
+          "Lungs",
+          "Stomach",
+          "Muscles",
+          "Brain"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Which body part helps digest food?",
+        "choices": [
+          "Heart",
+          "Brain",
+          "Stomach",
+          "Eyes"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "plhe-15",
+    "subject": "PLHE",
+    "title": "The Five Senses",
+    "description": "Sight, hearing, smell, taste, and touch.",
+    "notes": "We learn about the world using five senses: sight, hearing, smell, taste, and touch.",
+    "examples": [
+      "Your eyes are used to see."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which body part do you use to see?",
+        "choices": [
+          "Nose",
+          "Tongue",
+          "Eyes",
+          "Ears"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which body part do you use to hear?",
+        "choices": [
+          "Skin",
+          "Eyes",
+          "Ears",
+          "Tongue"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Which body part do you use to smell?",
+        "choices": [
+          "Ears",
+          "Tongue",
+          "Nose",
+          "Skin"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Which body part do you use to taste?",
+        "choices": [
+          "Tongue",
+          "Skin",
+          "Nose",
+          "Ears"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which body part do you use to touch?",
+        "choices": [
+          "Ears",
+          "Eyes",
+          "Tongue",
+          "Skin"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Which body part do you use to see?",
+        "choices": [
+          "Tongue",
+          "Skin",
+          "Nose",
+          "Eyes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Which body part do you use to hear?",
+        "choices": [
+          "Nose",
+          "Ears",
+          "Skin",
+          "Tongue"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Which body part do you use to smell?",
+        "choices": [
+          "Tongue",
+          "Nose",
+          "Skin",
+          "Ears"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which body part do you use to taste?",
+        "choices": [
+          "Nose",
+          "Tongue",
+          "Ears",
+          "Skin"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Which body part do you use to touch?",
+        "choices": [
+          "Skin",
+          "Tongue",
+          "Eyes",
+          "Nose"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which body part do you use to see?",
+        "choices": [
+          "Eyes",
+          "Tongue",
+          "Nose",
+          "Skin"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Which body part do you use to hear?",
+        "choices": [
+          "Ears",
+          "Skin",
+          "Tongue",
+          "Eyes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Which body part do you use to smell?",
+        "choices": [
+          "Skin",
+          "Ears",
+          "Tongue",
+          "Nose"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Which body part do you use to taste?",
+        "choices": [
+          "Eyes",
+          "Skin",
+          "Tongue",
+          "Nose"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Which body part do you use to touch?",
+        "choices": [
+          "Tongue",
+          "Skin",
+          "Nose",
+          "Eyes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Which body part do you use to see?",
+        "choices": [
+          "Eyes",
+          "Skin",
+          "Ears",
+          "Nose"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Which body part do you use to hear?",
+        "choices": [
+          "Skin",
+          "Ears",
+          "Tongue",
+          "Nose"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Which body part do you use to smell?",
+        "choices": [
+          "Tongue",
+          "Skin",
+          "Nose",
+          "Eyes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Which body part do you use to taste?",
+        "choices": [
+          "Tongue",
+          "Skin",
+          "Nose",
+          "Ears"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Which body part do you use to touch?",
+        "choices": [
+          "Skin",
+          "Eyes",
+          "Ears",
+          "Tongue"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-16",
+    "subject": "PLHE",
+    "title": "Preventing Illness",
+    "description": "Simple ways to avoid getting sick.",
+    "notes": "Simple habits, like covering a cough, help stop germs from spreading to others.",
+    "examples": [
+      "Cover your mouth with your elbow when you cough or sneeze."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What should you do when you cough or sneeze?",
+        "choices": [
+          "Cover your mouth with your elbow",
+          "Cough on your hands and touch things",
+          "Cough on others",
+          "Do nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "If you feel sick, you should...",
+        "choices": [
+          "Tell an adult",
+          "Hide it",
+          "Ignore it",
+          "Go to school anyway"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Sharing water bottles can spread...",
+        "choices": [
+          "Strength",
+          "Vitamins",
+          "Nothing",
+          "Germs"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Getting enough sleep helps your body...",
+        "choices": [
+          "Get sick faster",
+          "Nothing",
+          "Fight off illness",
+          "Grow slower"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Eating fruits and vegetables helps keep you...",
+        "choices": [
+          "Weak",
+          "Healthy",
+          "Sick",
+          "Tired always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "What should you do when you cough or sneeze?",
+        "choices": [
+          "Cough on your hands and touch things",
+          "Cough on others",
+          "Cover your mouth with your elbow",
+          "Do nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "If you feel sick, you should...",
+        "choices": [
+          "Go to school anyway",
+          "Tell an adult",
+          "Ignore it",
+          "Hide it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Sharing water bottles can spread...",
+        "choices": [
+          "Strength",
+          "Nothing",
+          "Vitamins",
+          "Germs"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Getting enough sleep helps your body...",
+        "choices": [
+          "Nothing",
+          "Get sick faster",
+          "Grow slower",
+          "Fight off illness"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Eating fruits and vegetables helps keep you...",
+        "choices": [
+          "Healthy",
+          "Weak",
+          "Sick",
+          "Tired always"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "What should you do when you cough or sneeze?",
+        "choices": [
+          "Cough on others",
+          "Cough on your hands and touch things",
+          "Do nothing",
+          "Cover your mouth with your elbow"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "If you feel sick, you should...",
+        "choices": [
+          "Hide it",
+          "Go to school anyway",
+          "Ignore it",
+          "Tell an adult"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Sharing water bottles can spread...",
+        "choices": [
+          "Strength",
+          "Nothing",
+          "Germs",
+          "Vitamins"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Getting enough sleep helps your body...",
+        "choices": [
+          "Fight off illness",
+          "Grow slower",
+          "Get sick faster",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Eating fruits and vegetables helps keep you...",
+        "choices": [
+          "Tired always",
+          "Weak",
+          "Sick",
+          "Healthy"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "What should you do when you cough or sneeze?",
+        "choices": [
+          "Cough on others",
+          "Do nothing",
+          "Cover your mouth with your elbow",
+          "Cough on your hands and touch things"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "If you feel sick, you should...",
+        "choices": [
+          "Go to school anyway",
+          "Ignore it",
+          "Tell an adult",
+          "Hide it"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Sharing water bottles can spread...",
+        "choices": [
+          "Strength",
+          "Germs",
+          "Nothing",
+          "Vitamins"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Getting enough sleep helps your body...",
+        "choices": [
+          "Fight off illness",
+          "Nothing",
+          "Get sick faster",
+          "Grow slower"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Eating fruits and vegetables helps keep you...",
+        "choices": [
+          "Tired always",
+          "Healthy",
+          "Weak",
+          "Sick"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-17",
+    "subject": "PLHE",
+    "title": "Doctor & Dentist Visits",
+    "description": "Understanding checkups and why they help.",
+    "notes": "Regular checkups with a doctor or dentist help catch problems early and keep you healthy.",
+    "examples": [
+      "Doctors check that your body is growing well."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Why do we visit the doctor for checkups?",
+        "choices": [
+          "To get candy",
+          "To make sure we're healthy",
+          "Just for fun",
+          "No reason"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What might a doctor use to listen to your heart?",
+        "choices": [
+          "A spoon",
+          "A hammer",
+          "A stethoscope",
+          "A pencil"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Why do we visit the dentist?",
+        "choices": [
+          "To eat candy",
+          "To check our teeth are healthy",
+          "To play games",
+          "No reason"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "If you're scared of a checkup, you could...",
+        "choices": [
+          "Ask questions and bring a trusted adult",
+          "Refuse to ever go",
+          "Cry only",
+          "Hide forever"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "A vaccine (shot) helps protect your body from...",
+        "choices": [
+          "Getting certain illnesses",
+          "Making you sick on purpose",
+          "Nothing",
+          "Growing taller"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Why do we visit the doctor for checkups?",
+        "choices": [
+          "To make sure we're healthy",
+          "To get candy",
+          "Just for fun",
+          "No reason"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "What might a doctor use to listen to your heart?",
+        "choices": [
+          "A hammer",
+          "A pencil",
+          "A stethoscope",
+          "A spoon"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Why do we visit the dentist?",
+        "choices": [
+          "To check our teeth are healthy",
+          "To play games",
+          "No reason",
+          "To eat candy"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "If you're scared of a checkup, you could...",
+        "choices": [
+          "Ask questions and bring a trusted adult",
+          "Refuse to ever go",
+          "Cry only",
+          "Hide forever"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "A vaccine (shot) helps protect your body from...",
+        "choices": [
+          "Growing taller",
+          "Making you sick on purpose",
+          "Getting certain illnesses",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Why do we visit the doctor for checkups?",
+        "choices": [
+          "To get candy",
+          "Just for fun",
+          "No reason",
+          "To make sure we're healthy"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "What might a doctor use to listen to your heart?",
+        "choices": [
+          "A pencil",
+          "A stethoscope",
+          "A hammer",
+          "A spoon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Why do we visit the dentist?",
+        "choices": [
+          "To check our teeth are healthy",
+          "To eat candy",
+          "No reason",
+          "To play games"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "If you're scared of a checkup, you could...",
+        "choices": [
+          "Cry only",
+          "Hide forever",
+          "Ask questions and bring a trusted adult",
+          "Refuse to ever go"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "A vaccine (shot) helps protect your body from...",
+        "choices": [
+          "Making you sick on purpose",
+          "Nothing",
+          "Growing taller",
+          "Getting certain illnesses"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Why do we visit the doctor for checkups?",
+        "choices": [
+          "To make sure we're healthy",
+          "Just for fun",
+          "No reason",
+          "To get candy"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "What might a doctor use to listen to your heart?",
+        "choices": [
+          "A spoon",
+          "A stethoscope",
+          "A pencil",
+          "A hammer"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Why do we visit the dentist?",
+        "choices": [
+          "No reason",
+          "To check our teeth are healthy",
+          "To play games",
+          "To eat candy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "If you're scared of a checkup, you could...",
+        "choices": [
+          "Ask questions and bring a trusted adult",
+          "Cry only",
+          "Refuse to ever go",
+          "Hide forever"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "A vaccine (shot) helps protect your body from...",
+        "choices": [
+          "Growing taller",
+          "Getting certain illnesses",
+          "Nothing",
+          "Making you sick on purpose"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-18",
+    "subject": "PLHE",
+    "title": "First Aid Basics",
+    "description": "Simple first steps when someone gets a small injury.",
+    "notes": "Simple first steps, like cleaning a cut, help small injuries heal safely.",
+    "examples": [
+      "Clean a small cut with water before covering it with a bandage."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What should you do first if you get a small cut?",
+        "choices": [
+          "Ignore it",
+          "Clean it and tell an adult",
+          "Hide it",
+          "Run around"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What can help cover a small cut?",
+        "choices": [
+          "A rock",
+          "A bandage",
+          "Tape from a box",
+          "Nothing at all"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "If you feel dizzy, you should...",
+        "choices": [
+          "Sit or lie down and tell someone",
+          "Ignore it",
+          "Jump around",
+          "Keep running"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Ice can help with...",
+        "choices": [
+          "Nothing",
+          "A bump or bruise",
+          "A stomach ache only",
+          "A haircut"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "For any injury that looks serious, you should...",
+        "choices": [
+          "Handle it alone",
+          "Ignore it",
+          "Wait a long time",
+          "Get an adult right away"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "What should you do first if you get a small cut?",
+        "choices": [
+          "Clean it and tell an adult",
+          "Ignore it",
+          "Hide it",
+          "Run around"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "What can help cover a small cut?",
+        "choices": [
+          "Tape from a box",
+          "Nothing at all",
+          "A bandage",
+          "A rock"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "If you feel dizzy, you should...",
+        "choices": [
+          "Jump around",
+          "Ignore it",
+          "Keep running",
+          "Sit or lie down and tell someone"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Ice can help with...",
+        "choices": [
+          "Nothing",
+          "A bump or bruise",
+          "A haircut",
+          "A stomach ache only"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "For any injury that looks serious, you should...",
+        "choices": [
+          "Ignore it",
+          "Handle it alone",
+          "Wait a long time",
+          "Get an adult right away"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "What should you do first if you get a small cut?",
+        "choices": [
+          "Run around",
+          "Clean it and tell an adult",
+          "Ignore it",
+          "Hide it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "What can help cover a small cut?",
+        "choices": [
+          "A rock",
+          "Tape from a box",
+          "A bandage",
+          "Nothing at all"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "If you feel dizzy, you should...",
+        "choices": [
+          "Ignore it",
+          "Keep running",
+          "Sit or lie down and tell someone",
+          "Jump around"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Ice can help with...",
+        "choices": [
+          "Nothing",
+          "A stomach ache only",
+          "A haircut",
+          "A bump or bruise"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "For any injury that looks serious, you should...",
+        "choices": [
+          "Get an adult right away",
+          "Ignore it",
+          "Wait a long time",
+          "Handle it alone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "What should you do first if you get a small cut?",
+        "choices": [
+          "Ignore it",
+          "Hide it",
+          "Run around",
+          "Clean it and tell an adult"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "What can help cover a small cut?",
+        "choices": [
+          "Nothing at all",
+          "A rock",
+          "Tape from a box",
+          "A bandage"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "If you feel dizzy, you should...",
+        "choices": [
+          "Sit or lie down and tell someone",
+          "Keep running",
+          "Jump around",
+          "Ignore it"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Ice can help with...",
+        "choices": [
+          "A haircut",
+          "Nothing",
+          "A bump or bruise",
+          "A stomach ache only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "For any injury that looks serious, you should...",
+        "choices": [
+          "Get an adult right away",
+          "Handle it alone",
+          "Ignore it",
+          "Wait a long time"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-19",
+    "subject": "PLHE",
+    "title": "Daily Hygiene Routine",
+    "description": "Keeping clean every day.",
+    "notes": "Washing your body regularly keeps you clean and healthy.",
+    "examples": [
+      "Most people bathe or shower once a day."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "How often should you bathe or shower?",
+        "choices": [
+          "Once a year",
+          "Regularly, most days",
+          "Only when told twice",
+          "Never"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What should you do with dirty clothes?",
+        "choices": [
+          "Hide them",
+          "Wear them again right away",
+          "Put them in the laundry",
+          "Throw them away"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Why should you wash your hair?",
+        "choices": [
+          "To keep it clean and healthy",
+          "It's not needed",
+          "No reason",
+          "To make it messier"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "What should you use to dry your hands?",
+        "choices": [
+          "Your shirt",
+          "A clean towel",
+          "A dirty rag",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Cutting your nails regularly helps prevent...",
+        "choices": [
+          "Nothing",
+          "Dirt and germs building up",
+          "Growth",
+          "Strength"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "How often should you bathe or shower?",
+        "choices": [
+          "Once a year",
+          "Never",
+          "Regularly, most days",
+          "Only when told twice"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "What should you do with dirty clothes?",
+        "choices": [
+          "Wear them again right away",
+          "Hide them",
+          "Put them in the laundry",
+          "Throw them away"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Why should you wash your hair?",
+        "choices": [
+          "To make it messier",
+          "It's not needed",
+          "To keep it clean and healthy",
+          "No reason"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "What should you use to dry your hands?",
+        "choices": [
+          "A dirty rag",
+          "Nothing",
+          "Your shirt",
+          "A clean towel"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Cutting your nails regularly helps prevent...",
+        "choices": [
+          "Strength",
+          "Nothing",
+          "Growth",
+          "Dirt and germs building up"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "How often should you bathe or shower?",
+        "choices": [
+          "Regularly, most days",
+          "Never",
+          "Once a year",
+          "Only when told twice"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "What should you do with dirty clothes?",
+        "choices": [
+          "Hide them",
+          "Put them in the laundry",
+          "Throw them away",
+          "Wear them again right away"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Why should you wash your hair?",
+        "choices": [
+          "To keep it clean and healthy",
+          "It's not needed",
+          "No reason",
+          "To make it messier"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "What should you use to dry your hands?",
+        "choices": [
+          "Your shirt",
+          "A dirty rag",
+          "Nothing",
+          "A clean towel"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Cutting your nails regularly helps prevent...",
+        "choices": [
+          "Dirt and germs building up",
+          "Nothing",
+          "Growth",
+          "Strength"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "How often should you bathe or shower?",
+        "choices": [
+          "Only when told twice",
+          "Once a year",
+          "Regularly, most days",
+          "Never"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "What should you do with dirty clothes?",
+        "choices": [
+          "Throw them away",
+          "Put them in the laundry",
+          "Wear them again right away",
+          "Hide them"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Why should you wash your hair?",
+        "choices": [
+          "To keep it clean and healthy",
+          "No reason",
+          "To make it messier",
+          "It's not needed"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "What should you use to dry your hands?",
+        "choices": [
+          "Your shirt",
+          "Nothing",
+          "A dirty rag",
+          "A clean towel"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Cutting your nails regularly helps prevent...",
+        "choices": [
+          "Strength",
+          "Dirt and germs building up",
+          "Growth",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-20",
+    "subject": "PLHE",
+    "title": "Playground Safety",
+    "description": "Staying safe while having fun outside.",
+    "notes": "Simple checks, like looking before you go, keep playtime on a playground safe.",
+    "examples": [
+      "Check that the slide is clear before going down it."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Before going down a slide, you should...",
+        "choices": [
+          "Push others",
+          "Climb up the slide",
+          "Make sure it's clear",
+          "Close your eyes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "What should you do on a crowded playground?",
+        "choices": [
+          "Wait your turn",
+          "Ignore others",
+          "Push in line",
+          "Run through games"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Swings should be used...",
+        "choices": [
+          "Backwards on purpose",
+          "One person at a time, sitting properly",
+          "By many kids at once",
+          "Standing and jumping off"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "If playground equipment looks broken, you should...",
+        "choices": [
+          "Tell an adult and avoid it",
+          "Ignore it",
+          "Use it anyway",
+          "Break it more"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Wearing the right shoes at the playground helps you...",
+        "choices": [
+          "Nothing",
+          "Trip more",
+          "Get tired faster",
+          "Stay safe and avoid slipping"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Before going down a slide, you should...",
+        "choices": [
+          "Climb up the slide",
+          "Make sure it's clear",
+          "Push others",
+          "Close your eyes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What should you do on a crowded playground?",
+        "choices": [
+          "Wait your turn",
+          "Run through games",
+          "Ignore others",
+          "Push in line"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Swings should be used...",
+        "choices": [
+          "By many kids at once",
+          "One person at a time, sitting properly",
+          "Standing and jumping off",
+          "Backwards on purpose"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "If playground equipment looks broken, you should...",
+        "choices": [
+          "Tell an adult and avoid it",
+          "Ignore it",
+          "Break it more",
+          "Use it anyway"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Wearing the right shoes at the playground helps you...",
+        "choices": [
+          "Trip more",
+          "Get tired faster",
+          "Stay safe and avoid slipping",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Before going down a slide, you should...",
+        "choices": [
+          "Make sure it's clear",
+          "Climb up the slide",
+          "Push others",
+          "Close your eyes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "What should you do on a crowded playground?",
+        "choices": [
+          "Push in line",
+          "Ignore others",
+          "Wait your turn",
+          "Run through games"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Swings should be used...",
+        "choices": [
+          "Standing and jumping off",
+          "By many kids at once",
+          "One person at a time, sitting properly",
+          "Backwards on purpose"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "If playground equipment looks broken, you should...",
+        "choices": [
+          "Break it more",
+          "Tell an adult and avoid it",
+          "Ignore it",
+          "Use it anyway"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Wearing the right shoes at the playground helps you...",
+        "choices": [
+          "Get tired faster",
+          "Trip more",
+          "Stay safe and avoid slipping",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Before going down a slide, you should...",
+        "choices": [
+          "Climb up the slide",
+          "Push others",
+          "Make sure it's clear",
+          "Close your eyes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "What should you do on a crowded playground?",
+        "choices": [
+          "Run through games",
+          "Wait your turn",
+          "Ignore others",
+          "Push in line"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Swings should be used...",
+        "choices": [
+          "Backwards on purpose",
+          "By many kids at once",
+          "One person at a time, sitting properly",
+          "Standing and jumping off"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "If playground equipment looks broken, you should...",
+        "choices": [
+          "Tell an adult and avoid it",
+          "Use it anyway",
+          "Ignore it",
+          "Break it more"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Wearing the right shoes at the playground helps you...",
+        "choices": [
+          "Get tired faster",
+          "Nothing",
+          "Stay safe and avoid slipping",
+          "Trip more"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "plhe-21",
+    "subject": "PLHE",
+    "title": "Sun Safety",
+    "description": "Protecting your skin and eyes outdoors.",
+    "notes": "Sunscreen and shade help protect your skin from sunburn.",
+    "examples": [
+      "Sunscreen protects your skin when you're outdoors."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What protects your skin from sunburn?",
+        "choices": [
+          "Sugar",
+          "Nothing",
+          "Sunscreen",
+          "A blanket indoors"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "What protects your eyes from bright sun?",
+        "choices": [
+          "Sunglasses",
+          "Ear muffs",
+          "A blindfold",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "When is the sun usually strongest?",
+        "choices": [
+          "Midnight",
+          "Before sunrise",
+          "Midday",
+          "During a storm"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "What should you drink more of on a hot sunny day?",
+        "choices": [
+          "Soda",
+          "Hot tea only",
+          "Nothing extra",
+          "Water"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "A hat can help protect your...",
+        "choices": [
+          "Nothing",
+          "Hearing",
+          "Feet",
+          "Face and head from the sun"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "What protects your skin from sunburn?",
+        "choices": [
+          "A blanket indoors",
+          "Sunscreen",
+          "Sugar",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What protects your eyes from bright sun?",
+        "choices": [
+          "Nothing",
+          "A blindfold",
+          "Ear muffs",
+          "Sunglasses"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "When is the sun usually strongest?",
+        "choices": [
+          "Midday",
+          "Before sunrise",
+          "Midnight",
+          "During a storm"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "What should you drink more of on a hot sunny day?",
+        "choices": [
+          "Hot tea only",
+          "Water",
+          "Soda",
+          "Nothing extra"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "A hat can help protect your...",
+        "choices": [
+          "Feet",
+          "Face and head from the sun",
+          "Hearing",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "What protects your skin from sunburn?",
+        "choices": [
+          "A blanket indoors",
+          "Sunscreen",
+          "Nothing",
+          "Sugar"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "What protects your eyes from bright sun?",
+        "choices": [
+          "Nothing",
+          "Sunglasses",
+          "Ear muffs",
+          "A blindfold"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "When is the sun usually strongest?",
+        "choices": [
+          "Midnight",
+          "Midday",
+          "Before sunrise",
+          "During a storm"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "What should you drink more of on a hot sunny day?",
+        "choices": [
+          "Hot tea only",
+          "Water",
+          "Soda",
+          "Nothing extra"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "A hat can help protect your...",
+        "choices": [
+          "Feet",
+          "Nothing",
+          "Face and head from the sun",
+          "Hearing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "What protects your skin from sunburn?",
+        "choices": [
+          "Sugar",
+          "Nothing",
+          "A blanket indoors",
+          "Sunscreen"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "What protects your eyes from bright sun?",
+        "choices": [
+          "Ear muffs",
+          "Nothing",
+          "Sunglasses",
+          "A blindfold"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "When is the sun usually strongest?",
+        "choices": [
+          "Midday",
+          "During a storm",
+          "Midnight",
+          "Before sunrise"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "What should you drink more of on a hot sunny day?",
+        "choices": [
+          "Soda",
+          "Water",
+          "Hot tea only",
+          "Nothing extra"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "A hat can help protect your...",
+        "choices": [
+          "Hearing",
+          "Feet",
+          "Nothing",
+          "Face and head from the sun"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "plhe-22",
+    "subject": "PLHE",
+    "title": "Healthy Drinks",
+    "description": "Choosing drinks that are good for your body.",
+    "notes": "Water is usually the healthiest drink for your body.",
+    "examples": [
+      "Water is a great drink choice most of the time."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which drink is the healthiest choice most of the time?",
+        "choices": [
+          "Sugary juice",
+          "Energy drinks",
+          "Soda",
+          "Water"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Too many sugary drinks can lead to...",
+        "choices": [
+          "Better sleep",
+          "Tooth decay and health problems",
+          "Stronger bones",
+          "Faster growth"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Milk provides which nutrient that helps bones?",
+        "choices": [
+          "Sugar only",
+          "Nothing",
+          "Calcium",
+          "Caffeine"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "What should you drink more of when it's hot outside?",
+        "choices": [
+          "Coffee",
+          "Water",
+          "Nothing",
+          "Soda"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Reading a label can help you spot...",
+        "choices": [
+          "Nothing useful",
+          "The drink's color only",
+          "The price only",
+          "How much sugar a drink has"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Which drink is the healthiest choice most of the time?",
+        "choices": [
+          "Sugary juice",
+          "Water",
+          "Energy drinks",
+          "Soda"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "Too many sugary drinks can lead to...",
+        "choices": [
+          "Faster growth",
+          "Stronger bones",
+          "Better sleep",
+          "Tooth decay and health problems"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Milk provides which nutrient that helps bones?",
+        "choices": [
+          "Calcium",
+          "Caffeine",
+          "Sugar only",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "What should you drink more of when it's hot outside?",
+        "choices": [
+          "Water",
+          "Coffee",
+          "Nothing",
+          "Soda"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Reading a label can help you spot...",
+        "choices": [
+          "How much sugar a drink has",
+          "The price only",
+          "The drink's color only",
+          "Nothing useful"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which drink is the healthiest choice most of the time?",
+        "choices": [
+          "Water",
+          "Soda",
+          "Sugary juice",
+          "Energy drinks"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Too many sugary drinks can lead to...",
+        "choices": [
+          "Tooth decay and health problems",
+          "Faster growth",
+          "Better sleep",
+          "Stronger bones"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Milk provides which nutrient that helps bones?",
+        "choices": [
+          "Nothing",
+          "Sugar only",
+          "Caffeine",
+          "Calcium"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "What should you drink more of when it's hot outside?",
+        "choices": [
+          "Water",
+          "Coffee",
+          "Nothing",
+          "Soda"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Reading a label can help you spot...",
+        "choices": [
+          "Nothing useful",
+          "The price only",
+          "How much sugar a drink has",
+          "The drink's color only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Which drink is the healthiest choice most of the time?",
+        "choices": [
+          "Water",
+          "Soda",
+          "Energy drinks",
+          "Sugary juice"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Too many sugary drinks can lead to...",
+        "choices": [
+          "Tooth decay and health problems",
+          "Stronger bones",
+          "Faster growth",
+          "Better sleep"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Milk provides which nutrient that helps bones?",
+        "choices": [
+          "Nothing",
+          "Sugar only",
+          "Caffeine",
+          "Calcium"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What should you drink more of when it's hot outside?",
+        "choices": [
+          "Water",
+          "Coffee",
+          "Nothing",
+          "Soda"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Reading a label can help you spot...",
+        "choices": [
+          "Nothing useful",
+          "The price only",
+          "The drink's color only",
+          "How much sugar a drink has"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "plhe-23",
+    "subject": "PLHE",
+    "title": "Screen Time Balance",
+    "description": "Balancing screens with other activities.",
+    "notes": "It's important to balance screen time with other activities, like playing outside.",
+    "examples": [
+      "Playing outside or reading are good screen-free activities."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Besides screens, what else is important to do each day?",
+        "choices": [
+          "Sleeping all day",
+          "Only more screens",
+          "Nothing else matters",
+          "Physical activity and outdoor play"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Looking at a screen too long without a break can make your eyes feel...",
+        "choices": [
+          "Tired",
+          "Faster",
+          "Stronger",
+          "Nothing happens"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "A good bedtime habit is to...",
+        "choices": [
+          "Watch TV all night",
+          "Turn off screens before bed",
+          "Play games until 3am",
+          "Ignore bedtime"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "What's a fun non-screen activity?",
+        "choices": [
+          "There are none",
+          "Only TV",
+          "Playing outside or reading a book",
+          "Only phones"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Taking breaks from screens helps you...",
+        "choices": [
+          "See worse always",
+          "Rest your eyes and body",
+          "Get more tired",
+          "Nothing changes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Besides screens, what else is important to do each day?",
+        "choices": [
+          "Nothing else matters",
+          "Only more screens",
+          "Physical activity and outdoor play",
+          "Sleeping all day"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Looking at a screen too long without a break can make your eyes feel...",
+        "choices": [
+          "Nothing happens",
+          "Stronger",
+          "Faster",
+          "Tired"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "A good bedtime habit is to...",
+        "choices": [
+          "Play games until 3am",
+          "Ignore bedtime",
+          "Watch TV all night",
+          "Turn off screens before bed"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "What's a fun non-screen activity?",
+        "choices": [
+          "There are none",
+          "Only TV",
+          "Playing outside or reading a book",
+          "Only phones"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Taking breaks from screens helps you...",
+        "choices": [
+          "Nothing changes",
+          "Rest your eyes and body",
+          "Get more tired",
+          "See worse always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Besides screens, what else is important to do each day?",
+        "choices": [
+          "Physical activity and outdoor play",
+          "Only more screens",
+          "Sleeping all day",
+          "Nothing else matters"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Looking at a screen too long without a break can make your eyes feel...",
+        "choices": [
+          "Stronger",
+          "Faster",
+          "Nothing happens",
+          "Tired"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "A good bedtime habit is to...",
+        "choices": [
+          "Play games until 3am",
+          "Watch TV all night",
+          "Ignore bedtime",
+          "Turn off screens before bed"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "What's a fun non-screen activity?",
+        "choices": [
+          "Only phones",
+          "There are none",
+          "Only TV",
+          "Playing outside or reading a book"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Taking breaks from screens helps you...",
+        "choices": [
+          "Get more tired",
+          "Nothing changes",
+          "Rest your eyes and body",
+          "See worse always"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Besides screens, what else is important to do each day?",
+        "choices": [
+          "Nothing else matters",
+          "Sleeping all day",
+          "Only more screens",
+          "Physical activity and outdoor play"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Looking at a screen too long without a break can make your eyes feel...",
+        "choices": [
+          "Stronger",
+          "Tired",
+          "Faster",
+          "Nothing happens"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "A good bedtime habit is to...",
+        "choices": [
+          "Play games until 3am",
+          "Ignore bedtime",
+          "Watch TV all night",
+          "Turn off screens before bed"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What's a fun non-screen activity?",
+        "choices": [
+          "There are none",
+          "Playing outside or reading a book",
+          "Only TV",
+          "Only phones"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Taking breaks from screens helps you...",
+        "choices": [
+          "Get more tired",
+          "Rest your eyes and body",
+          "Nothing changes",
+          "See worse always"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "plhe-24",
+    "subject": "PLHE",
+    "title": "Teamwork & Sports Rules",
+    "description": "Playing fair and working together.",
+    "notes": "Rules keep games fair and safe for everyone playing.",
+    "examples": [
+      "Rules help everyone play fairly and safely."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Why do sports have rules?",
+        "choices": [
+          "For no reason",
+          "To confuse players",
+          "To make it boring",
+          "To keep the game fair and safe"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "If your team loses a game, you should...",
+        "choices": [
+          "Be a good sport and try again",
+          "Blame everyone",
+          "Get very angry",
+          "Quit forever"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Working well with teammates is called...",
+        "choices": [
+          "Arguing",
+          "Ignoring others",
+          "Cheating",
+          "Teamwork"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "What should you do if a teammate makes a mistake?",
+        "choices": [
+          "Yell at them",
+          "Encourage them",
+          "Laugh at them",
+          "Ignore them"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Following the referee's or coach's calls shows...",
+        "choices": [
+          "Nothing",
+          "Disrespect",
+          "Cheating",
+          "Respect for the rules"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "Why do sports have rules?",
+        "choices": [
+          "To make it boring",
+          "For no reason",
+          "To keep the game fair and safe",
+          "To confuse players"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "If your team loses a game, you should...",
+        "choices": [
+          "Quit forever",
+          "Get very angry",
+          "Be a good sport and try again",
+          "Blame everyone"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Working well with teammates is called...",
+        "choices": [
+          "Teamwork",
+          "Arguing",
+          "Cheating",
+          "Ignoring others"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "What should you do if a teammate makes a mistake?",
+        "choices": [
+          "Yell at them",
+          "Encourage them",
+          "Ignore them",
+          "Laugh at them"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Following the referee's or coach's calls shows...",
+        "choices": [
+          "Disrespect",
+          "Respect for the rules",
+          "Nothing",
+          "Cheating"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Why do sports have rules?",
+        "choices": [
+          "To make it boring",
+          "To keep the game fair and safe",
+          "To confuse players",
+          "For no reason"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "If your team loses a game, you should...",
+        "choices": [
+          "Blame everyone",
+          "Get very angry",
+          "Be a good sport and try again",
+          "Quit forever"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Working well with teammates is called...",
+        "choices": [
+          "Ignoring others",
+          "Teamwork",
+          "Cheating",
+          "Arguing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "What should you do if a teammate makes a mistake?",
+        "choices": [
+          "Encourage them",
+          "Laugh at them",
+          "Yell at them",
+          "Ignore them"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Following the referee's or coach's calls shows...",
+        "choices": [
+          "Cheating",
+          "Respect for the rules",
+          "Nothing",
+          "Disrespect"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Why do sports have rules?",
+        "choices": [
+          "For no reason",
+          "To keep the game fair and safe",
+          "To confuse players",
+          "To make it boring"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "If your team loses a game, you should...",
+        "choices": [
+          "Be a good sport and try again",
+          "Quit forever",
+          "Get very angry",
+          "Blame everyone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Working well with teammates is called...",
+        "choices": [
+          "Ignoring others",
+          "Cheating",
+          "Arguing",
+          "Teamwork"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What should you do if a teammate makes a mistake?",
+        "choices": [
+          "Yell at them",
+          "Ignore them",
+          "Encourage them",
+          "Laugh at them"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Following the referee's or coach's calls shows...",
+        "choices": [
+          "Disrespect",
+          "Nothing",
+          "Cheating",
+          "Respect for the rules"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "plhe-25",
+    "subject": "PLHE",
+    "title": "Rest and Relaxation",
+    "description": "Why quiet time and rest matter too.",
+    "notes": "Quiet time, not just sleep, also helps your body and mind rest.",
+    "examples": [
+      "Reading quietly can help your body rest."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Besides sleep, what else helps your body rest?",
+        "choices": [
+          "Running nonstop",
+          "Loud video games",
+          "Quiet, calm activities",
+          "Nothing helps"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Taking deep breaths can help you feel...",
+        "choices": [
+          "More stressed",
+          "Calm",
+          "Angrier",
+          "Dizzy always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Resting after playing hard helps your muscles...",
+        "choices": [
+          "Grow instantly",
+          "Disappear",
+          "Get weaker",
+          "Recover"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "A calm activity before bed could be...",
+        "choices": [
+          "Loud music",
+          "Jumping on the bed",
+          "Running races",
+          "Reading quietly"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Why is it okay to take a break sometimes?",
+        "choices": [
+          "Only lazy people rest",
+          "Your body and mind need rest too",
+          "Rest is bad",
+          "It's never okay"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Besides sleep, what else helps your body rest?",
+        "choices": [
+          "Nothing helps",
+          "Quiet, calm activities",
+          "Running nonstop",
+          "Loud video games"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "Taking deep breaths can help you feel...",
+        "choices": [
+          "Calm",
+          "More stressed",
+          "Angrier",
+          "Dizzy always"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Resting after playing hard helps your muscles...",
+        "choices": [
+          "Recover",
+          "Grow instantly",
+          "Disappear",
+          "Get weaker"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "A calm activity before bed could be...",
+        "choices": [
+          "Loud music",
+          "Running races",
+          "Reading quietly",
+          "Jumping on the bed"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Why is it okay to take a break sometimes?",
+        "choices": [
+          "Your body and mind need rest too",
+          "Rest is bad",
+          "It's never okay",
+          "Only lazy people rest"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Besides sleep, what else helps your body rest?",
+        "choices": [
+          "Nothing helps",
+          "Quiet, calm activities",
+          "Running nonstop",
+          "Loud video games"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Taking deep breaths can help you feel...",
+        "choices": [
+          "More stressed",
+          "Angrier",
+          "Dizzy always",
+          "Calm"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Resting after playing hard helps your muscles...",
+        "choices": [
+          "Disappear",
+          "Get weaker",
+          "Grow instantly",
+          "Recover"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "A calm activity before bed could be...",
+        "choices": [
+          "Reading quietly",
+          "Jumping on the bed",
+          "Running races",
+          "Loud music"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Why is it okay to take a break sometimes?",
+        "choices": [
+          "Your body and mind need rest too",
+          "Only lazy people rest",
+          "It's never okay",
+          "Rest is bad"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Besides sleep, what else helps your body rest?",
+        "choices": [
+          "Nothing helps",
+          "Running nonstop",
+          "Loud video games",
+          "Quiet, calm activities"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "Taking deep breaths can help you feel...",
+        "choices": [
+          "Calm",
+          "Angrier",
+          "More stressed",
+          "Dizzy always"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Resting after playing hard helps your muscles...",
+        "choices": [
+          "Disappear",
+          "Grow instantly",
+          "Recover",
+          "Get weaker"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "A calm activity before bed could be...",
+        "choices": [
+          "Running races",
+          "Reading quietly",
+          "Loud music",
+          "Jumping on the bed"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Why is it okay to take a break sometimes?",
+        "choices": [
+          "Your body and mind need rest too",
+          "Only lazy people rest",
+          "It's never okay",
+          "Rest is bad"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-26",
+    "subject": "PLHE",
+    "title": "Community Helpers",
+    "description": "People who help keep us safe and healthy.",
+    "notes": "Community helpers like firefighters and doctors work to keep us safe and healthy.",
+    "examples": [
+      "Firefighters help put out fires."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Who helps put out fires?",
+        "choices": [
+          "A teacher",
+          "A pilot",
+          "A baker",
+          "A firefighter"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Who helps when you're sick?",
+        "choices": [
+          "A farmer",
+          "A doctor",
+          "A librarian",
+          "A firefighter"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Who helps keep the streets safe?",
+        "choices": [
+          "A chef",
+          "A dentist",
+          "A police officer",
+          "A florist"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Who delivers mail to your house?",
+        "choices": [
+          "A doctor",
+          "A dentist",
+          "A postal worker",
+          "A pilot"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Who helps put out fires and rescues people?",
+        "choices": [
+          "A firefighter",
+          "A baker",
+          "A teacher",
+          "A librarian"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Who helps put out fires?",
+        "choices": [
+          "A pilot",
+          "A teacher",
+          "A firefighter",
+          "A baker"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Who helps when you're sick?",
+        "choices": [
+          "A doctor",
+          "A firefighter",
+          "A librarian",
+          "A farmer"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Who helps keep the streets safe?",
+        "choices": [
+          "A florist",
+          "A dentist",
+          "A chef",
+          "A police officer"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Who delivers mail to your house?",
+        "choices": [
+          "A dentist",
+          "A postal worker",
+          "A doctor",
+          "A pilot"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Who helps put out fires and rescues people?",
+        "choices": [
+          "A librarian",
+          "A baker",
+          "A teacher",
+          "A firefighter"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Who helps put out fires?",
+        "choices": [
+          "A teacher",
+          "A baker",
+          "A firefighter",
+          "A pilot"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Who helps when you're sick?",
+        "choices": [
+          "A librarian",
+          "A firefighter",
+          "A doctor",
+          "A farmer"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Who helps keep the streets safe?",
+        "choices": [
+          "A florist",
+          "A dentist",
+          "A police officer",
+          "A chef"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Who delivers mail to your house?",
+        "choices": [
+          "A dentist",
+          "A pilot",
+          "A doctor",
+          "A postal worker"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Who helps put out fires and rescues people?",
+        "choices": [
+          "A librarian",
+          "A firefighter",
+          "A teacher",
+          "A baker"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Who helps put out fires?",
+        "choices": [
+          "A pilot",
+          "A teacher",
+          "A firefighter",
+          "A baker"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Who helps when you're sick?",
+        "choices": [
+          "A librarian",
+          "A firefighter",
+          "A farmer",
+          "A doctor"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Who helps keep the streets safe?",
+        "choices": [
+          "A dentist",
+          "A police officer",
+          "A florist",
+          "A chef"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Who delivers mail to your house?",
+        "choices": [
+          "A pilot",
+          "A postal worker",
+          "A dentist",
+          "A doctor"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Who helps put out fires and rescues people?",
+        "choices": [
+          "A baker",
+          "A librarian",
+          "A teacher",
+          "A firefighter"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "plhe-27",
+    "subject": "PLHE",
+    "title": "Family Roles & Responsibilities",
+    "description": "How family members help each other.",
+    "notes": "Everyone in a family can help out with small jobs at home.",
+    "examples": [
+      "Tidying your room is a way of helping your family."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Helping tidy your room is an example of...",
+        "choices": [
+          "Nothing",
+          "Cheating",
+          "Responsibility",
+          "Laziness"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "If a family member is busy, you could...",
+        "choices": [
+          "Demand attention loudly",
+          "Offer to help with a small task",
+          "Make more mess",
+          "Ignore them completely"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Doing simple chores helps your family by...",
+        "choices": [
+          "Nothing",
+          "Making more work",
+          "Sharing the work",
+          "Causing arguments"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Listening when a parent explains something shows...",
+        "choices": [
+          "Boredom only",
+          "Respect",
+          "Nothing",
+          "Disrespect"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Everyone in a family can help by...",
+        "choices": [
+          "Arguing",
+          "Working together",
+          "Only one person doing everything",
+          "Ignoring each other"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Helping tidy your room is an example of...",
+        "choices": [
+          "Cheating",
+          "Responsibility",
+          "Laziness",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "If a family member is busy, you could...",
+        "choices": [
+          "Make more mess",
+          "Ignore them completely",
+          "Offer to help with a small task",
+          "Demand attention loudly"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Doing simple chores helps your family by...",
+        "choices": [
+          "Causing arguments",
+          "Making more work",
+          "Nothing",
+          "Sharing the work"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Listening when a parent explains something shows...",
+        "choices": [
+          "Respect",
+          "Boredom only",
+          "Nothing",
+          "Disrespect"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Everyone in a family can help by...",
+        "choices": [
+          "Arguing",
+          "Ignoring each other",
+          "Working together",
+          "Only one person doing everything"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Helping tidy your room is an example of...",
+        "choices": [
+          "Nothing",
+          "Responsibility",
+          "Cheating",
+          "Laziness"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "If a family member is busy, you could...",
+        "choices": [
+          "Demand attention loudly",
+          "Offer to help with a small task",
+          "Make more mess",
+          "Ignore them completely"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Doing simple chores helps your family by...",
+        "choices": [
+          "Sharing the work",
+          "Making more work",
+          "Causing arguments",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Listening when a parent explains something shows...",
+        "choices": [
+          "Respect",
+          "Disrespect",
+          "Boredom only",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Everyone in a family can help by...",
+        "choices": [
+          "Ignoring each other",
+          "Working together",
+          "Arguing",
+          "Only one person doing everything"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Helping tidy your room is an example of...",
+        "choices": [
+          "Nothing",
+          "Laziness",
+          "Responsibility",
+          "Cheating"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "If a family member is busy, you could...",
+        "choices": [
+          "Ignore them completely",
+          "Demand attention loudly",
+          "Offer to help with a small task",
+          "Make more mess"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Doing simple chores helps your family by...",
+        "choices": [
+          "Sharing the work",
+          "Making more work",
+          "Nothing",
+          "Causing arguments"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Listening when a parent explains something shows...",
+        "choices": [
+          "Respect",
+          "Boredom only",
+          "Disrespect",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Everyone in a family can help by...",
+        "choices": [
+          "Working together",
+          "Ignoring each other",
+          "Only one person doing everything",
+          "Arguing"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-28",
+    "subject": "PLHE",
+    "title": "Good Manners",
+    "description": "Being polite with others.",
+    "notes": "Polite words like 'please' and 'thank you' show good manners.",
+    "examples": [
+      "Say 'thank you' when someone helps you."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What do you say when someone helps you?",
+        "choices": [
+          "Go away",
+          "Nothing",
+          "Stop",
+          "Thank you"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "What do you say when you bump into someone?",
+        "choices": [
+          "Move it",
+          "Nothing",
+          "That's your fault",
+          "Sorry / excuse me"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "What should you do while someone else is talking?",
+        "choices": [
+          "Talk over them",
+          "Walk away",
+          "Interrupt loudly",
+          "Listen quietly"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "What word do you use to ask for something politely?",
+        "choices": [
+          "Give me",
+          "Hurry",
+          "Now",
+          "Please"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Covering your mouth when you yawn is an example of...",
+        "choices": [
+          "Bad manners",
+          "Rudeness",
+          "Good manners",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "What do you say when someone helps you?",
+        "choices": [
+          "Stop",
+          "Thank you",
+          "Nothing",
+          "Go away"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What do you say when you bump into someone?",
+        "choices": [
+          "Move it",
+          "Nothing",
+          "That's your fault",
+          "Sorry / excuse me"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "What should you do while someone else is talking?",
+        "choices": [
+          "Interrupt loudly",
+          "Talk over them",
+          "Walk away",
+          "Listen quietly"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "What word do you use to ask for something politely?",
+        "choices": [
+          "Please",
+          "Hurry",
+          "Give me",
+          "Now"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Covering your mouth when you yawn is an example of...",
+        "choices": [
+          "Good manners",
+          "Rudeness",
+          "Bad manners",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "What do you say when someone helps you?",
+        "choices": [
+          "Go away",
+          "Thank you",
+          "Nothing",
+          "Stop"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "What do you say when you bump into someone?",
+        "choices": [
+          "Nothing",
+          "Move it",
+          "That's your fault",
+          "Sorry / excuse me"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "What should you do while someone else is talking?",
+        "choices": [
+          "Talk over them",
+          "Interrupt loudly",
+          "Listen quietly",
+          "Walk away"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "What word do you use to ask for something politely?",
+        "choices": [
+          "Hurry",
+          "Now",
+          "Please",
+          "Give me"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Covering your mouth when you yawn is an example of...",
+        "choices": [
+          "Bad manners",
+          "Nothing",
+          "Rudeness",
+          "Good manners"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "What do you say when someone helps you?",
+        "choices": [
+          "Stop",
+          "Thank you",
+          "Go away",
+          "Nothing"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "What do you say when you bump into someone?",
+        "choices": [
+          "Nothing",
+          "Sorry / excuse me",
+          "That's your fault",
+          "Move it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "What should you do while someone else is talking?",
+        "choices": [
+          "Listen quietly",
+          "Walk away",
+          "Talk over them",
+          "Interrupt loudly"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "What word do you use to ask for something politely?",
+        "choices": [
+          "Please",
+          "Hurry",
+          "Now",
+          "Give me"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Covering your mouth when you yawn is an example of...",
+        "choices": [
+          "Nothing",
+          "Rudeness",
+          "Good manners",
+          "Bad manners"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "plhe-29",
+    "subject": "PLHE",
+    "title": "Emergency Numbers & Safety",
+    "description": "Knowing what to do in an emergency.",
+    "notes": "In an emergency, staying calm and telling a trusted adult is a good first step.",
+    "examples": [
+      "Tell a trusted adult or call an emergency number for help."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What should you do in an emergency?",
+        "choices": [
+          "Panic and do nothing",
+          "Tell a trusted adult or call for help",
+          "Hide and wait quietly forever",
+          "Ignore it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What is an emergency number used for?",
+        "choices": [
+          "Ordering pizza",
+          "Chatting with friends",
+          "Playing games",
+          "Calling for help in a serious situation"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "If you see someone get hurt badly, you should...",
+        "choices": [
+          "Laugh",
+          "Ignore it",
+          "Get an adult immediately",
+          "Walk away"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Knowing your home address can help in an emergency because...",
+        "choices": [
+          "No reason",
+          "Helpers know where to find you",
+          "It's not useful",
+          "It's a secret always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Staying calm in an emergency helps you...",
+        "choices": [
+          "Forget everything",
+          "Panic more",
+          "Nothing",
+          "Think clearly and get help"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "What should you do in an emergency?",
+        "choices": [
+          "Hide and wait quietly forever",
+          "Tell a trusted adult or call for help",
+          "Panic and do nothing",
+          "Ignore it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What is an emergency number used for?",
+        "choices": [
+          "Ordering pizza",
+          "Chatting with friends",
+          "Calling for help in a serious situation",
+          "Playing games"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "If you see someone get hurt badly, you should...",
+        "choices": [
+          "Get an adult immediately",
+          "Walk away",
+          "Ignore it",
+          "Laugh"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Knowing your home address can help in an emergency because...",
+        "choices": [
+          "No reason",
+          "Helpers know where to find you",
+          "It's not useful",
+          "It's a secret always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Staying calm in an emergency helps you...",
+        "choices": [
+          "Panic more",
+          "Think clearly and get help",
+          "Nothing",
+          "Forget everything"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "What should you do in an emergency?",
+        "choices": [
+          "Tell a trusted adult or call for help",
+          "Panic and do nothing",
+          "Hide and wait quietly forever",
+          "Ignore it"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "What is an emergency number used for?",
+        "choices": [
+          "Playing games",
+          "Calling for help in a serious situation",
+          "Chatting with friends",
+          "Ordering pizza"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "If you see someone get hurt badly, you should...",
+        "choices": [
+          "Laugh",
+          "Ignore it",
+          "Get an adult immediately",
+          "Walk away"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Knowing your home address can help in an emergency because...",
+        "choices": [
+          "Helpers know where to find you",
+          "It's not useful",
+          "No reason",
+          "It's a secret always"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Staying calm in an emergency helps you...",
+        "choices": [
+          "Forget everything",
+          "Panic more",
+          "Think clearly and get help",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "What should you do in an emergency?",
+        "choices": [
+          "Hide and wait quietly forever",
+          "Panic and do nothing",
+          "Ignore it",
+          "Tell a trusted adult or call for help"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "What is an emergency number used for?",
+        "choices": [
+          "Calling for help in a serious situation",
+          "Chatting with friends",
+          "Playing games",
+          "Ordering pizza"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "If you see someone get hurt badly, you should...",
+        "choices": [
+          "Laugh",
+          "Get an adult immediately",
+          "Ignore it",
+          "Walk away"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Knowing your home address can help in an emergency because...",
+        "choices": [
+          "No reason",
+          "It's not useful",
+          "Helpers know where to find you",
+          "It's a secret always"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Staying calm in an emergency helps you...",
+        "choices": [
+          "Think clearly and get help",
+          "Panic more",
+          "Forget everything",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "plhe-30",
+    "subject": "PLHE",
+    "title": "Mixed Review: Year-End Challenge",
+    "description": "A mix of health, safety, and life skills from across the year.",
+    "notes": "This module mixes health, safety, and life skills from across the whole year.",
+    "examples": [
+      "Review handwashing, safety rules, and healthy habits before you start."
+    ],
+    "ageMin": 6,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "How many times a day should you brush your teeth?",
+        "choices": [
+          "0",
+          "2",
+          "5",
+          "1"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What should you do before crossing the street?",
+        "choices": [
+          "Run fast",
+          "Nothing",
+          "Look both ways",
+          "Close your eyes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Which is a healthy snack?",
+        "choices": [
+          "Candy",
+          "Soda",
+          "An apple",
+          "Chips"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Why is sleep important?",
+        "choices": [
+          "It makes you sick",
+          "It's not important",
+          "It makes you weaker",
+          "It helps your body rest and grow"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "What should you say when someone helps you?",
+        "choices": [
+          "Thank you",
+          "Nothing",
+          "Stop",
+          "Go away"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Who helps put out fires?",
+        "choices": [
+          "A firefighter",
+          "A librarian",
+          "A baker",
+          "A pilot"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "What protects your skin from sunburn?",
+        "choices": [
+          "A blanket",
+          "Sugar",
+          "Nothing",
+          "Sunscreen"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "What should you do if you feel sick?",
+        "choices": [
+          "Hide it",
+          "Ignore it",
+          "Tell an adult",
+          "Go outside alone"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Which body part helps you see?",
+        "choices": [
+          "Eyes",
+          "Nose",
+          "Ears",
+          "Tongue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What number do you call in an emergency?",
+        "choices": [
+          "123",
+          "911 (or local emergency number)",
+          "Your friend",
+          "Nobody"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "How many times a day should you brush your teeth?",
+        "choices": [
+          "2",
+          "0",
+          "1",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "What should you do before crossing the street?",
+        "choices": [
+          "Look both ways",
+          "Nothing",
+          "Close your eyes",
+          "Run fast"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Which is a healthy snack?",
+        "choices": [
+          "Candy",
+          "Chips",
+          "Soda",
+          "An apple"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Why is sleep important?",
+        "choices": [
+          "It helps your body rest and grow",
+          "It's not important",
+          "It makes you weaker",
+          "It makes you sick"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "What should you say when someone helps you?",
+        "choices": [
+          "Stop",
+          "Nothing",
+          "Go away",
+          "Thank you"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Who helps put out fires?",
+        "choices": [
+          "A firefighter",
+          "A baker",
+          "A librarian",
+          "A pilot"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "What protects your skin from sunburn?",
+        "choices": [
+          "Sunscreen",
+          "Nothing",
+          "A blanket",
+          "Sugar"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "What should you do if you feel sick?",
+        "choices": [
+          "Hide it",
+          "Tell an adult",
+          "Go outside alone",
+          "Ignore it"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Which body part helps you see?",
+        "choices": [
+          "Nose",
+          "Ears",
+          "Tongue",
+          "Eyes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "What number do you call in an emergency?",
+        "choices": [
+          "123",
+          "Nobody",
+          "911 (or local emergency number)",
+          "Your friend"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  }
+]

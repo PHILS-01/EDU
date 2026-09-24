@@ -1,0 +1,6998 @@
+[
+  {
+    "id": "verbal-01",
+    "subject": "VERBAL_REASONING",
+    "title": "Odd One Out",
+    "description": "Finding the word that doesn't belong with the others.",
+    "notes": "Look at the group of words and find the one that doesn't share something the others have in common.",
+    "examples": [
+      "Cat, Rabbit, Dog, Bed - three are animals, but 'Bed' isn't, so it's the odd one out."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which word doesn't belong: Cat, Rabbit, Dog, Bed?",
+        "choices": [
+          "Dog",
+          "Rabbit",
+          "Bed",
+          "Cat"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which word doesn't belong: Sofa, Bed, Five, Chair?",
+        "choices": [
+          "Bed",
+          "Five",
+          "Chair",
+          "Sofa"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Which word doesn't belong: Bike, Car, Twelve, Train?",
+        "choices": [
+          "Twelve",
+          "Bike",
+          "Train",
+          "Car"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Which word doesn't belong: Red, Green, Yellow, Dog?",
+        "choices": [
+          "Yellow",
+          "Red",
+          "Dog",
+          "Green"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Which word doesn't belong: Horse, Nine, Two, Five?",
+        "choices": [
+          "Horse",
+          "Nine",
+          "Two",
+          "Five"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Which word doesn't belong: Mango, Banana, Bed, Apple?",
+        "choices": [
+          "Banana",
+          "Bed",
+          "Apple",
+          "Mango"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "Which word doesn't belong: Horse, Rabbit, Chair, Cat?",
+        "choices": [
+          "Rabbit",
+          "Horse",
+          "Chair",
+          "Cat"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which word doesn't belong: Chair, Sofa, Nine, Table?",
+        "choices": [
+          "Sofa",
+          "Nine",
+          "Chair",
+          "Table"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which word doesn't belong: Train, Bike, Chair, Car?",
+        "choices": [
+          "Car",
+          "Chair",
+          "Train",
+          "Bike"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Which word doesn't belong: Blue, Green, Cat, Yellow?",
+        "choices": [
+          "Blue",
+          "Cat",
+          "Yellow",
+          "Green"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Which word doesn't belong: Nine, Bed, Two, Twelve?",
+        "choices": [
+          "Nine",
+          "Two",
+          "Twelve",
+          "Bed"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "Which word doesn't belong: Mango, Rabbit, Apple, Grape?",
+        "choices": [
+          "Mango",
+          "Grape",
+          "Apple",
+          "Rabbit"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Which word doesn't belong: Cat, Horse, Rabbit, Twelve?",
+        "choices": [
+          "Twelve",
+          "Horse",
+          "Rabbit",
+          "Cat"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Which word doesn't belong: Table, Chair, Horse, Bed?",
+        "choices": [
+          "Bed",
+          "Chair",
+          "Table",
+          "Horse"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which word doesn't belong: Bike, Yellow, Train, Bus?",
+        "choices": [
+          "Yellow",
+          "Bike",
+          "Bus",
+          "Train"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which word doesn't belong: Red, Blue, Green, Table?",
+        "choices": [
+          "Green",
+          "Table",
+          "Blue",
+          "Red"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Which word doesn't belong: Dog, Twelve, Two, Five?",
+        "choices": [
+          "Twelve",
+          "Dog",
+          "Two",
+          "Five"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Which word doesn't belong: Apple, Banana, Mango, Table?",
+        "choices": [
+          "Table",
+          "Banana",
+          "Mango",
+          "Apple"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Which word doesn't belong: Table, Rabbit, Cat, Horse?",
+        "choices": [
+          "Cat",
+          "Rabbit",
+          "Table",
+          "Horse"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Which word doesn't belong: Car, Table, Chair, Sofa?",
+        "choices": [
+          "Table",
+          "Chair",
+          "Car",
+          "Sofa"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-02",
+    "subject": "VERBAL_REASONING",
+    "title": "Word Analogies",
+    "description": "Completing 'this is to that, as this is to ___' patterns.",
+    "notes": "Analogies compare two pairs of things that relate to each other in the same way: 'this is to that, as this is to ___'.",
+    "examples": [
+      "Bird is to Sky as Fish is to Water - both are where each animal lives."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Bird is to Sky as Fish is to ___?",
+        "choices": [
+          "Small",
+          "Cat",
+          "Egg",
+          "Water"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Hot is to Cold as Up is to ___?",
+        "choices": [
+          "Down",
+          "Moon",
+          "Queen",
+          "Fly"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Puppy is to Dog as Kitten is to ___?",
+        "choices": [
+          "Egg",
+          "Cat",
+          "Glove",
+          "Chirp"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Foot is to Shoe as Hand is to ___?",
+        "choices": [
+          "Chirp",
+          "Cry",
+          "Read",
+          "Glove"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Day is to Sun as Night is to ___?",
+        "choices": [
+          "Egg",
+          "Down",
+          "Moon",
+          "Sing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Baby is to Cry as Bird is to ___?",
+        "choices": [
+          "Chirp",
+          "Water",
+          "Cat",
+          "Slow"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "Book is to Read as Song is to ___?",
+        "choices": [
+          "Sing",
+          "Swim",
+          "Sun",
+          "Cold"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Big is to Small as Fast is to ___?",
+        "choices": [
+          "Fly",
+          "Glove",
+          "Down",
+          "Slow"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Fish is to Swim as Bird is to ___?",
+        "choices": [
+          "Fly",
+          "Dog",
+          "Glove",
+          "Sing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Cow is to Milk as Hen is to ___?",
+        "choices": [
+          "Moon",
+          "Egg",
+          "Drink",
+          "Shoe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "King is to Queen as Prince is to ___?",
+        "choices": [
+          "Fly",
+          "Princess",
+          "Sing",
+          "Egg"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Water is to Drink as Food is to ___?",
+        "choices": [
+          "Dog",
+          "Eat",
+          "Chirp",
+          "Milk"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Bird is to Sky as Fish is to ___?",
+        "choices": [
+          "Slow",
+          "Water",
+          "Egg",
+          "Cry"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "Hot is to Cold as Up is to ___?",
+        "choices": [
+          "Chirp",
+          "Swim",
+          "Eat",
+          "Down"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Puppy is to Dog as Kitten is to ___?",
+        "choices": [
+          "Down",
+          "Cat",
+          "Eat",
+          "Sky"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Foot is to Shoe as Hand is to ___?",
+        "choices": [
+          "Glove",
+          "Sky",
+          "Eat",
+          "Swim"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Day is to Sun as Night is to ___?",
+        "choices": [
+          "Shoe",
+          "Cat",
+          "Drink",
+          "Moon"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Baby is to Cry as Bird is to ___?",
+        "choices": [
+          "Chirp",
+          "Dog",
+          "Cold",
+          "Water"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Book is to Read as Song is to ___?",
+        "choices": [
+          "Milk",
+          "Slow",
+          "Egg",
+          "Sing"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Big is to Small as Fast is to ___?",
+        "choices": [
+          "Sing",
+          "Dog",
+          "Shoe",
+          "Slow"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "verbal-03",
+    "subject": "VERBAL_REASONING",
+    "title": "Number Sequences",
+    "description": "Finding what comes next in a counting pattern.",
+    "notes": "Look at how the numbers change from one to the next, then continue the same pattern.",
+    "examples": [
+      "1, 2, 3, ___ - each number goes up by 1, so next is 4."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What comes next: 1, 2, 3, ___?",
+        "choices": [
+          "2",
+          "4",
+          "3",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "What comes next: 2, 3, 4, ___?",
+        "choices": [
+          "3",
+          "6",
+          "4",
+          "5"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "What comes next: 3, 4, 5, ___?",
+        "choices": [
+          "4",
+          "6",
+          "5",
+          "7"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "What comes next: 4, 5, 6, ___?",
+        "choices": [
+          "5",
+          "7",
+          "6",
+          "8"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "What comes next: 5, 6, 7, ___?",
+        "choices": [
+          "7",
+          "8",
+          "6",
+          "9"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "What comes next: 6, 7, 8, ___?",
+        "choices": [
+          "8",
+          "9",
+          "10",
+          "7"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What comes next: 7, 8, 9, ___?",
+        "choices": [
+          "11",
+          "9",
+          "8",
+          "10"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "What comes next: 8, 9, 10, ___?",
+        "choices": [
+          "9",
+          "11",
+          "10",
+          "12"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "What comes next: 9, 10, 11, ___?",
+        "choices": [
+          "13",
+          "10",
+          "12",
+          "11"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "What comes next: 10, 11, 12, ___?",
+        "choices": [
+          "14",
+          "13",
+          "11",
+          "12"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "What comes next: 11, 12, 13, ___?",
+        "choices": [
+          "15",
+          "12",
+          "14",
+          "13"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "What comes next: 12, 13, 14, ___?",
+        "choices": [
+          "14",
+          "16",
+          "15",
+          "13"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "What comes next: 13, 14, 15, ___?",
+        "choices": [
+          "15",
+          "17",
+          "14",
+          "16"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "What comes next: 14, 15, 16, ___?",
+        "choices": [
+          "17",
+          "18",
+          "15",
+          "16"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "What comes next: 1, 2, 3, ___?",
+        "choices": [
+          "3",
+          "4",
+          "5",
+          "2"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "What comes next: 2, 3, 4, ___?",
+        "choices": [
+          "5",
+          "3",
+          "4",
+          "6"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "What comes next: 3, 4, 5, ___?",
+        "choices": [
+          "5",
+          "4",
+          "7",
+          "6"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "What comes next: 4, 5, 6, ___?",
+        "choices": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "What comes next: 5, 6, 7, ___?",
+        "choices": [
+          "7",
+          "8",
+          "6",
+          "9"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "What comes next: 6, 7, 8, ___?",
+        "choices": [
+          "7",
+          "9",
+          "10",
+          "8"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "verbal-04",
+    "subject": "VERBAL_REASONING",
+    "title": "Classification & Grouping",
+    "description": "Sorting items into the right category.",
+    "notes": "Decide what category something belongs to by thinking about what it really is.",
+    "examples": [
+      "An apple is a fruit, so it belongs in the 'fruit' group."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which of these is a fruit?",
+        "choices": [
+          "Chair",
+          "Car",
+          "Apple",
+          "Shoe"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which of these is an animal?",
+        "choices": [
+          "Pencil",
+          "Rabbit",
+          "Cup",
+          "Table"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Which of these can you eat?",
+        "choices": [
+          "Glass",
+          "Bread",
+          "Chair",
+          "Rock"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Which of these can fly?",
+        "choices": [
+          "Bird",
+          "Snake",
+          "Turtle",
+          "Fish"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which of these lives in water?",
+        "choices": [
+          "Cat",
+          "Dog",
+          "Fish",
+          "Bird"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which of these is a shape?",
+        "choices": [
+          "Run",
+          "Happy",
+          "Circle",
+          "Loud"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which of these is a fruit?",
+        "choices": [
+          "Shoe",
+          "Chair",
+          "Apple",
+          "Car"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which of these is an animal?",
+        "choices": [
+          "Pencil",
+          "Rabbit",
+          "Table",
+          "Cup"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which of these can you eat?",
+        "choices": [
+          "Bread",
+          "Glass",
+          "Rock",
+          "Chair"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Which of these can fly?",
+        "choices": [
+          "Fish",
+          "Bird",
+          "Turtle",
+          "Snake"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Which of these lives in water?",
+        "choices": [
+          "Bird",
+          "Cat",
+          "Fish",
+          "Dog"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Which of these is a shape?",
+        "choices": [
+          "Circle",
+          "Happy",
+          "Loud",
+          "Run"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Which of these is a fruit?",
+        "choices": [
+          "Apple",
+          "Shoe",
+          "Chair",
+          "Car"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Which of these is an animal?",
+        "choices": [
+          "Rabbit",
+          "Cup",
+          "Pencil",
+          "Table"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Which of these can you eat?",
+        "choices": [
+          "Bread",
+          "Rock",
+          "Chair",
+          "Glass"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which of these can fly?",
+        "choices": [
+          "Snake",
+          "Bird",
+          "Fish",
+          "Turtle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Which of these lives in water?",
+        "choices": [
+          "Fish",
+          "Cat",
+          "Dog",
+          "Bird"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which of these is a shape?",
+        "choices": [
+          "Loud",
+          "Circle",
+          "Happy",
+          "Run"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Which of these is a fruit?",
+        "choices": [
+          "Car",
+          "Apple",
+          "Shoe",
+          "Chair"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Which of these is an animal?",
+        "choices": [
+          "Cup",
+          "Pencil",
+          "Rabbit",
+          "Table"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-05",
+    "subject": "VERBAL_REASONING",
+    "title": "Following Instructions",
+    "description": "Reading carefully and working out the answer step by step.",
+    "notes": "Read the question slowly and work out the answer one step at a time.",
+    "examples": [
+      "If today is Monday, yesterday was Sunday - one day before."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If today is Monday, what day was it yesterday?",
+        "choices": [
+          "Saturday",
+          "Wednesday",
+          "Sunday",
+          "Tuesday"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "If it is 3 o'clock now, what time will it be in 2 hours?",
+        "choices": [
+          "5 o'clock",
+          "4 o'clock",
+          "1 o'clock",
+          "7 o'clock"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "If you have 5 apples and eat 2, how many are left?",
+        "choices": [
+          "5",
+          "3",
+          "7",
+          "2"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "If Monday comes before Tuesday, what comes before Monday?",
+        "choices": [
+          "Friday",
+          "Wednesday",
+          "Sunday",
+          "Saturday"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "If the red box is bigger than the blue box, which box is smaller?",
+        "choices": [
+          "Neither",
+          "The blue box",
+          "Both the same",
+          "The red box"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "If today is Monday, what day was it yesterday?",
+        "choices": [
+          "Tuesday",
+          "Sunday",
+          "Saturday",
+          "Wednesday"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "If it is 3 o'clock now, what time will it be in 2 hours?",
+        "choices": [
+          "7 o'clock",
+          "4 o'clock",
+          "5 o'clock",
+          "1 o'clock"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "If you have 5 apples and eat 2, how many are left?",
+        "choices": [
+          "7",
+          "5",
+          "2",
+          "3"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "If Monday comes before Tuesday, what comes before Monday?",
+        "choices": [
+          "Wednesday",
+          "Saturday",
+          "Sunday",
+          "Friday"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "If the red box is bigger than the blue box, which box is smaller?",
+        "choices": [
+          "The blue box",
+          "Neither",
+          "Both the same",
+          "The red box"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "If today is Monday, what day was it yesterday?",
+        "choices": [
+          "Saturday",
+          "Tuesday",
+          "Wednesday",
+          "Sunday"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "If it is 3 o'clock now, what time will it be in 2 hours?",
+        "choices": [
+          "5 o'clock",
+          "7 o'clock",
+          "1 o'clock",
+          "4 o'clock"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "If you have 5 apples and eat 2, how many are left?",
+        "choices": [
+          "2",
+          "5",
+          "7",
+          "3"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "If Monday comes before Tuesday, what comes before Monday?",
+        "choices": [
+          "Wednesday",
+          "Saturday",
+          "Friday",
+          "Sunday"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "If the red box is bigger than the blue box, which box is smaller?",
+        "choices": [
+          "Both the same",
+          "Neither",
+          "The blue box",
+          "The red box"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "If today is Monday, what day was it yesterday?",
+        "choices": [
+          "Tuesday",
+          "Wednesday",
+          "Saturday",
+          "Sunday"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "If it is 3 o'clock now, what time will it be in 2 hours?",
+        "choices": [
+          "1 o'clock",
+          "7 o'clock",
+          "5 o'clock",
+          "4 o'clock"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "If you have 5 apples and eat 2, how many are left?",
+        "choices": [
+          "3",
+          "2",
+          "5",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "If Monday comes before Tuesday, what comes before Monday?",
+        "choices": [
+          "Sunday",
+          "Saturday",
+          "Wednesday",
+          "Friday"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "If the red box is bigger than the blue box, which box is smaller?",
+        "choices": [
+          "The blue box",
+          "The red box",
+          "Both the same",
+          "Neither"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "verbal-06",
+    "subject": "VERBAL_REASONING",
+    "title": "Opposites Reasoning",
+    "description": "Working out opposite meanings.",
+    "notes": "Find the word that means the exact opposite.",
+    "examples": [
+      "'Hot' is the opposite of 'cold'."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "'Hot' means the opposite of ___?",
+        "choices": [
+          "quiet",
+          "cold",
+          "fast",
+          "full"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "'Big' means the opposite of ___?",
+        "choices": [
+          "small",
+          "down",
+          "quiet",
+          "light"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "'Fast' means the opposite of ___?",
+        "choices": [
+          "first",
+          "full",
+          "slow",
+          "empty"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "'Up' means the opposite of ___?",
+        "choices": [
+          "empty",
+          "down",
+          "night",
+          "happy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "'Day' means the opposite of ___?",
+        "choices": [
+          "small",
+          "happy",
+          "night",
+          "full"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "'Happy' means the opposite of ___?",
+        "choices": [
+          "sad",
+          "first",
+          "last",
+          "loud"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "'Open' means the opposite of ___?",
+        "choices": [
+          "small",
+          "slow",
+          "closed",
+          "dry"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "'Light' means the opposite of ___?",
+        "choices": [
+          "cold",
+          "open",
+          "heavy",
+          "big"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "'Wet' means the opposite of ___?",
+        "choices": [
+          "dry",
+          "quiet",
+          "loud",
+          "up"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "'Full' means the opposite of ___?",
+        "choices": [
+          "cold",
+          "open",
+          "empty",
+          "light"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "'Loud' means the opposite of ___?",
+        "choices": [
+          "down",
+          "wet",
+          "quiet",
+          "up"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "'First' means the opposite of ___?",
+        "choices": [
+          "full",
+          "cold",
+          "last",
+          "quiet"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "'Fast' means the opposite of ___?",
+        "choices": [
+          "slow",
+          "light",
+          "down",
+          "loud"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "'Open' means the opposite of ___?",
+        "choices": [
+          "closed",
+          "light",
+          "cold",
+          "day"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "'Big' means the opposite of ___?",
+        "choices": [
+          "full",
+          "dry",
+          "small",
+          "cold"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "'Up' means the opposite of ___?",
+        "choices": [
+          "small",
+          "happy",
+          "fast",
+          "down"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "'Open' means the opposite of ___?",
+        "choices": [
+          "closed",
+          "loud",
+          "up",
+          "hot"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "'Full' means the opposite of ___?",
+        "choices": [
+          "last",
+          "hot",
+          "light",
+          "empty"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "'Big' means the opposite of ___?",
+        "choices": [
+          "small",
+          "heavy",
+          "night",
+          "empty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "'Day' means the opposite of ___?",
+        "choices": [
+          "fast",
+          "hot",
+          "light",
+          "night"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "verbal-07",
+    "subject": "VERBAL_REASONING",
+    "title": "Finding Similarities",
+    "description": "Working out what two things have in common.",
+    "notes": "Think about what two things have in common, even if they look very different.",
+    "examples": [
+      "An apple and a banana are alike because they're both fruit."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "How are an apple and a banana alike?",
+        "choices": [
+          "Both are vehicles",
+          "Both are fruit",
+          "Both are furniture",
+          "Both are animals"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "How are a car and a bus alike?",
+        "choices": [
+          "Both are animals",
+          "Both can fly",
+          "Both are vehicles",
+          "Both are fruit"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "How are a dog and a cat alike?",
+        "choices": [
+          "Both are animals",
+          "Both are furniture",
+          "Both can swim only",
+          "Both are fruit"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "How are a chair and a table alike?",
+        "choices": [
+          "Both can fly",
+          "Both are furniture",
+          "Both are animals",
+          "Both are fruit"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "How are a circle and a square alike?",
+        "choices": [
+          "Both are shapes",
+          "Both are colors",
+          "Both are animals",
+          "Both are food"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "How are an apple and a banana alike?",
+        "choices": [
+          "Both are furniture",
+          "Both are fruit",
+          "Both are animals",
+          "Both are vehicles"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "How are a car and a bus alike?",
+        "choices": [
+          "Both are fruit",
+          "Both can fly",
+          "Both are animals",
+          "Both are vehicles"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "How are a dog and a cat alike?",
+        "choices": [
+          "Both are furniture",
+          "Both are fruit",
+          "Both can swim only",
+          "Both are animals"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "How are a chair and a table alike?",
+        "choices": [
+          "Both are animals",
+          "Both are furniture",
+          "Both can fly",
+          "Both are fruit"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "How are a circle and a square alike?",
+        "choices": [
+          "Both are food",
+          "Both are animals",
+          "Both are colors",
+          "Both are shapes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "How are an apple and a banana alike?",
+        "choices": [
+          "Both are furniture",
+          "Both are animals",
+          "Both are fruit",
+          "Both are vehicles"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "How are a car and a bus alike?",
+        "choices": [
+          "Both are animals",
+          "Both are vehicles",
+          "Both can fly",
+          "Both are fruit"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "How are a dog and a cat alike?",
+        "choices": [
+          "Both are animals",
+          "Both are furniture",
+          "Both can swim only",
+          "Both are fruit"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "How are a chair and a table alike?",
+        "choices": [
+          "Both are furniture",
+          "Both are animals",
+          "Both are fruit",
+          "Both can fly"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "How are a circle and a square alike?",
+        "choices": [
+          "Both are colors",
+          "Both are shapes",
+          "Both are food",
+          "Both are animals"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "How are an apple and a banana alike?",
+        "choices": [
+          "Both are animals",
+          "Both are fruit",
+          "Both are furniture",
+          "Both are vehicles"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "How are a car and a bus alike?",
+        "choices": [
+          "Both are fruit",
+          "Both are animals",
+          "Both can fly",
+          "Both are vehicles"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "How are a dog and a cat alike?",
+        "choices": [
+          "Both can swim only",
+          "Both are animals",
+          "Both are furniture",
+          "Both are fruit"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "How are a chair and a table alike?",
+        "choices": [
+          "Both can fly",
+          "Both are fruit",
+          "Both are animals",
+          "Both are furniture"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "How are a circle and a square alike?",
+        "choices": [
+          "Both are colors",
+          "Both are food",
+          "Both are shapes",
+          "Both are animals"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-08",
+    "subject": "VERBAL_REASONING",
+    "title": "Simple Logical Deduction",
+    "description": "Working out if a statement must be true.",
+    "notes": "If something belongs to a bigger group, then what's true about the group is true about it too.",
+    "examples": [
+      "All cats are animals, so a cat must be an animal."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "All cats are animals. Is a cat an animal?",
+        "choices": [
+          "Not sure",
+          "Sometimes",
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "All dogs can bark. Rex is a dog. Can Rex bark?",
+        "choices": [
+          "Maybe",
+          "No",
+          "Never",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "All birds have feathers. Does a robin have feathers?",
+        "choices": [
+          "Unknown",
+          "Yes",
+          "No",
+          "Sometimes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "All fish live in water. Can a fish live on land only?",
+        "choices": [
+          "Always",
+          "Yes",
+          "Sometimes",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Every square has 4 sides. Does a square have 4 sides?",
+        "choices": [
+          "No",
+          "Sometimes",
+          "3 sides",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "All cats are animals. Is a cat an animal?",
+        "choices": [
+          "No",
+          "Sometimes",
+          "Not sure",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "All dogs can bark. Rex is a dog. Can Rex bark?",
+        "choices": [
+          "Yes",
+          "Maybe",
+          "Never",
+          "No"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "All birds have feathers. Does a robin have feathers?",
+        "choices": [
+          "Yes",
+          "Sometimes",
+          "No",
+          "Unknown"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "All fish live in water. Can a fish live on land only?",
+        "choices": [
+          "Always",
+          "Sometimes",
+          "No",
+          "Yes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Every square has 4 sides. Does a square have 4 sides?",
+        "choices": [
+          "No",
+          "Yes",
+          "3 sides",
+          "Sometimes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "All cats are animals. Is a cat an animal?",
+        "choices": [
+          "Yes",
+          "No",
+          "Not sure",
+          "Sometimes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "All dogs can bark. Rex is a dog. Can Rex bark?",
+        "choices": [
+          "Never",
+          "Maybe",
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "All birds have feathers. Does a robin have feathers?",
+        "choices": [
+          "Unknown",
+          "No",
+          "Yes",
+          "Sometimes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "All fish live in water. Can a fish live on land only?",
+        "choices": [
+          "No",
+          "Always",
+          "Yes",
+          "Sometimes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Every square has 4 sides. Does a square have 4 sides?",
+        "choices": [
+          "No",
+          "Yes",
+          "Sometimes",
+          "3 sides"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "All cats are animals. Is a cat an animal?",
+        "choices": [
+          "Yes",
+          "Sometimes",
+          "Not sure",
+          "No"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "All dogs can bark. Rex is a dog. Can Rex bark?",
+        "choices": [
+          "No",
+          "Never",
+          "Maybe",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "All birds have feathers. Does a robin have feathers?",
+        "choices": [
+          "No",
+          "Sometimes",
+          "Yes",
+          "Unknown"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "All fish live in water. Can a fish live on land only?",
+        "choices": [
+          "Always",
+          "Yes",
+          "Sometimes",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Every square has 4 sides. Does a square have 4 sides?",
+        "choices": [
+          "Sometimes",
+          "No",
+          "Yes",
+          "3 sides"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-09",
+    "subject": "VERBAL_REASONING",
+    "title": "Ordering & Comparing",
+    "description": "Putting things in order by size, time, or amount.",
+    "notes": "Compare all the items to decide which is biggest, smallest, first, or last.",
+    "examples": [
+      "An elephant is bigger than a cat, which is bigger than a mouse."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which is the biggest: a mouse, an elephant, a cat?",
+        "choices": [
+          "A mouse",
+          "An elephant",
+          "They're all the same",
+          "A cat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Which is the smallest: a whale, a fish, an ant?",
+        "choices": [
+          "A whale",
+          "They're all the same",
+          "An ant",
+          "A fish"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Which is the tallest: a house, a tree, a person?",
+        "choices": [
+          "A house",
+          "They're all the same",
+          "A person",
+          "A tree"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Which comes first in the day: breakfast or dinner?",
+        "choices": [
+          "Dinner",
+          "Breakfast",
+          "Both at once",
+          "Neither"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Which number is biggest: 4, 9, 2?",
+        "choices": [
+          "They're equal",
+          "2",
+          "9",
+          "4"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Which is the biggest: a mouse, an elephant, a cat?",
+        "choices": [
+          "A cat",
+          "A mouse",
+          "An elephant",
+          "They're all the same"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which is the smallest: a whale, a fish, an ant?",
+        "choices": [
+          "A fish",
+          "A whale",
+          "They're all the same",
+          "An ant"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Which is the tallest: a house, a tree, a person?",
+        "choices": [
+          "A person",
+          "A tree",
+          "A house",
+          "They're all the same"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Which comes first in the day: breakfast or dinner?",
+        "choices": [
+          "Breakfast",
+          "Neither",
+          "Dinner",
+          "Both at once"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Which number is biggest: 4, 9, 2?",
+        "choices": [
+          "9",
+          "They're equal",
+          "2",
+          "4"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which is the biggest: a mouse, an elephant, a cat?",
+        "choices": [
+          "An elephant",
+          "They're all the same",
+          "A mouse",
+          "A cat"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Which is the smallest: a whale, a fish, an ant?",
+        "choices": [
+          "A fish",
+          "They're all the same",
+          "An ant",
+          "A whale"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Which is the tallest: a house, a tree, a person?",
+        "choices": [
+          "A tree",
+          "They're all the same",
+          "A house",
+          "A person"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Which comes first in the day: breakfast or dinner?",
+        "choices": [
+          "Dinner",
+          "Both at once",
+          "Neither",
+          "Breakfast"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which number is biggest: 4, 9, 2?",
+        "choices": [
+          "2",
+          "They're equal",
+          "4",
+          "9"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Which is the biggest: a mouse, an elephant, a cat?",
+        "choices": [
+          "A cat",
+          "An elephant",
+          "They're all the same",
+          "A mouse"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Which is the smallest: a whale, a fish, an ant?",
+        "choices": [
+          "An ant",
+          "A fish",
+          "They're all the same",
+          "A whale"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which is the tallest: a house, a tree, a person?",
+        "choices": [
+          "They're all the same",
+          "A house",
+          "A tree",
+          "A person"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "Which comes first in the day: breakfast or dinner?",
+        "choices": [
+          "Both at once",
+          "Breakfast",
+          "Dinner",
+          "Neither"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Which number is biggest: 4, 9, 2?",
+        "choices": [
+          "2",
+          "9",
+          "4",
+          "They're equal"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "verbal-10",
+    "subject": "VERBAL_REASONING",
+    "title": "Riddles",
+    "description": "Fun riddles that make you think.",
+    "notes": "Riddles give clues one at a time - put them together to guess the answer.",
+    "examples": [
+      "Four legs, a tail, and it barks... it's a dog!"
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "I have four legs and a tail. I bark. What am I?",
+        "choices": [
+          "A fish",
+          "A dog",
+          "A bird",
+          "A cat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "I am yellow and monkeys like to eat me. What am I?",
+        "choices": [
+          "A carrot",
+          "A grape",
+          "An apple",
+          "A banana"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "I have wheels and can fly. What am I?",
+        "choices": [
+          "A dog",
+          "A chair",
+          "An airplane",
+          "A book"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "I shine at night in the sky. What am I?",
+        "choices": [
+          "The sun",
+          "A cloud",
+          "A tree",
+          "The moon"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "I have wings and buzz around flowers. What am I?",
+        "choices": [
+          "A book",
+          "A bee",
+          "A car",
+          "A dog"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "I am cold, white, and fall in winter. What am I?",
+        "choices": [
+          "Snow",
+          "Grass",
+          "Rain",
+          "Sand"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "I have four legs and a tail. I bark. What am I?",
+        "choices": [
+          "A dog",
+          "A bird",
+          "A fish",
+          "A cat"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "I am yellow and monkeys like to eat me. What am I?",
+        "choices": [
+          "A grape",
+          "A carrot",
+          "An apple",
+          "A banana"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "I have wheels and can fly. What am I?",
+        "choices": [
+          "A chair",
+          "A dog",
+          "An airplane",
+          "A book"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "I shine at night in the sky. What am I?",
+        "choices": [
+          "The sun",
+          "A tree",
+          "The moon",
+          "A cloud"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "I have wings and buzz around flowers. What am I?",
+        "choices": [
+          "A bee",
+          "A dog",
+          "A book",
+          "A car"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "I am cold, white, and fall in winter. What am I?",
+        "choices": [
+          "Snow",
+          "Rain",
+          "Grass",
+          "Sand"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "I have four legs and a tail. I bark. What am I?",
+        "choices": [
+          "A fish",
+          "A cat",
+          "A bird",
+          "A dog"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "I am yellow and monkeys like to eat me. What am I?",
+        "choices": [
+          "A grape",
+          "An apple",
+          "A carrot",
+          "A banana"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "I have wheels and can fly. What am I?",
+        "choices": [
+          "A book",
+          "A chair",
+          "An airplane",
+          "A dog"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "I shine at night in the sky. What am I?",
+        "choices": [
+          "A cloud",
+          "A tree",
+          "The moon",
+          "The sun"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "I have wings and buzz around flowers. What am I?",
+        "choices": [
+          "A book",
+          "A car",
+          "A bee",
+          "A dog"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "I am cold, white, and fall in winter. What am I?",
+        "choices": [
+          "Sand",
+          "Snow",
+          "Grass",
+          "Rain"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "I have four legs and a tail. I bark. What am I?",
+        "choices": [
+          "A cat",
+          "A dog",
+          "A fish",
+          "A bird"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "I am yellow and monkeys like to eat me. What am I?",
+        "choices": [
+          "A banana",
+          "A grape",
+          "An apple",
+          "A carrot"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "verbal-11",
+    "subject": "VERBAL_REASONING",
+    "title": "Cause and Effect",
+    "description": "Understanding what happens as a result of something.",
+    "notes": "A cause makes something happen - that something is called the effect. Think about what naturally follows.",
+    "examples": [
+      "If it rains, the ground becomes wet."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If it rains, the ground becomes...",
+        "choices": [
+          "Hot",
+          "Dry",
+          "Invisible",
+          "Wet"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "If you drop a glass, it might...",
+        "choices": [
+          "Sing",
+          "Fly",
+          "Disappear",
+          "Break"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "If you don't water a plant, it will...",
+        "choices": [
+          "Sing",
+          "Grow faster",
+          "Fly away",
+          "Wilt or die"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "If you leave ice in the sun, it will...",
+        "choices": [
+          "Grow",
+          "Freeze more",
+          "Disappear instantly",
+          "Melt"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "If you don't sleep enough, you feel...",
+        "choices": [
+          "Tired",
+          "Faster",
+          "Taller",
+          "Energetic"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "If it rains, the ground becomes...",
+        "choices": [
+          "Invisible",
+          "Wet",
+          "Hot",
+          "Dry"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "If you drop a glass, it might...",
+        "choices": [
+          "Sing",
+          "Disappear",
+          "Fly",
+          "Break"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "If you don't water a plant, it will...",
+        "choices": [
+          "Wilt or die",
+          "Fly away",
+          "Sing",
+          "Grow faster"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "If you leave ice in the sun, it will...",
+        "choices": [
+          "Melt",
+          "Disappear instantly",
+          "Freeze more",
+          "Grow"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "If you don't sleep enough, you feel...",
+        "choices": [
+          "Energetic",
+          "Faster",
+          "Tired",
+          "Taller"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "If it rains, the ground becomes...",
+        "choices": [
+          "Invisible",
+          "Dry",
+          "Hot",
+          "Wet"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "If you drop a glass, it might...",
+        "choices": [
+          "Break",
+          "Sing",
+          "Disappear",
+          "Fly"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "If you don't water a plant, it will...",
+        "choices": [
+          "Grow faster",
+          "Sing",
+          "Fly away",
+          "Wilt or die"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "If you leave ice in the sun, it will...",
+        "choices": [
+          "Grow",
+          "Freeze more",
+          "Disappear instantly",
+          "Melt"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "If you don't sleep enough, you feel...",
+        "choices": [
+          "Tired",
+          "Energetic",
+          "Faster",
+          "Taller"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "If it rains, the ground becomes...",
+        "choices": [
+          "Dry",
+          "Wet",
+          "Invisible",
+          "Hot"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "If you drop a glass, it might...",
+        "choices": [
+          "Break",
+          "Disappear",
+          "Fly",
+          "Sing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "If you don't water a plant, it will...",
+        "choices": [
+          "Sing",
+          "Grow faster",
+          "Fly away",
+          "Wilt or die"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "If you leave ice in the sun, it will...",
+        "choices": [
+          "Freeze more",
+          "Grow",
+          "Melt",
+          "Disappear instantly"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "If you don't sleep enough, you feel...",
+        "choices": [
+          "Energetic",
+          "Tired",
+          "Faster",
+          "Taller"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "verbal-12",
+    "subject": "VERBAL_REASONING",
+    "title": "Code Breaking",
+    "description": "Decoding simple letter-shift codes.",
+    "notes": "In a letter-shift code, every letter is swapped for another by counting forward or back through the alphabet.",
+    "examples": [
+      "Shift each letter forward by 1: A becomes B, B becomes C."
+    ],
+    "ageMin": 8,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: DBU",
+        "choices": [
+          "RUN",
+          "SUN",
+          "DOG",
+          "CAT"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: EPH",
+        "choices": [
+          "BIG",
+          "SUN",
+          "RUN",
+          "DOG"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: TVO",
+        "choices": [
+          "SUN",
+          "BIG",
+          "RUN",
+          "RED"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: SVO",
+        "choices": [
+          "BIG",
+          "TOP",
+          "RUN",
+          "RED"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: CJH",
+        "choices": [
+          "TOP",
+          "BIG",
+          "HAT",
+          "RED"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: SFE",
+        "choices": [
+          "RED",
+          "HAT",
+          "CUP",
+          "TOP"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: UPQ",
+        "choices": [
+          "HAT",
+          "BOX",
+          "CUP",
+          "TOP"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: IBU",
+        "choices": [
+          "HAT",
+          "CAT",
+          "BOX",
+          "CUP"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: DVQ",
+        "choices": [
+          "BOX",
+          "DOG",
+          "CAT",
+          "CUP"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: CPY",
+        "choices": [
+          "DOG",
+          "CAT",
+          "SUN",
+          "BOX"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: DBU",
+        "choices": [
+          "RUN",
+          "SUN",
+          "DOG",
+          "CAT"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: EPH",
+        "choices": [
+          "DOG",
+          "BIG",
+          "RUN",
+          "SUN"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: TVO",
+        "choices": [
+          "RED",
+          "RUN",
+          "SUN",
+          "BIG"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: SVO",
+        "choices": [
+          "RED",
+          "TOP",
+          "BIG",
+          "RUN"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: CJH",
+        "choices": [
+          "BIG",
+          "HAT",
+          "RED",
+          "TOP"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: SFE",
+        "choices": [
+          "HAT",
+          "CUP",
+          "RED",
+          "TOP"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: UPQ",
+        "choices": [
+          "HAT",
+          "CUP",
+          "BOX",
+          "TOP"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q18",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: IBU",
+        "choices": [
+          "HAT",
+          "CUP",
+          "BOX",
+          "CAT"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: DVQ",
+        "choices": [
+          "BOX",
+          "CUP",
+          "CAT",
+          "DOG"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Each letter is shifted forward by 1 (A->B, B->C...). Decode: CPY",
+        "choices": [
+          "CAT",
+          "DOG",
+          "BOX",
+          "SUN"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-13",
+    "subject": "VERBAL_REASONING",
+    "title": "Word Patterns",
+    "description": "Changing one letter to make a new word.",
+    "notes": "Changing just one letter in a word can make a brand new word.",
+    "examples": [
+      "Change the C in 'CAT' to H and you get 'HAT'."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Change the first letter of 'CAT' to make a hat you wear. What word?",
+        "choices": [
+          "HAT",
+          "MAT",
+          "RAT",
+          "BAT"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Change the first letter of 'DOG' to make a word for fog-like weather. What word?",
+        "choices": [
+          "LOG",
+          "JOG",
+          "FOG",
+          "HOG"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Change the first letter of 'SUN' to make a word meaning 'to move fast on foot'. What word?",
+        "choices": [
+          "BUN",
+          "NUN",
+          "FUN",
+          "RUN"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Change the first letter of 'PIG' to make a word meaning 'a dance move' or big jump. What word?",
+        "choices": [
+          "WIG",
+          "JIG",
+          "BIG",
+          "FIG"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Change the first letter of 'BALL' to make a word meaning 'not short'. What word?",
+        "choices": [
+          "TALL",
+          "WALL",
+          "FALL",
+          "CALL"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Change the first letter of 'CAT' to make a hat you wear. What word?",
+        "choices": [
+          "MAT",
+          "BAT",
+          "HAT",
+          "RAT"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Change the first letter of 'DOG' to make a word for fog-like weather. What word?",
+        "choices": [
+          "JOG",
+          "FOG",
+          "LOG",
+          "HOG"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Change the first letter of 'SUN' to make a word meaning 'to move fast on foot'. What word?",
+        "choices": [
+          "RUN",
+          "FUN",
+          "BUN",
+          "NUN"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Change the first letter of 'PIG' to make a word meaning 'a dance move' or big jump. What word?",
+        "choices": [
+          "BIG",
+          "FIG",
+          "JIG",
+          "WIG"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Change the first letter of 'BALL' to make a word meaning 'not short'. What word?",
+        "choices": [
+          "FALL",
+          "TALL",
+          "CALL",
+          "WALL"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Change the first letter of 'CAT' to make a hat you wear. What word?",
+        "choices": [
+          "BAT",
+          "HAT",
+          "RAT",
+          "MAT"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Change the first letter of 'DOG' to make a word for fog-like weather. What word?",
+        "choices": [
+          "HOG",
+          "LOG",
+          "JOG",
+          "FOG"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Change the first letter of 'SUN' to make a word meaning 'to move fast on foot'. What word?",
+        "choices": [
+          "BUN",
+          "NUN",
+          "RUN",
+          "FUN"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Change the first letter of 'PIG' to make a word meaning 'a dance move' or big jump. What word?",
+        "choices": [
+          "WIG",
+          "BIG",
+          "JIG",
+          "FIG"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Change the first letter of 'BALL' to make a word meaning 'not short'. What word?",
+        "choices": [
+          "CALL",
+          "WALL",
+          "TALL",
+          "FALL"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "Change the first letter of 'CAT' to make a hat you wear. What word?",
+        "choices": [
+          "MAT",
+          "HAT",
+          "BAT",
+          "RAT"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Change the first letter of 'DOG' to make a word for fog-like weather. What word?",
+        "choices": [
+          "FOG",
+          "LOG",
+          "HOG",
+          "JOG"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Change the first letter of 'SUN' to make a word meaning 'to move fast on foot'. What word?",
+        "choices": [
+          "NUN",
+          "RUN",
+          "FUN",
+          "BUN"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Change the first letter of 'PIG' to make a word meaning 'a dance move' or big jump. What word?",
+        "choices": [
+          "BIG",
+          "JIG",
+          "WIG",
+          "FIG"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Change the first letter of 'BALL' to make a word meaning 'not short'. What word?",
+        "choices": [
+          "FALL",
+          "TALL",
+          "CALL",
+          "WALL"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "verbal-14",
+    "subject": "VERBAL_REASONING",
+    "title": "Position & Direction",
+    "description": "Reasoning about above, below, left, right, and turns.",
+    "notes": "Think carefully about left, right, above, below, and turns - it helps to picture it or act it out.",
+    "examples": [
+      "Turning around completely (all the way round) means you end up facing the opposite direction from where you started."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "If you face North and turn around completely, which way do you face?",
+        "choices": [
+          "West",
+          "North",
+          "East",
+          "South"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "If the ball is above the box, where is the box relative to the ball?",
+        "choices": [
+          "Above the ball",
+          "Inside it",
+          "Next to it only",
+          "Below the ball"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "If you are between Sam and Alex, who is on either side of you?",
+        "choices": [
+          "Sam and Alex",
+          "Neither",
+          "Only Alex",
+          "Only Sam"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "If the cat is under the table, where is the table relative to the cat?",
+        "choices": [
+          "Next to it",
+          "Inside it",
+          "Above the cat",
+          "Below the cat"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "If you turn left twice, which direction have you turned overall?",
+        "choices": [
+          "Around (opposite direction)",
+          "Straight ahead",
+          "Nowhere",
+          "Right"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "If you face North and turn around completely, which way do you face?",
+        "choices": [
+          "West",
+          "East",
+          "South",
+          "North"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "If the ball is above the box, where is the box relative to the ball?",
+        "choices": [
+          "Inside it",
+          "Below the ball",
+          "Next to it only",
+          "Above the ball"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "If you are between Sam and Alex, who is on either side of you?",
+        "choices": [
+          "Only Alex",
+          "Sam and Alex",
+          "Neither",
+          "Only Sam"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "If the cat is under the table, where is the table relative to the cat?",
+        "choices": [
+          "Above the cat",
+          "Next to it",
+          "Below the cat",
+          "Inside it"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "If you turn left twice, which direction have you turned overall?",
+        "choices": [
+          "Nowhere",
+          "Straight ahead",
+          "Right",
+          "Around (opposite direction)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "If you face North and turn around completely, which way do you face?",
+        "choices": [
+          "West",
+          "South",
+          "North",
+          "East"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "If the ball is above the box, where is the box relative to the ball?",
+        "choices": [
+          "Next to it only",
+          "Below the ball",
+          "Inside it",
+          "Above the ball"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "If you are between Sam and Alex, who is on either side of you?",
+        "choices": [
+          "Only Sam",
+          "Neither",
+          "Only Alex",
+          "Sam and Alex"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "If the cat is under the table, where is the table relative to the cat?",
+        "choices": [
+          "Next to it",
+          "Above the cat",
+          "Inside it",
+          "Below the cat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "If you turn left twice, which direction have you turned overall?",
+        "choices": [
+          "Nowhere",
+          "Straight ahead",
+          "Right",
+          "Around (opposite direction)"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "If you face North and turn around completely, which way do you face?",
+        "choices": [
+          "North",
+          "South",
+          "West",
+          "East"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "If the ball is above the box, where is the box relative to the ball?",
+        "choices": [
+          "Above the ball",
+          "Inside it",
+          "Below the ball",
+          "Next to it only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "If you are between Sam and Alex, who is on either side of you?",
+        "choices": [
+          "Sam and Alex",
+          "Neither",
+          "Only Sam",
+          "Only Alex"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "If the cat is under the table, where is the table relative to the cat?",
+        "choices": [
+          "Next to it",
+          "Above the cat",
+          "Inside it",
+          "Below the cat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "If you turn left twice, which direction have you turned overall?",
+        "choices": [
+          "Straight ahead",
+          "Nowhere",
+          "Right",
+          "Around (opposite direction)"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "verbal-15",
+    "subject": "VERBAL_REASONING",
+    "title": "Memory & Sequence Recall",
+    "description": "Remembering the order of a short list.",
+    "notes": "Try to picture the list in your mind, in the exact order it was given.",
+    "examples": [
+      "Red, Blue, Green - the SECOND item in the list is Blue."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Remember this order: Red, Blue, Green. What was the SECOND item?",
+        "choices": [
+          "Green",
+          "Blue",
+          "Apple",
+          "Red"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Remember this order: Cat, Dog, Bird. What was the SECOND item?",
+        "choices": [
+          "Cat",
+          "Bird",
+          "Dog",
+          "Banana"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Remember this order: 1, 2, 3. What was the SECOND item?",
+        "choices": [
+          "1",
+          "Bird",
+          "3",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q4",
+        "prompt": "Remember this order: Circle, Square, Triangle. What was the SECOND item?",
+        "choices": [
+          "Square",
+          "Circle",
+          "Triangle",
+          "Cat"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Remember this order: Apple, Banana, Grape. What was the SECOND item?",
+        "choices": [
+          "Banana",
+          "Grape",
+          "Apple",
+          "Bird"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Remember this order: Red, Blue, Green. What was the SECOND item?",
+        "choices": [
+          "Red",
+          "Apple",
+          "Blue",
+          "Green"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Remember this order: Cat, Dog, Bird. What was the SECOND item?",
+        "choices": [
+          "Dog",
+          "Bird",
+          "3",
+          "Cat"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Remember this order: 1, 2, 3. What was the SECOND item?",
+        "choices": [
+          "3",
+          "1",
+          "Green",
+          "2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Remember this order: Circle, Square, Triangle. What was the SECOND item?",
+        "choices": [
+          "Circle",
+          "Red",
+          "Square",
+          "Triangle"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Remember this order: Apple, Banana, Grape. What was the SECOND item?",
+        "choices": [
+          "Grape",
+          "Banana",
+          "Apple",
+          "Blue"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Remember this order: Red, Blue, Green. What was the SECOND item?",
+        "choices": [
+          "Red",
+          "Green",
+          "Blue",
+          "Square"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Remember this order: Cat, Dog, Bird. What was the SECOND item?",
+        "choices": [
+          "Cat",
+          "Bird",
+          "Dog",
+          "1"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Remember this order: 1, 2, 3. What was the SECOND item?",
+        "choices": [
+          "3",
+          "Circle",
+          "2",
+          "1"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Remember this order: Circle, Square, Triangle. What was the SECOND item?",
+        "choices": [
+          "Dog",
+          "Triangle",
+          "Square",
+          "Circle"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "Remember this order: Apple, Banana, Grape. What was the SECOND item?",
+        "choices": [
+          "Apple",
+          "Grape",
+          "2",
+          "Banana"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "Remember this order: Red, Blue, Green. What was the SECOND item?",
+        "choices": [
+          "Red",
+          "Bird",
+          "Blue",
+          "Green"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Remember this order: Cat, Dog, Bird. What was the SECOND item?",
+        "choices": [
+          "Square",
+          "Dog",
+          "Cat",
+          "Bird"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Remember this order: 1, 2, 3. What was the SECOND item?",
+        "choices": [
+          "2",
+          "Green",
+          "1",
+          "3"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Remember this order: Circle, Square, Triangle. What was the SECOND item?",
+        "choices": [
+          "Triangle",
+          "Dog",
+          "Circle",
+          "Square"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Remember this order: Apple, Banana, Grape. What was the SECOND item?",
+        "choices": [
+          "Banana",
+          "Apple",
+          "Dog",
+          "Grape"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "verbal-16",
+    "subject": "VERBAL_REASONING",
+    "title": "Category Sorting",
+    "description": "Deciding whether something belongs in a group.",
+    "notes": "Ask yourself: does this item fit the rule of the group?",
+    "examples": [
+      "A carrot is a vegetable, so it belongs in the 'Vegetables' group."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Does a 'carrot' belong in the group 'Vegetables'?",
+        "choices": [
+          "No",
+          "Yes",
+          "Maybe",
+          "Never"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Does a 'car' belong in the group 'Animals'?",
+        "choices": [
+          "Maybe",
+          "Always",
+          "No",
+          "Yes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Does a 'triangle' belong in the group 'Shapes'?",
+        "choices": [
+          "Maybe",
+          "Yes",
+          "Sometimes",
+          "No"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Does a 'banana' belong in the group 'Furniture'?",
+        "choices": [
+          "No",
+          "Maybe",
+          "Yes",
+          "Always"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Does a 'dog' belong in the group 'Animals'?",
+        "choices": [
+          "Never",
+          "Yes",
+          "Maybe",
+          "No"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Does a 'carrot' belong in the group 'Vegetables'?",
+        "choices": [
+          "Never",
+          "Yes",
+          "Maybe",
+          "No"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "Does a 'car' belong in the group 'Animals'?",
+        "choices": [
+          "Yes",
+          "Always",
+          "Maybe",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Does a 'triangle' belong in the group 'Shapes'?",
+        "choices": [
+          "Yes",
+          "Sometimes",
+          "No",
+          "Maybe"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Does a 'banana' belong in the group 'Furniture'?",
+        "choices": [
+          "Yes",
+          "Maybe",
+          "No",
+          "Always"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Does a 'dog' belong in the group 'Animals'?",
+        "choices": [
+          "No",
+          "Maybe",
+          "Yes",
+          "Never"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Does a 'carrot' belong in the group 'Vegetables'?",
+        "choices": [
+          "Maybe",
+          "Yes",
+          "Never",
+          "No"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Does a 'car' belong in the group 'Animals'?",
+        "choices": [
+          "No",
+          "Yes",
+          "Always",
+          "Maybe"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Does a 'triangle' belong in the group 'Shapes'?",
+        "choices": [
+          "Sometimes",
+          "Maybe",
+          "No",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Does a 'banana' belong in the group 'Furniture'?",
+        "choices": [
+          "Always",
+          "Yes",
+          "Maybe",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Does a 'dog' belong in the group 'Animals'?",
+        "choices": [
+          "Yes",
+          "Maybe",
+          "Never",
+          "No"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Does a 'carrot' belong in the group 'Vegetables'?",
+        "choices": [
+          "No",
+          "Yes",
+          "Never",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Does a 'car' belong in the group 'Animals'?",
+        "choices": [
+          "No",
+          "Always",
+          "Maybe",
+          "Yes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Does a 'triangle' belong in the group 'Shapes'?",
+        "choices": [
+          "No",
+          "Maybe",
+          "Sometimes",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Does a 'banana' belong in the group 'Furniture'?",
+        "choices": [
+          "Yes",
+          "Maybe",
+          "No",
+          "Always"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Does a 'dog' belong in the group 'Animals'?",
+        "choices": [
+          "No",
+          "Yes",
+          "Never",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "verbal-17",
+    "subject": "VERBAL_REASONING",
+    "title": "Comparing Similarities & Differences",
+    "description": "Spotting how things are alike or different.",
+    "notes": "Look closely at details like the number of sides or corners to spot what's different.",
+    "examples": [
+      "A triangle has 3 sides; a square has 4 - that's a difference between them."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which is different: a triangle has 3 sides, a square has 4 sides, a pentagon has 5 sides. Which shape has the fewest sides?",
+        "choices": [
+          "Square",
+          "Triangle",
+          "Pentagon",
+          "They're equal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "A cat has fur, a fish has scales, a bird has feathers. Which one has feathers?",
+        "choices": [
+          "Cat",
+          "None of them",
+          "Bird",
+          "Fish"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "An apple is red, a banana is yellow, a grape is purple. Which fruit is yellow?",
+        "choices": [
+          "Apple",
+          "None",
+          "Banana",
+          "Grape"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "A square has 4 equal sides, a rectangle has 2 pairs of equal sides. Which one always has ALL sides equal?",
+        "choices": [
+          "Both",
+          "Square",
+          "Neither",
+          "Rectangle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Which is different: a triangle has 3 sides, a square has 4 sides, a pentagon has 5 sides. Which shape has the fewest sides?",
+        "choices": [
+          "Square",
+          "Triangle",
+          "They're equal",
+          "Pentagon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "A cat has fur, a fish has scales, a bird has feathers. Which one has feathers?",
+        "choices": [
+          "Cat",
+          "Bird",
+          "None of them",
+          "Fish"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "An apple is red, a banana is yellow, a grape is purple. Which fruit is yellow?",
+        "choices": [
+          "Banana",
+          "Apple",
+          "Grape",
+          "None"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "A square has 4 equal sides, a rectangle has 2 pairs of equal sides. Which one always has ALL sides equal?",
+        "choices": [
+          "Rectangle",
+          "Neither",
+          "Square",
+          "Both"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Which is different: a triangle has 3 sides, a square has 4 sides, a pentagon has 5 sides. Which shape has the fewest sides?",
+        "choices": [
+          "Square",
+          "Triangle",
+          "They're equal",
+          "Pentagon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "A cat has fur, a fish has scales, a bird has feathers. Which one has feathers?",
+        "choices": [
+          "Bird",
+          "Cat",
+          "None of them",
+          "Fish"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "An apple is red, a banana is yellow, a grape is purple. Which fruit is yellow?",
+        "choices": [
+          "Banana",
+          "Grape",
+          "Apple",
+          "None"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "A square has 4 equal sides, a rectangle has 2 pairs of equal sides. Which one always has ALL sides equal?",
+        "choices": [
+          "Neither",
+          "Both",
+          "Square",
+          "Rectangle"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Which is different: a triangle has 3 sides, a square has 4 sides, a pentagon has 5 sides. Which shape has the fewest sides?",
+        "choices": [
+          "Square",
+          "They're equal",
+          "Pentagon",
+          "Triangle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "A cat has fur, a fish has scales, a bird has feathers. Which one has feathers?",
+        "choices": [
+          "Bird",
+          "Fish",
+          "Cat",
+          "None of them"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "An apple is red, a banana is yellow, a grape is purple. Which fruit is yellow?",
+        "choices": [
+          "Apple",
+          "None",
+          "Banana",
+          "Grape"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "A square has 4 equal sides, a rectangle has 2 pairs of equal sides. Which one always has ALL sides equal?",
+        "choices": [
+          "Both",
+          "Rectangle",
+          "Square",
+          "Neither"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Which is different: a triangle has 3 sides, a square has 4 sides, a pentagon has 5 sides. Which shape has the fewest sides?",
+        "choices": [
+          "Square",
+          "Triangle",
+          "They're equal",
+          "Pentagon"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "A cat has fur, a fish has scales, a bird has feathers. Which one has feathers?",
+        "choices": [
+          "Cat",
+          "Fish",
+          "None of them",
+          "Bird"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "An apple is red, a banana is yellow, a grape is purple. Which fruit is yellow?",
+        "choices": [
+          "Banana",
+          "None",
+          "Grape",
+          "Apple"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "A square has 4 equal sides, a rectangle has 2 pairs of equal sides. Which one always has ALL sides equal?",
+        "choices": [
+          "Square",
+          "Neither",
+          "Rectangle",
+          "Both"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "verbal-18",
+    "subject": "VERBAL_REASONING",
+    "title": "Missing Word",
+    "description": "Choosing the word that best completes a sentence.",
+    "notes": "Read the whole sentence first, then pick the word that makes the most sense in the blank.",
+    "examples": [
+      "'The sky is ___ on a clear day.' - 'blue' makes the most sense."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Fill in the blank: The sky is ___ on a clear day.",
+        "choices": [
+          "green",
+          "purple",
+          "blue",
+          "black"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Fill in the blank: Fish live in ___.",
+        "choices": [
+          "trees",
+          "water",
+          "sand",
+          "clouds"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Fill in the blank: We wear a coat when it is ___.",
+        "choices": [
+          "noisy",
+          "cold",
+          "sunny only",
+          "hot"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Fill in the blank: A baby dog is called a ___.",
+        "choices": [
+          "puppy",
+          "chick",
+          "kitten",
+          "cub"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Fill in the blank: We sleep in a ___.",
+        "choices": [
+          "bed",
+          "pool",
+          "car only",
+          "oven"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Fill in the blank: The sky is ___ on a clear day.",
+        "choices": [
+          "black",
+          "green",
+          "blue",
+          "purple"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Fill in the blank: Fish live in ___.",
+        "choices": [
+          "sand",
+          "water",
+          "trees",
+          "clouds"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Fill in the blank: We wear a coat when it is ___.",
+        "choices": [
+          "hot",
+          "noisy",
+          "sunny only",
+          "cold"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "Fill in the blank: A baby dog is called a ___.",
+        "choices": [
+          "kitten",
+          "chick",
+          "puppy",
+          "cub"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "Fill in the blank: We sleep in a ___.",
+        "choices": [
+          "car only",
+          "bed",
+          "oven",
+          "pool"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Fill in the blank: The sky is ___ on a clear day.",
+        "choices": [
+          "black",
+          "blue",
+          "green",
+          "purple"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Fill in the blank: Fish live in ___.",
+        "choices": [
+          "clouds",
+          "trees",
+          "sand",
+          "water"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Fill in the blank: We wear a coat when it is ___.",
+        "choices": [
+          "sunny only",
+          "noisy",
+          "hot",
+          "cold"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Fill in the blank: A baby dog is called a ___.",
+        "choices": [
+          "cub",
+          "puppy",
+          "kitten",
+          "chick"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Fill in the blank: We sleep in a ___.",
+        "choices": [
+          "car only",
+          "bed",
+          "oven",
+          "pool"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "Fill in the blank: The sky is ___ on a clear day.",
+        "choices": [
+          "blue",
+          "black",
+          "purple",
+          "green"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Fill in the blank: Fish live in ___.",
+        "choices": [
+          "sand",
+          "trees",
+          "water",
+          "clouds"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Fill in the blank: We wear a coat when it is ___.",
+        "choices": [
+          "cold",
+          "hot",
+          "noisy",
+          "sunny only"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Fill in the blank: A baby dog is called a ___.",
+        "choices": [
+          "cub",
+          "kitten",
+          "puppy",
+          "chick"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "Fill in the blank: We sleep in a ___.",
+        "choices": [
+          "bed",
+          "car only",
+          "oven",
+          "pool"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "verbal-19",
+    "subject": "VERBAL_REASONING",
+    "title": "True or False",
+    "description": "Deciding if a statement is true or false.",
+    "notes": "Check whether the statement matches a fact you already know.",
+    "examples": [
+      "A week has 7 days - that statement is True."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A week has 7 days. True or False?",
+        "choices": [
+          "False",
+          "True",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Fish can breathe air out of water forever. True or False?",
+        "choices": [
+          "False",
+          "Maybe",
+          "True"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "The sun rises in the morning. True or False?",
+        "choices": [
+          "Maybe",
+          "False",
+          "True"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "A triangle has 4 sides. True or False?",
+        "choices": [
+          "True",
+          "False",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "Ice is frozen water. True or False?",
+        "choices": [
+          "Maybe",
+          "False",
+          "True"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Dogs can fly like birds. True or False?",
+        "choices": [
+          "True",
+          "Maybe",
+          "False"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "A week has 7 days. True or False?",
+        "choices": [
+          "True",
+          "False",
+          "Maybe"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Fish can breathe air out of water forever. True or False?",
+        "choices": [
+          "True",
+          "False",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "The sun rises in the morning. True or False?",
+        "choices": [
+          "True",
+          "False",
+          "Maybe"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "A triangle has 4 sides. True or False?",
+        "choices": [
+          "True",
+          "False",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Ice is frozen water. True or False?",
+        "choices": [
+          "Maybe",
+          "True",
+          "False"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Dogs can fly like birds. True or False?",
+        "choices": [
+          "False",
+          "True",
+          "Maybe"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "A week has 7 days. True or False?",
+        "choices": [
+          "True",
+          "Maybe",
+          "False"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Fish can breathe air out of water forever. True or False?",
+        "choices": [
+          "False",
+          "Maybe",
+          "True"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "The sun rises in the morning. True or False?",
+        "choices": [
+          "Maybe",
+          "False",
+          "True"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "A triangle has 4 sides. True or False?",
+        "choices": [
+          "False",
+          "Maybe",
+          "True"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Ice is frozen water. True or False?",
+        "choices": [
+          "Maybe",
+          "False",
+          "True"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Dogs can fly like birds. True or False?",
+        "choices": [
+          "Maybe",
+          "False",
+          "True"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "A week has 7 days. True or False?",
+        "choices": [
+          "False",
+          "True",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Fish can breathe air out of water forever. True or False?",
+        "choices": [
+          "True",
+          "False",
+          "Maybe"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "verbal-20",
+    "subject": "VERBAL_REASONING",
+    "title": "Checking Assumptions",
+    "description": "Thinking about whether a statement is always true.",
+    "notes": "Some statements use words like 'all' or 'every' - think of one example that might not fit before you agree.",
+    "examples": [
+      "'All birds can fly' isn't always true - penguins can't fly."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Sam says 'All birds can fly.' Is this always true? (Hint: think of a penguin)",
+        "choices": [
+          "Yes",
+          "Never think about it",
+          "Always",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Mia says 'All fruit is sweet.' Is this always true? (Hint: think of a lemon)",
+        "choices": [
+          "Yes",
+          "Always",
+          "Sometimes never",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Leo says 'It is always sunny.' Is this always true?",
+        "choices": [
+          "No",
+          "Always",
+          "Yes",
+          "Every single day"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Grace says 'All dogs are big.' Is this always true? (Hint: think of a chihuahua)",
+        "choices": [
+          "No",
+          "Yes",
+          "Every dog",
+          "Always"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Sam says 'All birds can fly.' Is this always true? (Hint: think of a penguin)",
+        "choices": [
+          "Yes",
+          "No",
+          "Never think about it",
+          "Always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Mia says 'All fruit is sweet.' Is this always true? (Hint: think of a lemon)",
+        "choices": [
+          "Always",
+          "Sometimes never",
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q7",
+        "prompt": "Leo says 'It is always sunny.' Is this always true?",
+        "choices": [
+          "Always",
+          "No",
+          "Yes",
+          "Every single day"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "Grace says 'All dogs are big.' Is this always true? (Hint: think of a chihuahua)",
+        "choices": [
+          "Every dog",
+          "No",
+          "Yes",
+          "Always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Sam says 'All birds can fly.' Is this always true? (Hint: think of a penguin)",
+        "choices": [
+          "Never think about it",
+          "Always",
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q10",
+        "prompt": "Mia says 'All fruit is sweet.' Is this always true? (Hint: think of a lemon)",
+        "choices": [
+          "Yes",
+          "Sometimes never",
+          "No",
+          "Always"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Leo says 'It is always sunny.' Is this always true?",
+        "choices": [
+          "No",
+          "Every single day",
+          "Always",
+          "Yes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "Grace says 'All dogs are big.' Is this always true? (Hint: think of a chihuahua)",
+        "choices": [
+          "Yes",
+          "Always",
+          "Every dog",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Sam says 'All birds can fly.' Is this always true? (Hint: think of a penguin)",
+        "choices": [
+          "Never think about it",
+          "Always",
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Mia says 'All fruit is sweet.' Is this always true? (Hint: think of a lemon)",
+        "choices": [
+          "Yes",
+          "No",
+          "Always",
+          "Sometimes never"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Leo says 'It is always sunny.' Is this always true?",
+        "choices": [
+          "No",
+          "Always",
+          "Yes",
+          "Every single day"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Grace says 'All dogs are big.' Is this always true? (Hint: think of a chihuahua)",
+        "choices": [
+          "Always",
+          "Every dog",
+          "No",
+          "Yes"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Sam says 'All birds can fly.' Is this always true? (Hint: think of a penguin)",
+        "choices": [
+          "No",
+          "Always",
+          "Never think about it",
+          "Yes"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Mia says 'All fruit is sweet.' Is this always true? (Hint: think of a lemon)",
+        "choices": [
+          "Sometimes never",
+          "No",
+          "Yes",
+          "Always"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Leo says 'It is always sunny.' Is this always true?",
+        "choices": [
+          "Every single day",
+          "No",
+          "Always",
+          "Yes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "Grace says 'All dogs are big.' Is this always true? (Hint: think of a chihuahua)",
+        "choices": [
+          "Every dog",
+          "Always",
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "verbal-21",
+    "subject": "VERBAL_REASONING",
+    "title": "Number Patterns (Skip Counting)",
+    "description": "Continuing skip-counting sequences.",
+    "notes": "Find the step size - how much the numbers jump each time - then keep going.",
+    "examples": [
+      "2, 4, 6, ___ - the jump is 2 each time, so next is 8."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What comes next: 2, 4, 6, ___?",
+        "choices": [
+          "9",
+          "10",
+          "8",
+          "7"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "What comes next: 5, 10, 15, ___?",
+        "choices": [
+          "16",
+          "18",
+          "20",
+          "25"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "What comes next: 3, 6, 9, ___?",
+        "choices": [
+          "12",
+          "15",
+          "10",
+          "11"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "What comes next: 10, 20, 30, ___?",
+        "choices": [
+          "31",
+          "50",
+          "35",
+          "40"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "What comes next: 2, 4, 6, ___?",
+        "choices": [
+          "9",
+          "7",
+          "8",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "What comes next: 5, 10, 15, ___?",
+        "choices": [
+          "25",
+          "20",
+          "16",
+          "18"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "What comes next: 3, 6, 9, ___?",
+        "choices": [
+          "15",
+          "10",
+          "11",
+          "12"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "What comes next: 10, 20, 30, ___?",
+        "choices": [
+          "50",
+          "40",
+          "35",
+          "31"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "What comes next: 2, 4, 6, ___?",
+        "choices": [
+          "8",
+          "9",
+          "7",
+          "10"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "What comes next: 5, 10, 15, ___?",
+        "choices": [
+          "25",
+          "18",
+          "16",
+          "20"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q11",
+        "prompt": "What comes next: 3, 6, 9, ___?",
+        "choices": [
+          "11",
+          "15",
+          "10",
+          "12"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "What comes next: 10, 20, 30, ___?",
+        "choices": [
+          "31",
+          "35",
+          "50",
+          "40"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "What comes next: 2, 4, 6, ___?",
+        "choices": [
+          "7",
+          "10",
+          "8",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "What comes next: 5, 10, 15, ___?",
+        "choices": [
+          "20",
+          "18",
+          "25",
+          "16"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "What comes next: 3, 6, 9, ___?",
+        "choices": [
+          "11",
+          "15",
+          "12",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "What comes next: 10, 20, 30, ___?",
+        "choices": [
+          "50",
+          "40",
+          "35",
+          "31"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "What comes next: 2, 4, 6, ___?",
+        "choices": [
+          "8",
+          "9",
+          "10",
+          "7"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "What comes next: 5, 10, 15, ___?",
+        "choices": [
+          "25",
+          "16",
+          "18",
+          "20"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "What comes next: 3, 6, 9, ___?",
+        "choices": [
+          "15",
+          "11",
+          "12",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "What comes next: 10, 20, 30, ___?",
+        "choices": [
+          "50",
+          "35",
+          "40",
+          "31"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-22",
+    "subject": "VERBAL_REASONING",
+    "title": "Shape Sequences (described)",
+    "description": "Working out what shape comes next in a pattern.",
+    "notes": "Shape patterns repeat just like number patterns do - find the part that repeats.",
+    "examples": [
+      "Circle, Triangle, Circle, Triangle, ___ - next is Circle."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Circle, Triangle, Circle, Triangle, ___?",
+        "choices": [
+          "Circle",
+          "Triangle again then stop",
+          "Square",
+          "Star"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Square, Square, Circle, Square, Square, ___?",
+        "choices": [
+          "Star",
+          "Square",
+          "Triangle",
+          "Circle"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "Star, Moon, Star, Moon, ___?",
+        "choices": [
+          "Sun",
+          "Star",
+          "Moon again twice",
+          "Cloud"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Big circle, small circle, big circle, ___?",
+        "choices": [
+          "Star",
+          "Big square",
+          "Small circle",
+          "Triangle"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q5",
+        "prompt": "Circle, Triangle, Circle, Triangle, ___?",
+        "choices": [
+          "Circle",
+          "Star",
+          "Triangle again then stop",
+          "Square"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Square, Square, Circle, Square, Square, ___?",
+        "choices": [
+          "Square",
+          "Circle",
+          "Star",
+          "Triangle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "Star, Moon, Star, Moon, ___?",
+        "choices": [
+          "Cloud",
+          "Sun",
+          "Moon again twice",
+          "Star"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "Big circle, small circle, big circle, ___?",
+        "choices": [
+          "Small circle",
+          "Triangle",
+          "Big square",
+          "Star"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Circle, Triangle, Circle, Triangle, ___?",
+        "choices": [
+          "Circle",
+          "Square",
+          "Star",
+          "Triangle again then stop"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Square, Square, Circle, Square, Square, ___?",
+        "choices": [
+          "Square",
+          "Star",
+          "Circle",
+          "Triangle"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Star, Moon, Star, Moon, ___?",
+        "choices": [
+          "Sun",
+          "Star",
+          "Moon again twice",
+          "Cloud"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "Big circle, small circle, big circle, ___?",
+        "choices": [
+          "Triangle",
+          "Star",
+          "Small circle",
+          "Big square"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "Circle, Triangle, Circle, Triangle, ___?",
+        "choices": [
+          "Circle",
+          "Triangle again then stop",
+          "Square",
+          "Star"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Square, Square, Circle, Square, Square, ___?",
+        "choices": [
+          "Circle",
+          "Star",
+          "Triangle",
+          "Square"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "Star, Moon, Star, Moon, ___?",
+        "choices": [
+          "Star",
+          "Cloud",
+          "Moon again twice",
+          "Sun"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Big circle, small circle, big circle, ___?",
+        "choices": [
+          "Triangle",
+          "Small circle",
+          "Star",
+          "Big square"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Circle, Triangle, Circle, Triangle, ___?",
+        "choices": [
+          "Star",
+          "Circle",
+          "Triangle again then stop",
+          "Square"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Square, Square, Circle, Square, Square, ___?",
+        "choices": [
+          "Square",
+          "Circle",
+          "Triangle",
+          "Star"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q19",
+        "prompt": "Star, Moon, Star, Moon, ___?",
+        "choices": [
+          "Moon again twice",
+          "Cloud",
+          "Sun",
+          "Star"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Big circle, small circle, big circle, ___?",
+        "choices": [
+          "Star",
+          "Big square",
+          "Small circle",
+          "Triangle"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-23",
+    "subject": "VERBAL_REASONING",
+    "title": "Word Groups",
+    "description": "Choosing which word fits best with a group.",
+    "notes": "Think about what connects the words already in the group.",
+    "examples": [
+      "Red, Blue, ___ - 'Green' fits best because they're all colours."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which word fits: Red, Blue, ___?",
+        "choices": [
+          "Table",
+          "Happy",
+          "Run",
+          "Green"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Which word fits: Monday, Tuesday, ___?",
+        "choices": [
+          "January",
+          "Red",
+          "Wednesday",
+          "Summer"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "Which word fits: One, Two, ___?",
+        "choices": [
+          "Three",
+          "Dog",
+          "Fast",
+          "Blue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "Which word fits: Spring, Summer, ___?",
+        "choices": [
+          "Autumn",
+          "Loud",
+          "Monday",
+          "Circle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which word fits: Red, Blue, ___?",
+        "choices": [
+          "Run",
+          "Green",
+          "Table",
+          "Happy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Which word fits: Monday, Tuesday, ___?",
+        "choices": [
+          "Summer",
+          "January",
+          "Wednesday",
+          "Red"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "Which word fits: One, Two, ___?",
+        "choices": [
+          "Dog",
+          "Blue",
+          "Three",
+          "Fast"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "Which word fits: Spring, Summer, ___?",
+        "choices": [
+          "Circle",
+          "Monday",
+          "Autumn",
+          "Loud"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q9",
+        "prompt": "Which word fits: Red, Blue, ___?",
+        "choices": [
+          "Table",
+          "Green",
+          "Run",
+          "Happy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q10",
+        "prompt": "Which word fits: Monday, Tuesday, ___?",
+        "choices": [
+          "Wednesday",
+          "Summer",
+          "January",
+          "Red"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "Which word fits: One, Two, ___?",
+        "choices": [
+          "Blue",
+          "Dog",
+          "Three",
+          "Fast"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Which word fits: Spring, Summer, ___?",
+        "choices": [
+          "Autumn",
+          "Loud",
+          "Monday",
+          "Circle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "Which word fits: Red, Blue, ___?",
+        "choices": [
+          "Table",
+          "Run",
+          "Green",
+          "Happy"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Which word fits: Monday, Tuesday, ___?",
+        "choices": [
+          "January",
+          "Red",
+          "Summer",
+          "Wednesday"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "Which word fits: One, Two, ___?",
+        "choices": [
+          "Three",
+          "Dog",
+          "Fast",
+          "Blue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which word fits: Spring, Summer, ___?",
+        "choices": [
+          "Monday",
+          "Loud",
+          "Autumn",
+          "Circle"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "Which word fits: Red, Blue, ___?",
+        "choices": [
+          "Happy",
+          "Green",
+          "Table",
+          "Run"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Which word fits: Monday, Tuesday, ___?",
+        "choices": [
+          "Summer",
+          "January",
+          "Red",
+          "Wednesday"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "Which word fits: One, Two, ___?",
+        "choices": [
+          "Three",
+          "Fast",
+          "Dog",
+          "Blue"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "Which word fits: Spring, Summer, ___?",
+        "choices": [
+          "Loud",
+          "Monday",
+          "Autumn",
+          "Circle"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-24",
+    "subject": "VERBAL_REASONING",
+    "title": "Comparisons: More or Less",
+    "description": "Comparing amounts and sizes.",
+    "notes": "Compare the two amounts to see which is bigger (more) or smaller (less).",
+    "examples": [
+      "5 apples is more than 3 apples."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which has more: 5 apples or 3 apples?",
+        "choices": [
+          "3 apples",
+          "5 apples",
+          "Neither",
+          "They're equal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "Which is heavier: a feather or a rock?",
+        "choices": [
+          "A feather",
+          "A rock",
+          "They're equal",
+          "Neither"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Which is longer: a pencil or a bus?",
+        "choices": [
+          "Neither",
+          "A bus",
+          "A pencil",
+          "They're equal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Which has less: an empty cup or a full cup?",
+        "choices": [
+          "Neither",
+          "A full cup",
+          "They're equal",
+          "An empty cup"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "Which has more: 5 apples or 3 apples?",
+        "choices": [
+          "Neither",
+          "5 apples",
+          "3 apples",
+          "They're equal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Which is heavier: a feather or a rock?",
+        "choices": [
+          "They're equal",
+          "A rock",
+          "A feather",
+          "Neither"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "Which is longer: a pencil or a bus?",
+        "choices": [
+          "A bus",
+          "A pencil",
+          "Neither",
+          "They're equal"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "Which has less: an empty cup or a full cup?",
+        "choices": [
+          "An empty cup",
+          "Neither",
+          "A full cup",
+          "They're equal"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Which has more: 5 apples or 3 apples?",
+        "choices": [
+          "5 apples",
+          "3 apples",
+          "They're equal",
+          "Neither"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Which is heavier: a feather or a rock?",
+        "choices": [
+          "Neither",
+          "A feather",
+          "A rock",
+          "They're equal"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "Which is longer: a pencil or a bus?",
+        "choices": [
+          "A pencil",
+          "Neither",
+          "A bus",
+          "They're equal"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q12",
+        "prompt": "Which has less: an empty cup or a full cup?",
+        "choices": [
+          "A full cup",
+          "They're equal",
+          "Neither",
+          "An empty cup"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "Which has more: 5 apples or 3 apples?",
+        "choices": [
+          "They're equal",
+          "3 apples",
+          "5 apples",
+          "Neither"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "Which is heavier: a feather or a rock?",
+        "choices": [
+          "They're equal",
+          "A rock",
+          "Neither",
+          "A feather"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "Which is longer: a pencil or a bus?",
+        "choices": [
+          "A bus",
+          "Neither",
+          "A pencil",
+          "They're equal"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which has less: an empty cup or a full cup?",
+        "choices": [
+          "An empty cup",
+          "A full cup",
+          "They're equal",
+          "Neither"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "Which has more: 5 apples or 3 apples?",
+        "choices": [
+          "5 apples",
+          "Neither",
+          "3 apples",
+          "They're equal"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "Which is heavier: a feather or a rock?",
+        "choices": [
+          "A rock",
+          "Neither",
+          "They're equal",
+          "A feather"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Which is longer: a pencil or a bus?",
+        "choices": [
+          "A pencil",
+          "They're equal",
+          "Neither",
+          "A bus"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "Which has less: an empty cup or a full cup?",
+        "choices": [
+          "They're equal",
+          "Neither",
+          "A full cup",
+          "An empty cup"
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "verbal-25",
+    "subject": "VERBAL_REASONING",
+    "title": "Logical Puzzles",
+    "description": "Short logic puzzles to solve step by step.",
+    "notes": "Put the clues together one at a time to work out the full order or answer.",
+    "examples": [
+      "Tom is taller than Sam, and Sam is taller than Ana, so Tom is the tallest."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Tom is taller than Sam. Sam is taller than Ana. Who is the tallest?",
+        "choices": [
+          "They're equal",
+          "Ana",
+          "Sam",
+          "Tom"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "Mia has more candy than Leo. Leo has more candy than Zoe. Who has the least?",
+        "choices": [
+          "Leo",
+          "Mia",
+          "Zoe",
+          "They're equal"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "The red ball is bigger than the blue ball. The blue ball is bigger than the green ball. Which is smallest?",
+        "choices": [
+          "The red ball",
+          "The green ball",
+          "The blue ball",
+          "They're equal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "If A is before B, and B is before C, what is the order?",
+        "choices": [
+          "A, B, C",
+          "C, B, A",
+          "B, A, C",
+          "A, C, B"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Tom is taller than Sam. Sam is taller than Ana. Who is the tallest?",
+        "choices": [
+          "Ana",
+          "Tom",
+          "They're equal",
+          "Sam"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q6",
+        "prompt": "Mia has more candy than Leo. Leo has more candy than Zoe. Who has the least?",
+        "choices": [
+          "They're equal",
+          "Mia",
+          "Zoe",
+          "Leo"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "The red ball is bigger than the blue ball. The blue ball is bigger than the green ball. Which is smallest?",
+        "choices": [
+          "They're equal",
+          "The red ball",
+          "The blue ball",
+          "The green ball"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "If A is before B, and B is before C, what is the order?",
+        "choices": [
+          "A, C, B",
+          "A, B, C",
+          "B, A, C",
+          "C, B, A"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "Tom is taller than Sam. Sam is taller than Ana. Who is the tallest?",
+        "choices": [
+          "Tom",
+          "Sam",
+          "They're equal",
+          "Ana"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Mia has more candy than Leo. Leo has more candy than Zoe. Who has the least?",
+        "choices": [
+          "They're equal",
+          "Zoe",
+          "Mia",
+          "Leo"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "The red ball is bigger than the blue ball. The blue ball is bigger than the green ball. Which is smallest?",
+        "choices": [
+          "The blue ball",
+          "The green ball",
+          "They're equal",
+          "The red ball"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "If A is before B, and B is before C, what is the order?",
+        "choices": [
+          "C, B, A",
+          "A, B, C",
+          "A, C, B",
+          "B, A, C"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "Tom is taller than Sam. Sam is taller than Ana. Who is the tallest?",
+        "choices": [
+          "Sam",
+          "Ana",
+          "They're equal",
+          "Tom"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q14",
+        "prompt": "Mia has more candy than Leo. Leo has more candy than Zoe. Who has the least?",
+        "choices": [
+          "Mia",
+          "Zoe",
+          "Leo",
+          "They're equal"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "The red ball is bigger than the blue ball. The blue ball is bigger than the green ball. Which is smallest?",
+        "choices": [
+          "They're equal",
+          "The red ball",
+          "The blue ball",
+          "The green ball"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q16",
+        "prompt": "If A is before B, and B is before C, what is the order?",
+        "choices": [
+          "C, B, A",
+          "A, B, C",
+          "A, C, B",
+          "B, A, C"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "Tom is taller than Sam. Sam is taller than Ana. Who is the tallest?",
+        "choices": [
+          "They're equal",
+          "Ana",
+          "Tom",
+          "Sam"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "Mia has more candy than Leo. Leo has more candy than Zoe. Who has the least?",
+        "choices": [
+          "Mia",
+          "They're equal",
+          "Leo",
+          "Zoe"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "The red ball is bigger than the blue ball. The blue ball is bigger than the green ball. Which is smallest?",
+        "choices": [
+          "The red ball",
+          "They're equal",
+          "The green ball",
+          "The blue ball"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "If A is before B, and B is before C, what is the order?",
+        "choices": [
+          "A, B, C",
+          "C, B, A",
+          "B, A, C",
+          "A, C, B"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "verbal-26",
+    "subject": "VERBAL_REASONING",
+    "title": "Everyday Reasoning",
+    "description": "Using logic in everyday situations.",
+    "notes": "Think about what would actually help you in that real-life situation.",
+    "examples": [
+      "It's raining outside, so you should take an umbrella."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "It is raining outside. What should you take with you?",
+        "choices": [
+          "Sunglasses",
+          "A swimsuit",
+          "Nothing",
+          "An umbrella"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q2",
+        "prompt": "It is very cold outside. What should you wear?",
+        "choices": [
+          "Shorts",
+          "A swimsuit",
+          "A warm coat",
+          "Sandals only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "You are thirsty. What should you do?",
+        "choices": [
+          "Run faster",
+          "Drink water",
+          "Go to sleep",
+          "Close your eyes"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "The traffic light is red. What should a car do?",
+        "choices": [
+          "Turn music up",
+          "Stop",
+          "Go faster",
+          "Honk repeatedly"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "It is raining outside. What should you take with you?",
+        "choices": [
+          "An umbrella",
+          "A swimsuit",
+          "Sunglasses",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "It is very cold outside. What should you wear?",
+        "choices": [
+          "Sandals only",
+          "A warm coat",
+          "A swimsuit",
+          "Shorts"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "You are thirsty. What should you do?",
+        "choices": [
+          "Close your eyes",
+          "Drink water",
+          "Run faster",
+          "Go to sleep"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q8",
+        "prompt": "The traffic light is red. What should a car do?",
+        "choices": [
+          "Honk repeatedly",
+          "Stop",
+          "Turn music up",
+          "Go faster"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "It is raining outside. What should you take with you?",
+        "choices": [
+          "A swimsuit",
+          "Sunglasses",
+          "An umbrella",
+          "Nothing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "It is very cold outside. What should you wear?",
+        "choices": [
+          "A swimsuit",
+          "Shorts",
+          "A warm coat",
+          "Sandals only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "You are thirsty. What should you do?",
+        "choices": [
+          "Go to sleep",
+          "Close your eyes",
+          "Run faster",
+          "Drink water"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "The traffic light is red. What should a car do?",
+        "choices": [
+          "Turn music up",
+          "Honk repeatedly",
+          "Stop",
+          "Go faster"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q13",
+        "prompt": "It is raining outside. What should you take with you?",
+        "choices": [
+          "Sunglasses",
+          "An umbrella",
+          "Nothing",
+          "A swimsuit"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "It is very cold outside. What should you wear?",
+        "choices": [
+          "A warm coat",
+          "A swimsuit",
+          "Shorts",
+          "Sandals only"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "You are thirsty. What should you do?",
+        "choices": [
+          "Close your eyes",
+          "Go to sleep",
+          "Drink water",
+          "Run faster"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "The traffic light is red. What should a car do?",
+        "choices": [
+          "Honk repeatedly",
+          "Go faster",
+          "Turn music up",
+          "Stop"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q17",
+        "prompt": "It is raining outside. What should you take with you?",
+        "choices": [
+          "An umbrella",
+          "A swimsuit",
+          "Sunglasses",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "It is very cold outside. What should you wear?",
+        "choices": [
+          "Shorts",
+          "Sandals only",
+          "A swimsuit",
+          "A warm coat"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q19",
+        "prompt": "You are thirsty. What should you do?",
+        "choices": [
+          "Run faster",
+          "Close your eyes",
+          "Drink water",
+          "Go to sleep"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "The traffic light is red. What should a car do?",
+        "choices": [
+          "Honk repeatedly",
+          "Go faster",
+          "Stop",
+          "Turn music up"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-27",
+    "subject": "VERBAL_REASONING",
+    "title": "Word Relationships",
+    "description": "Understanding how words connect to each other.",
+    "notes": "Some words have their own special name for a relationship, like a baby animal's name.",
+    "examples": [
+      "A baby cat is called a kitten."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A baby cat is called a...",
+        "choices": [
+          "Chick",
+          "Kitten",
+          "Puppy",
+          "Cub"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "A baby dog is called a...",
+        "choices": [
+          "Foal",
+          "Puppy",
+          "Cub",
+          "Kitten"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "A baby cow is called a...",
+        "choices": [
+          "Cub",
+          "Calf",
+          "Kitten",
+          "Puppy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "A group of fish is called a...",
+        "choices": [
+          "Herd",
+          "Pack",
+          "Flock",
+          "School"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "A baby cat is called a...",
+        "choices": [
+          "Chick",
+          "Puppy",
+          "Cub",
+          "Kitten"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q6",
+        "prompt": "A baby dog is called a...",
+        "choices": [
+          "Kitten",
+          "Cub",
+          "Puppy",
+          "Foal"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "A baby cow is called a...",
+        "choices": [
+          "Calf",
+          "Puppy",
+          "Cub",
+          "Kitten"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "A group of fish is called a...",
+        "choices": [
+          "School",
+          "Herd",
+          "Pack",
+          "Flock"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "A baby cat is called a...",
+        "choices": [
+          "Kitten",
+          "Puppy",
+          "Chick",
+          "Cub"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "A baby dog is called a...",
+        "choices": [
+          "Cub",
+          "Foal",
+          "Puppy",
+          "Kitten"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "A baby cow is called a...",
+        "choices": [
+          "Cub",
+          "Calf",
+          "Kitten",
+          "Puppy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "A group of fish is called a...",
+        "choices": [
+          "Flock",
+          "Herd",
+          "Pack",
+          "School"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q13",
+        "prompt": "A baby cat is called a...",
+        "choices": [
+          "Kitten",
+          "Puppy",
+          "Cub",
+          "Chick"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "A baby dog is called a...",
+        "choices": [
+          "Puppy",
+          "Foal",
+          "Kitten",
+          "Cub"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q15",
+        "prompt": "A baby cow is called a...",
+        "choices": [
+          "Calf",
+          "Puppy",
+          "Kitten",
+          "Cub"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "A group of fish is called a...",
+        "choices": [
+          "Pack",
+          "School",
+          "Herd",
+          "Flock"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q17",
+        "prompt": "A baby cat is called a...",
+        "choices": [
+          "Cub",
+          "Puppy",
+          "Kitten",
+          "Chick"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q18",
+        "prompt": "A baby dog is called a...",
+        "choices": [
+          "Puppy",
+          "Cub",
+          "Foal",
+          "Kitten"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "A baby cow is called a...",
+        "choices": [
+          "Puppy",
+          "Kitten",
+          "Cub",
+          "Calf"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q20",
+        "prompt": "A group of fish is called a...",
+        "choices": [
+          "School",
+          "Herd",
+          "Flock",
+          "Pack"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "verbal-28",
+    "subject": "VERBAL_REASONING",
+    "title": "Pattern Completion",
+    "description": "Completing patterns with the missing piece.",
+    "notes": "Figure out the rule behind the pattern, then use it to fill in the missing piece.",
+    "examples": [
+      "A, B, C, ___ - the next letter is D."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "A, B, C, ___?",
+        "choices": [
+          "D",
+          "F",
+          "C again",
+          "E"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "prompt": "Z, Y, X, ___?",
+        "choices": [
+          "V",
+          "Y again",
+          "A",
+          "W"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q3",
+        "prompt": "1, 3, 5, ___?",
+        "choices": [
+          "7",
+          "9",
+          "6",
+          "8"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "10, 8, 6, ___?",
+        "choices": [
+          "2",
+          "4",
+          "6 again",
+          "5"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "A, B, C, ___?",
+        "choices": [
+          "F",
+          "C again",
+          "D",
+          "E"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q6",
+        "prompt": "Z, Y, X, ___?",
+        "choices": [
+          "A",
+          "Y again",
+          "W",
+          "V"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q7",
+        "prompt": "1, 3, 5, ___?",
+        "choices": [
+          "9",
+          "8",
+          "6",
+          "7"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q8",
+        "prompt": "10, 8, 6, ___?",
+        "choices": [
+          "5",
+          "4",
+          "6 again",
+          "2"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q9",
+        "prompt": "A, B, C, ___?",
+        "choices": [
+          "D",
+          "E",
+          "C again",
+          "F"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "Z, Y, X, ___?",
+        "choices": [
+          "A",
+          "V",
+          "W",
+          "Y again"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q11",
+        "prompt": "1, 3, 5, ___?",
+        "choices": [
+          "7",
+          "8",
+          "6",
+          "9"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q12",
+        "prompt": "10, 8, 6, ___?",
+        "choices": [
+          "4",
+          "6 again",
+          "2",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "A, B, C, ___?",
+        "choices": [
+          "D",
+          "C again",
+          "F",
+          "E"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q14",
+        "prompt": "Z, Y, X, ___?",
+        "choices": [
+          "V",
+          "W",
+          "A",
+          "Y again"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q15",
+        "prompt": "1, 3, 5, ___?",
+        "choices": [
+          "6",
+          "9",
+          "7",
+          "8"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q16",
+        "prompt": "10, 8, 6, ___?",
+        "choices": [
+          "4",
+          "2",
+          "6 again",
+          "5"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "A, B, C, ___?",
+        "choices": [
+          "E",
+          "D",
+          "C again",
+          "F"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q18",
+        "prompt": "Z, Y, X, ___?",
+        "choices": [
+          "Y again",
+          "A",
+          "W",
+          "V"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q19",
+        "prompt": "1, 3, 5, ___?",
+        "choices": [
+          "9",
+          "7",
+          "8",
+          "6"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q20",
+        "prompt": "10, 8, 6, ___?",
+        "choices": [
+          "6 again",
+          "2",
+          "4",
+          "5"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "verbal-29",
+    "subject": "VERBAL_REASONING",
+    "title": "Reasoning with Clues",
+    "description": "Using given clues to find the answer.",
+    "notes": "Use each clue to narrow down the possible answers until only one is left.",
+    "examples": [
+      "Yellow, a fruit, and monkeys like it - it must be a banana."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "I am a fruit. I am yellow. Monkeys like me. What am I?",
+        "choices": [
+          "Grape",
+          "Banana",
+          "Apple",
+          "Carrot"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "I am an animal. I bark. I am a pet. What am I?",
+        "choices": [
+          "Bird",
+          "Dog",
+          "Fish",
+          "Cat"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "I am a shape. I have 3 sides. What am I?",
+        "choices": [
+          "Triangle",
+          "Circle",
+          "Square",
+          "Rectangle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "prompt": "I am a season. It is cold and snowy. What am I?",
+        "choices": [
+          "Autumn",
+          "Summer",
+          "Spring",
+          "Winter"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q5",
+        "prompt": "I am a fruit. I am yellow. Monkeys like me. What am I?",
+        "choices": [
+          "Banana",
+          "Apple",
+          "Carrot",
+          "Grape"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "I am an animal. I bark. I am a pet. What am I?",
+        "choices": [
+          "Cat",
+          "Dog",
+          "Bird",
+          "Fish"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q7",
+        "prompt": "I am a shape. I have 3 sides. What am I?",
+        "choices": [
+          "Triangle",
+          "Circle",
+          "Square",
+          "Rectangle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "prompt": "I am a season. It is cold and snowy. What am I?",
+        "choices": [
+          "Autumn",
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q9",
+        "prompt": "I am a fruit. I am yellow. Monkeys like me. What am I?",
+        "choices": [
+          "Banana",
+          "Apple",
+          "Carrot",
+          "Grape"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "prompt": "I am an animal. I bark. I am a pet. What am I?",
+        "choices": [
+          "Dog",
+          "Cat",
+          "Fish",
+          "Bird"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q11",
+        "prompt": "I am a shape. I have 3 sides. What am I?",
+        "choices": [
+          "Circle",
+          "Triangle",
+          "Square",
+          "Rectangle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q12",
+        "prompt": "I am a season. It is cold and snowy. What am I?",
+        "choices": [
+          "Spring",
+          "Winter",
+          "Autumn",
+          "Summer"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q13",
+        "prompt": "I am a fruit. I am yellow. Monkeys like me. What am I?",
+        "choices": [
+          "Grape",
+          "Banana",
+          "Carrot",
+          "Apple"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q14",
+        "prompt": "I am an animal. I bark. I am a pet. What am I?",
+        "choices": [
+          "Cat",
+          "Bird",
+          "Dog",
+          "Fish"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q15",
+        "prompt": "I am a shape. I have 3 sides. What am I?",
+        "choices": [
+          "Rectangle",
+          "Triangle",
+          "Square",
+          "Circle"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q16",
+        "prompt": "I am a season. It is cold and snowy. What am I?",
+        "choices": [
+          "Autumn",
+          "Spring",
+          "Winter",
+          "Summer"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q17",
+        "prompt": "I am a fruit. I am yellow. Monkeys like me. What am I?",
+        "choices": [
+          "Banana",
+          "Grape",
+          "Carrot",
+          "Apple"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "I am an animal. I bark. I am a pet. What am I?",
+        "choices": [
+          "Dog",
+          "Bird",
+          "Cat",
+          "Fish"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "I am a shape. I have 3 sides. What am I?",
+        "choices": [
+          "Triangle",
+          "Square",
+          "Circle",
+          "Rectangle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q20",
+        "prompt": "I am a season. It is cold and snowy. What am I?",
+        "choices": [
+          "Autumn",
+          "Winter",
+          "Summer",
+          "Spring"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "verbal-30",
+    "subject": "VERBAL_REASONING",
+    "title": "Mixed Review: Year-End Challenge",
+    "description": "A mix of odd-one-out, analogies, sequences, and logic from across the year.",
+    "notes": "This module mixes odd-one-out, analogies, sequences, and logic questions from across the whole year.",
+    "examples": [
+      "Think about which strategy fits each question before you answer."
+    ],
+    "ageMin": 7,
+    "ageMax": 9,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which word doesn't belong: Apple, Banana, Carrot, Grape?",
+        "choices": [
+          "Banana",
+          "Apple",
+          "Carrot",
+          "Grape"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Bird is to Sky as Fish is to ___?",
+        "choices": [
+          "Tree",
+          "Road",
+          "Water",
+          "House"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q3",
+        "prompt": "What comes next: 2, 4, 6, ___?",
+        "choices": [
+          "7",
+          "9",
+          "8",
+          "10"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "All cats are animals. Is a cat an animal?",
+        "choices": [
+          "Yes",
+          "Sometimes",
+          "No",
+          "Not sure"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "What is the opposite of 'hot'?",
+        "choices": [
+          "Cold",
+          "Big",
+          "Fast",
+          "Loud"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "prompt": "Which is bigger: an elephant or a mouse?",
+        "choices": [
+          "An elephant",
+          "They're equal",
+          "A mouse",
+          "Neither"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "prompt": "A baby dog is called a...",
+        "choices": [
+          "Cub",
+          "Kitten",
+          "Puppy",
+          "Chick"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q8",
+        "prompt": "If it is raining, what should you take?",
+        "choices": [
+          "An umbrella",
+          "A swimsuit",
+          "Sunglasses",
+          "Nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "prompt": "Fill in the blank: The sky is ___ on a clear day.",
+        "choices": [
+          "green",
+          "purple",
+          "blue",
+          "black"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q10",
+        "prompt": "True or False: A triangle has 4 sides.",
+        "choices": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "id": "q11",
+        "prompt": "Which word doesn't belong: Apple, Banana, Carrot, Grape?",
+        "choices": [
+          "Banana",
+          "Grape",
+          "Apple",
+          "Carrot"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q12",
+        "prompt": "Bird is to Sky as Fish is to ___?",
+        "choices": [
+          "Water",
+          "Road",
+          "House",
+          "Tree"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q13",
+        "prompt": "What comes next: 2, 4, 6, ___?",
+        "choices": [
+          "7",
+          "10",
+          "8",
+          "9"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q14",
+        "prompt": "All cats are animals. Is a cat an animal?",
+        "choices": [
+          "Not sure",
+          "No",
+          "Sometimes",
+          "Yes"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "q15",
+        "prompt": "What is the opposite of 'hot'?",
+        "choices": [
+          "Cold",
+          "Big",
+          "Fast",
+          "Loud"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q16",
+        "prompt": "Which is bigger: an elephant or a mouse?",
+        "choices": [
+          "An elephant",
+          "They're equal",
+          "A mouse",
+          "Neither"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q17",
+        "prompt": "A baby dog is called a...",
+        "choices": [
+          "Puppy",
+          "Chick",
+          "Cub",
+          "Kitten"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q18",
+        "prompt": "If it is raining, what should you take?",
+        "choices": [
+          "An umbrella",
+          "A swimsuit",
+          "Nothing",
+          "Sunglasses"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q19",
+        "prompt": "Fill in the blank: The sky is ___ on a clear day.",
+        "choices": [
+          "black",
+          "purple",
+          "blue",
+          "green"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "q20",
+        "prompt": "True or False: A triangle has 4 sides.",
+        "choices": [
+          "False",
+          "True"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  }
+]
